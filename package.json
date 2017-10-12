@@ -1,0 +1,11 @@
+{
+  "name": "alfa-ui-primitives",
+  "version": "0.1.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teryaew/alfa-ui-primitives.git"
+  },
+  "author": "Mitya Teryaew <mitya.teryaew@gmail.com> (https://github.com/teryaew)",
+  "license": "MIT"
+}
