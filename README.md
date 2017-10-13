@@ -6,7 +6,9 @@ A set of primitives for UI libraries in Alfa-Bank projects. Web, iOS, Android.
 ## Contents
 
 [x] Colors
+
 [ ] Icons
+
 [ ] Typography
 
 
