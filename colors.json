@@ -47,7 +47,7 @@
   "red_dark": "#d91d0b",
   "green_done": "#0dba26",
   "green_delta": "#5fa50d",
-  "yellow_warning": "#fce333",
+  "warning": "#fce333",
   "black": "#000000",
   "black_95": "#f2000000",
   "black_90": "#e6000000",
