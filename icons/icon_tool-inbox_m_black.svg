@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_tool-inbox_m_black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_tool-inbox_m_black">
+            <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+            <g id="Group-2" transform="translate(1.500000, 0.000000)" fill-rule="nonzero" fill="#0B1F35">
+                <path d="M18.5,23 L2.5,23 C1.1,23 0,21.9 0,20.5 L0,8.5 C0,7.7 0.7,7 1.5,7 L4,7 L4,8 L1.5,8 C1.2,8 1,8.2 1,8.5 L1,20.5 C1,21.3 1.7,22 2.5,22 L18.5,22 C19.3,22 20,21.3 20,20.5 L20,8.5 C20,8.2 19.8,8 19.5,8 L17,8 L17,7 L19.5,7 C20.3,7 21,7.7 21,8.5 L21,20.5 C21,21.9 19.9,23 18.5,23 Z" id="Shape"></path>
+                <path d="M0.5,22 L0.5,16 L8,16 L8,16.5 C8,17.9 9.1,19 10.5,19 C11.9,19 13,17.9 13,16.5 L13,16 L20.5,16 L20.5,22 L0.5,22 Z" id="Shape" opacity="0.2"></path>
+                <polygon id="Shape" points="11 10.8 11 0 10 0 10 10.8 6.9 7.6 6.1 8.4 10.5 12.7 14.9 8.4 14.1 7.6"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
