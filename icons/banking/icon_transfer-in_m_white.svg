@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_transfer-in_m__white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_transfer-in_m__white">
+            <g>
+                <rect id="_ph_" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <path d="M4.00419281,5.14724961 C2.14594306,7.04142615 1,9.6368884 1,12.5 C1,18.2989899 5.70101013,23 11.5,23 C17.2989899,23 22,18.2989899 22,12.5 C22,9.81437436 20.9917286,7.36424312 19.333074,5.50749441 L18.6099605,6.19916819 C20.0970271,7.8759588 21,10.0825291 21,12.5 C21,17.7467051 16.7467051,22 11.5,22 C6.25329488,22 2,17.7467051 2,12.5 C2,9.92139848 3.02735526,7.58274864 4.69508003,5.87103622 L4.00419281,5.14724961 L4.00419281,5.14724961 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                <polygon id="Arrow" fill="#FFFFFF" opacity="0.900000036" points="15.1818182 9.9 12.0113636 13 12.0113636 1 10.9886364 1 10.9886364 13 7.81818182 9.9 7 10.6 11.5 15 16 10.6"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

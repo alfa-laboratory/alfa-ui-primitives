@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_bank-saint-petersburg_xl_color</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_bank-saint-petersburg_xl_color">
+            <g>
+                <rect id="_ph_" opacity="0" x="0" y="0" width="36" height="36"></rect>
+                <circle id="Oval" fill="#DE3934" fill-rule="nonzero" cx="18" cy="11" r="9"></circle>
+                <path d="M27,25.464 C26.993,23.532 22.96,21.982 17.991,22 C13.019,22.02 8.995,23.604 9,25.54 C9.004,27.47 13.04,29.02 18.011,29 C22.981,28.981 27.005,27.398 27,25.464 Z" id="Shape" fill="#DE3934" fill-rule="nonzero"></path>
+                <path d="M27,32.485 C27.005,33.314 22.981,33.993 18.011,34 C13.04,34.008 9.004,33.344 9,32.517 C8.995,31.687 13.019,31.008 17.991,31 C22.96,30.992 26.993,31.656 27,32.485 L27,32.485 Z" id="Shape" fill="#DE3934" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
