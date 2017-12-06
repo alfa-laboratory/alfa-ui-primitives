@@ -1,17 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
-    <title>icon_bank-saint-petersburg_l_color</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="icon_bank-saint-petersburg_l_color">
-            <g>
-                <rect id="_ph_" opacity="0" x="0" y="0" width="30" height="30"></rect>
-                <circle id="Oval" fill="#DE3934" fill-rule="nonzero" cx="15" cy="9" r="8"></circle>
-                <path d="M14.992,19 C10.573,19.014 6.995,20.145 7,21.528 C7.004,22.907 10.591,24.013 15.01,23.999 C19.427,23.986 23.005,22.855 23,21.473 C22.994,20.094 19.409,18.987 14.992,19 Z" id="Shape" fill="#DE3934" fill-rule="nonzero"></path>
-                <path d="M23,26.99 C23.005,27.542 19.427,27.995 15.01,28 C10.592,28.006 7.004,27.563 7,27.011 C6.995,26.458 10.573,26.005 14.992,26 C19.409,25.995 22.994,26.437 23,26.99 Z" id="Shape" fill="#DE3934" fill-rule="nonzero"></path>
-            </g>
-        </g>
-    </g>
+<svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#DE3934" fill-rule="nonzero">
+    <circle cx="15" cy="9" r="8"/>
+    <path d="M14.992 19c-4.42.014-7.997 1.145-7.992 2.528.004 1.38 3.59 2.485 8.01 2.47 4.417-.012 7.995-1.143 7.99-2.525-.006-1.38-3.59-2.486-8.008-2.473zM23 26.99c.005.552-3.573 1.005-7.99 1.01-4.418.006-8.006-.437-8.01-.99-.005-.552 3.573-1.005 7.992-1.01 4.417-.005 8.002.437 8.008.99z"/>
+  </g>
 </svg>
