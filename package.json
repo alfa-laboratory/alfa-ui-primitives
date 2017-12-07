@@ -15,6 +15,17 @@
   },
   "author": "Alfa Boys",
   "license": "MPL-2.0",
+  "scripts": {
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
+    "commitmsg": "commitlint -e",
+    "postversion": "git push origin master && git push --tags && npm run pub",
+    "precommit": "./utils/precommit.js",
+    "pub": "./utils/publish.sh",
+    "release-patch": "npm version patch -m 'chore(*): patch version'",
+    "release-minor": "npm version minor -m 'chore(*): minor version'",
+    "release-major": "npm version major -m 'chore(*): major version'",
+    "version": "git fetch --tags && npm run changelog && git add CHANGELOG.md"
+  },
   "devDependencies": {
     "@commitlint/cli": "5.2.0",
     "@commitlint/config-conventional": "5.1.3",

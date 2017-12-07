@@ -1,3 +1,6 @@
 module.exports = {
-    extends: ['arui-presets/commitlint']
+    extends: ['@commitlint/config-conventional'],
+    rules: {
+        'scope-empty': [2, 'never']
+    }
 };
