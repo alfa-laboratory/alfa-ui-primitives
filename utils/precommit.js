@@ -23,7 +23,7 @@ getGitCachedFiles('*.svg')
             throw `Error! Incorrect file name for ${file}. It must follow the pattern 'icon_name_size_theme.svg'.`;
         }
 
-        exec(`./node_modules/.bin/svgo ${path.resolve(file)}`, { stdio: 'inherit' });
+        exec(`./node_modules/.bin/svgo --disable removeViewBox ${path.resolve(file)}`, { stdio: 'inherit' });
         exec('git add .');
     }
 );
