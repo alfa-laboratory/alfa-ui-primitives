@@ -7,7 +7,7 @@
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="add_new_card">
             <rect id="ph" x="0" y="0" width="24" height="24"></rect>
-            <g id="Group-13" transform="translate(1.000000, 4.000000)" fill="#0B1F35" fill-rule="nonzero">
+            <g id="Group-13" transform="translate(1.000000, 4.000000)" fill="#FFFFFF" fill-rule="nonzero">
                 <polygon id="Shape-Copy" points="21 17 21 15 23 15 23 14 21 14 21 12 20 12 20 14 18 14 18 15 20 15 20 17"></polygon>
                 <rect id="shape" opacity="0.300000012" x="1" y="4" width="19" height="2"></rect>
                 <rect id="rect" opacity="0.300000012" x="4" y="9" width="4" height="2"></rect>
