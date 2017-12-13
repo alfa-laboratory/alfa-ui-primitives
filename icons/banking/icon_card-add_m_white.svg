@@ -1,14 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
-    <title>icon_card-add_m_white</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="icon_card-add_m_white">
-            <rect id="ph" x="0" y="0" width="24" height="24"></rect>
-            <path d="M2,17.9998938 C2,18.5563689 2.44247385,19 2.991155,19 L21.008845,19 C21.556274,19 22,18.5540013 22,17.9998938 L22,5.00010618 C22,4.44363109 21.5575261,4 21.008845,4 L2.991155,4 C2.44372603,4 2,4.44599874 2,5.00010618 L2,17.9998938 Z M2.991155,3 L21.008845,3 C22.1085295,3 23,3.89005841 23,5.00010618 L23,17.9998938 C23,19.104522 22.1103261,20 21.008845,20 L2.991155,20 C1.89147046,20 1,19.1099416 1,17.9998938 L1,5.00010618 C1,3.89547804 1.88967395,3 2.991155,3 Z" id="Rectangle-2" fill="#FFFFFF" fill-rule="nonzero"></path>
-            <polygon id="Shape-Copy" fill="#FFFFFF" fill-rule="nonzero" points="12.5 15 12.5 12 15.5 12 15.5 11 12.5 11 12.5 8 11.5 8 11.5 11 8.5 11 8.5 12 11.5 12 11.5 15"></polygon>
-        </g>
-    </g>
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" fill-rule="evenodd">
+    <path d="M0 0h24v24H0z"/>
+    <path d="M2 18c0 .556.442 1 .991 1H21.01A.995.995 0 0 0 22 18V5c0-.556-.442-1-.991-1H2.99A.995.995 0 0 0 2 5v13zm.991-15H21.01C22.109 3 23 3.89 23 5v13c0 1.105-.89 2-1.991 2H2.99C1.891 20 1 19.11 1 18V5c0-1.105.89-2 1.991-2z" fill="#FFF" fill-rule="nonzero"/>
+    <path fill="#FFF" fill-rule="nonzero" d="M12.5 15v-3h3v-1h-3V8h-1v3h-3v1h3v3z"/>
+  </g>
 </svg>
