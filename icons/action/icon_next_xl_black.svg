@@ -8,7 +8,7 @@
         <g id="icon_next_xl_black">
             <g id="Layer_2">
                 <rect id="ph_18_" x="0" y="0" width="36" height="36"></rect>
-                <g id="arrow" transform="translate(4.500000, 9.000000)" stroke="#0F2338" stroke-linecap="square">
+                <g id="arrow" transform="translate(4.500000, 9.000000)" stroke="#0B1F35" stroke-linecap="square">
                     <path d="M0.75,9 L25.75,9" id="Line"></path>
                     <path d="M18.25,9.02868652 L26.8259277,17.75" id="Line-2" transform="translate(22.537964, 13.389343) scale(1, -1) translate(-22.537964, -13.389343) "></path>
                     <path d="M18.25,0.25 L26.7709961,8.95800781" id="Line-2"></path>
