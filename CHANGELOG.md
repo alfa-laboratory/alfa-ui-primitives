@@ -1,3 +1,19 @@
+<a name="0.6.0"></a>
+# [0.6.0](https://github.com/teryaew/alfa-ui-primitives/compare/v0.5.0...v0.6.0) (2017-12-19)
+
+
+### Bug Fixes
+
+* **icons:** minify-icon-next ([#18](https://github.com/teryaew/alfa-ui-primitives/issues/18)) ([0c346fc](https://github.com/teryaew/alfa-ui-primitives/commit/0c346fc))
+
+
+### Features
+
+* **colours:** add grey colours ([cb1aad2](https://github.com/teryaew/alfa-ui-primitives/commit/cb1aad2))
+* **icons:** add icon-next ([bda464a](https://github.com/teryaew/alfa-ui-primitives/commit/bda464a))
+
+
+
 <a name="0.5.0"></a>
 # [0.5.0](https://github.com/teryaew/alfa-ui-primitives/compare/v0.3.1...v0.5.0) (2017-12-14)
 
