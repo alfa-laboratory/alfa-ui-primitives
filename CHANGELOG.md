@@ -1,3 +1,13 @@
+<a name="0.9.0"></a>
+# [0.9.0](https://github.com/teryaew/alfa-ui-primitives/compare/v0.8.0...v0.9.0) (2017-12-29)
+
+
+### Features
+
+* **icons:** remake check bold ([#23](https://github.com/teryaew/alfa-ui-primitives/issues/23)) ([2763204](https://github.com/teryaew/alfa-ui-primitives/commit/2763204))
+
+
+
 <a name="0.8.0"></a>
 # [0.8.0](https://github.com/teryaew/alfa-ui-primitives/compare/v0.7.0...v0.8.0) (2017-12-29)
 
