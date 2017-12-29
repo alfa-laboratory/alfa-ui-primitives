@@ -1,3 +1,15 @@
+<a name="0.8.0"></a>
+# [0.8.0](https://github.com/teryaew/alfa-ui-primitives/compare/v0.7.0...v0.8.0) (2017-12-29)
+
+
+### Features
+
+* **colours:** add corporate bg ([eb4c02d](https://github.com/teryaew/alfa-ui-primitives/commit/eb4c02d))
+* **icons:** add erase icon ([c6cce44](https://github.com/teryaew/alfa-ui-primitives/commit/c6cce44))
+* **icons:** add indeterminate icon ([#22](https://github.com/teryaew/alfa-ui-primitives/issues/22)) ([dc9ae71](https://github.com/teryaew/alfa-ui-primitives/commit/dc9ae71))
+
+
+
 <a name="0.7.0"></a>
 # [0.7.0](https://github.com/teryaew/alfa-ui-primitives/compare/v0.5.0...v0.7.0) (2017-12-19)
 
