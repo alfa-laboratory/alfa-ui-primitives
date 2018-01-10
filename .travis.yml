@@ -5,17 +5,14 @@ language: node_js
 node_js:
   - "8.9.1"
 
-before_install:
-  - npm i -g greenkeeper-lockfile@1
-
 install:
   - npm i
 
-before_script:
-  - greenkeeper-lockfile-update
-
 script:
-  # - npm run validate
+  - ./utils/process-svg.ci.bin.js
 
-after_script:
-  - greenkeeper-lockfile-upload
+after_success:
+  - |
+    if [ "${TRAVIS_BRANCH}" == "master" ] && [ -n "${TRAVIS_TAG}" ]; then
+      npm run github-release;
+    fi
