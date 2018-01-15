@@ -1,3 +1,28 @@
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/teryaew/alfa-ui-primitives/compare/v0.9.0...v1.0.0) (2018-01-15)
+
+
+### Bug Fixes
+
+* **business-icon:** fix stroke in business icon ([#24](https://github.com/teryaew/alfa-ui-primitives/issues/24)) ([d6e5aa8](https://github.com/teryaew/alfa-ui-primitives/commit/d6e5aa8))
+* **icon:** fix filter icon & add grey colors ([3079657](https://github.com/teryaew/alfa-ui-primitives/commit/3079657))
+* **icons:** fix check-bold, add xxl ([c25f6b2](https://github.com/teryaew/alfa-ui-primitives/commit/c25f6b2))
+* **icons:** fix house icon ([#25](https://github.com/teryaew/alfa-ui-primitives/issues/25)) ([cb18fd3](https://github.com/teryaew/alfa-ui-primitives/commit/cb18fd3))
+* **icons:** fix naming filled ([c47530a](https://github.com/teryaew/alfa-ui-primitives/commit/c47530a))
+* **icons:** fix troika icon ([#26](https://github.com/teryaew/alfa-ui-primitives/issues/26)) ([966f45d](https://github.com/teryaew/alfa-ui-primitives/commit/966f45d))
+* **icons:** remove alfa-check dublicate ([#28](https://github.com/teryaew/alfa-ui-primitives/issues/28)) ([38f9522](https://github.com/teryaew/alfa-ui-primitives/commit/38f9522))
+* **icons:** remove lock dublicates, fix sizes & icon ([#29](https://github.com/teryaew/alfa-ui-primitives/issues/29)) ([848abaa](https://github.com/teryaew/alfa-ui-primitives/commit/848abaa))
+* **icons:** remove user dublicate & fix user ([b2ec10a](https://github.com/teryaew/alfa-ui-primitives/commit/b2ec10a))
+* **icons:** rename transit to transport ([#27](https://github.com/teryaew/alfa-ui-primitives/issues/27)) ([d0e9db4](https://github.com/teryaew/alfa-ui-primitives/commit/d0e9db4))
+* **verifying:** remove dublicates, fix m size icon ([#33](https://github.com/teryaew/alfa-ui-primitives/issues/33)) ([90c65e0](https://github.com/teryaew/alfa-ui-primitives/commit/90c65e0))
+
+
+### Features
+
+* **icons:** add predictions ([f1bcff4](https://github.com/teryaew/alfa-ui-primitives/commit/f1bcff4))
+
+
+
 <a name="0.9.0"></a>
 # [0.9.0](https://github.com/teryaew/alfa-ui-primitives/compare/v0.8.0...v0.9.0) (2017-12-29)
 
