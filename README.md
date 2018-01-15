@@ -1,4 +1,7 @@
-# Alfa-Bank UI Primitives
+# Alfa-Bank UI Primitives [![travis][travis-img]][travis]
+
+[travis]:          https://travis-ci.org/alfa-laboratory/alfa-ui-primitives?branch=master
+[travis-img]:      https://img.shields.io/travis/alfa-laboratory/alfa-ui-primitives/master.svg?label=unix
 
 A set of primitives for UI libraries in Alfa-Bank projects. Web, iOS, Android.
 
