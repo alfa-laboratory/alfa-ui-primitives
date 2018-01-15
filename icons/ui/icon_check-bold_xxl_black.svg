@@ -1,13 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
-    <title>Slice</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="icon_check-bold_xxl_black">
-            <rect id="Rectangle" opacity="0" x="0" y="0" width="48" height="48"></rect>
-            <polygon id="Shape" fill="#0B1F35" fill-rule="nonzero" points="35.415 10.8655 38.627 13.2495 20.906 37.1345 9.373 22.7175 12.496 20.2185 20.786 30.5815"></polygon>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#0B1F35" fill-rule="nonzero" d="M35.415 10.866l3.212 2.383-17.721 23.886L9.373 22.718l3.123-2.5 8.29 10.363z"/>
 </svg>
