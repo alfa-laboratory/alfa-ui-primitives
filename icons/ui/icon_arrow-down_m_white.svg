@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><path fill="#FFF" d="M24 7.087l-1.082-.973L12 15.941 1.082 6.114 0 7.087l12 10.799z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_arrow-down_m_black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-22.000000, -65.000000)" id="arrow-down">
+            <g transform="translate(0.000000, 65.000000)">
+                <g id="Group-2" transform="translate(22.000000, 0.000000)">
+                    <polygon id="Fill-4" points="0 24 24 24 24 0 0 0"></polygon>
+                    <polygon id="Stroke-3" fill="#FFFFFF" fill-rule="nonzero" points="16.0744091 9.64648411 16.7815909 10.3535159 11.714 15.4221818 6.64640912 10.3535159 7.35359088 9.64648411 11.714 14.0078182"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
