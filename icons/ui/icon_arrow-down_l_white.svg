@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
-    <title>icon_arrow-down_l_black</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g transform="translate(-51.000000, -65.000000)" id="arrow-down">
-            <g transform="translate(0.000000, 65.000000)">
-                <g id="Group-3" transform="translate(51.000000, 0.000000)">
-                    <polygon id="Fill-6" points="0 30 30 30 30 0 0 0"></polygon>
-                    <polygon id="Stroke-5" fill="#FFFFFF" fill-rule="nonzero" points="14.89203 17.1858632 20.4314466 11.6464466 21.1385534 12.3535534 14.89197 18.6001368 8.64641661 12.3535234 9.35358339 11.6464766"></polygon>
-                </g>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg"><title>icon_arrow-down_l_black</title><g fill="none" fill-rule="evenodd"><path d="M0 30h30V0H0z"/><path fill="#FFF" fill-rule="nonzero" d="M14.892 17.186l5.54-5.54.707.708-6.247 6.246-6.246-6.246.708-.708z"/></g></svg>
