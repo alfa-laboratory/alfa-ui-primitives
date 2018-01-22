@@ -1,3 +1,13 @@
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.1.0...v1.2.0) (2018-01-22)
+
+
+### Features
+
+* **icons:** add ui arrow up, left, right icons ([#43](https://github.com/teryaew/alfa-ui-primitives/issues/43)) ([3533170](https://github.com/teryaew/alfa-ui-primitives/commit/3533170))
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.0.0...v1.1.0) (2018-01-22)
 
