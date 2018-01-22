@@ -1,3 +1,14 @@
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.0.0...v1.1.0) (2018-01-22)
+
+
+### Features
+
+* **arrow-down:** fix s & m, add l, xl & xxl ([#41](https://github.com/teryaew/alfa-ui-primitives/issues/41)) ([ced07f0](https://github.com/teryaew/alfa-ui-primitives/commit/ced07f0))
+* **icons:** add & fix m size icons ([85e117b](https://github.com/teryaew/alfa-ui-primitives/commit/85e117b))
+
+
+
 <a name="1.0.0"></a>
 # [1.0.0](https://github.com/teryaew/alfa-ui-primitives/compare/v0.9.0...v1.0.0) (2018-01-15)
 
