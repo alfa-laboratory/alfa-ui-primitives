@@ -1,0 +1,18 @@
+dist: trusty
+
+language: node_js
+
+node_js:
+  - "8.9.1"
+
+install:
+  - npm i
+
+script:
+  - ./utils/process-svg.ci.bin.js
+
+after_success:
+  - |
+    if [ "${TRAVIS_BRANCH}" == "master" ] && [ -n "${TRAVIS_TAG}" ]; then
+      npm run github-release;
+    fi
