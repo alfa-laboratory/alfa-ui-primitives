@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
-    <title>icon_preloader-logo_xxl_color</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="icon_preloader-logo_xxl_color">
-            <polygon id="Shape" points="0 0 48 0 48 48 0 48"></polygon>
-            <circle id="Oval" fill="#EC342E" fill-rule="nonzero" cx="24" cy="24" r="20"></circle>
-            <path d="M18,31 C18.0025797,30.9522344 18.0240662,30.9074601 18.059715,30.8755638 C18.0953638,30.8436675 18.1422426,30.8272729 18.19,30.83 L29.82,30.83 C29.9156334,30.8298523 29.9946871,30.9045141 30,31 L30,32.86 C29.9946871,32.9554859 29.9156334,33.0301477 29.82,33.03 L18.19,33.03 C18.1422426,33.0327271 18.0953638,33.0163325 18.059715,32.9844362 C18.0240662,32.9525399 18.0025797,32.9077656 18,32.86 L18,31 Z M25.92,16.78 L29.43,26.13 C29.4492102,26.1762751 29.4482633,26.228463 29.4273872,26.2740108 C29.4065112,26.3195586 29.3675952,26.354344 29.32,26.37 L27.41,27.09 C27.3164603,27.117847 27.2170363,27.0702964 27.18,26.98 C27.18,26.89 26.51,24.9 26.43,24.68 L21.55,24.68 L20.69,27 C20.6741491,27.0451327 20.6409853,27.0820998 20.5978315,27.1027386 C20.5546777,27.1233773 20.5050835,27.1259901 20.46,27.11 L18.55,26.39 C18.5024048,26.374344 18.4634888,26.3395586 18.4426128,26.2940108 C18.4217367,26.248463 18.4207898,26.1962751 18.44,26.15 L22,16.76 C22.32,15.9 22.73,15 24,15 C25.27,15 25.59,15.88 25.92,16.76 L25.92,16.78 Z M22.28,22.66 L25.59,22.66 L23.94,17.87 L22.28,22.66 Z" id="Shape-2" fill="#FFFFFF" fill-rule="nonzero"></path>
-        </g>
-    </g>
-</svg>
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><defs><style>.cls-1{fill:none;}.cls-2{fill:#ec342e;}.cls-3{fill:#fff;}</style></defs><title>icon_preloader-logo_xxl_color</title><g id="Page-1"><g id="icon_preloader-logo_xxl_color" data-name="icon preloader-logo xxl color"><polygon id="Shape" class="cls-1" points="0 0 48 0 48 48 0 48 0 0"/><circle id="Oval" class="cls-2" cx="24" cy="24" r="20"/><path id="Shape-2" data-name="Shape" class="cls-3" d="M18,31a.18.18,0,0,1,.19-.17H29.82A.18.18,0,0,1,30,31v1.86a.18.18,0,0,1-.18.17H18.19a.18.18,0,0,1-.19-.17Zm7.92-14.22,3.51,9.35a.18.18,0,0,1-.11.24l-1.91.72a.19.19,0,0,1-.23-.11c0-.09-.67-2.08-.75-2.3H21.55L20.69,27a.18.18,0,0,1-.23.11l-1.91-.72a.18.18,0,0,1-.11-.24L22,16.76c.32-.86.73-1.76,2-1.76S25.59,15.88,25.92,16.76Zm-3.64,5.88h3.31l-1.65-4.79h0Z"/></g></g></svg>
