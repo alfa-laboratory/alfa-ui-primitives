@@ -1,3 +1,13 @@
+<a name="1.3.1"></a>
+## [1.3.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.3.0...v1.3.1) (2018-02-07)
+
+
+### Bug Fixes
+
+* **icons:** add missing width & height ([#63](https://github.com/teryaew/alfa-ui-primitives/issues/63)) ([687f063](https://github.com/teryaew/alfa-ui-primitives/commit/687f063))
+
+
+
 <a name="1.3.0"></a>
 # [1.3.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.2.0...v1.3.0) (2018-02-07)
 
