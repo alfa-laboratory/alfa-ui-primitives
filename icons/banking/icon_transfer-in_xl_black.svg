@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36"><defs><path id="a" d="M36 .6L16.714 18.37 0 .6v33h36z"/></defs><g fill="none" fill-rule="evenodd"><g transform="translate(0 2.4)"><mask id="b" fill="#0B1F35"><use xlink:href="#a"/></mask><circle cx="17.5" cy="16.1" r="16" stroke="#0B1F35" mask="url(#b)"/></g><path fill="#0B1F35" d="M24 16.6l-.815-.7L18.01 21V5h-1.018v16l-5.176-5.1-.815.7 6.5 6.4z" opacity=".9"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="31px" viewBox="0 0 33 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_transfer-in_xl_black</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="36 0.6 16.714 18.37 0 0.6 0 33.6 36 33.6"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_transfer-in_xl_black" transform="translate(-1.000000, -3.000000)">
+            <g id="Group" transform="translate(0.000000, 1.000000)">
+                <g id="Clipped">
+                    <g id="Oval-Clipped">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="path-1"></g>
+                        <circle id="Oval" stroke="#0B1F35" mask="url(#mask-2)" cx="17.5" cy="16.1" r="16"></circle>
+                    </g>
+                </g>
+                <polygon id="Shape" fill="#0B1F35" fill-rule="nonzero" points="24 14.2 23.185 13.5 18.01 18.6 18.01 2.6 16.992 2.6 16.992 18.6 11.816 13.5 11.001 14.2 17.501 20.6"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

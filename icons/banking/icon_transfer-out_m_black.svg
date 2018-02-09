@@ -1,6 +1,15 @@
-<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-  <g fill="#0B1F35" fill-rule="evenodd">
-    <path d="M2.683 6.797C1.618 8.44 1 10.397 1 12.5 1 18.3 5.7 23 11.5 23S22 18.3 22 12.5c0-1.89-.5-3.66-1.37-5.192l-.746.72C20.596 9.363 21 10.885 21 12.5c0 5.247-4.253 9.5-9.5 9.5S2 17.747 2 12.5c0-1.814.51-3.51 1.39-4.952l-.707-.75z"/>
-    <path opacity=".9" d="M7 5.4l.818.7 3.17-3.1v11h1.023V3l3.172 3.1.818-.7L11.5 1"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="22px" viewBox="0 0 21 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_transfer-out_m_black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_transfer-out_m_black" transform="translate(-1.000000, -1.000000)" fill="#0B1F35" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(1.000000, 1.000000)">
+                <path d="M1.683,5.797 C0.618,7.44 0,9.397 0,11.5 C0,17.3 4.7,22 10.5,22 C16.3,22 21,17.3 21,11.5 C21,9.61 20.5,7.84 19.63,6.308 L18.884,7.028 C19.596,8.363 20,9.885 20,11.5 C20,16.747 15.747,21 10.5,21 C5.253,21 1,16.747 1,11.5 C1,9.686 1.51,7.99 2.39,6.548 L1.683,5.798 L1.683,5.797 Z" id="Shape"></path>
+                <polyline id="Shape" points="6 4.4 6.818 5.1 9.988 2 9.988 13 11.011 13 11.011 2 14.183 5.1 15.001 4.4 10.5 0"></polyline>
+            </g>
+        </g>
+    </g>
 </svg>
