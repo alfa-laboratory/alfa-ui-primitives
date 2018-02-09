@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30"><defs><path id="a" d="M30 0L13.929 15.077 0 0v28h30z"/></defs><g fill="none" fill-rule="evenodd"><g transform="translate(0 2)"><mask id="b" fill="#0B1F35"><use xlink:href="#a"/></mask><circle cx="14.5" cy="13.5" r="13" stroke="#0B1F35" mask="url(#b)"/></g><path fill="#0B1F35" d="M19.8 13.6l-.8-.7-4.1 4.1V4h-1v13l-4.1-4.1-.8.7 5.4 5.4z" opacity=".9"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="25px" viewBox="0 0 27 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_transfer-in_l_black</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="30 0 13.929 15.077 0 0 0 28 30 28"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_transfer-in_l_black" transform="translate(-1.000000, -3.000000)">
+            <rect id="Rectangle" x="0" y="0" width="30" height="30"></rect>
+            <g id="Oval-Clipped" transform="translate(0.000000, 1.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="path-1"></g>
+                <circle id="Oval" stroke="#0B1F35" mask="url(#mask-2)" cx="14.5" cy="13.5" r="13"></circle>
+            </g>
+            <polygon id="Shape" fill="#0B1F35" fill-rule="nonzero" points="20 12.6 19.1851852 11.9 15.0092593 16 15.0092593 3 13.9907407 3 13.9907407 16 9.81481481 11.9 9 12.6 14.5 18"></polygon>
+        </g>
+    </g>
+</svg>
