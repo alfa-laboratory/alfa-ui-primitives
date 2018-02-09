@@ -8,18 +8,17 @@
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="icon_transfer-in_l_black" transform="translate(-1.000000, -3.000000)">
-            <g id="Group" transform="translate(0.000000, 1.000000)">
-                <g id="Clipped">
-                    <g id="Oval-Clipped">
-                        <mask id="mask-2" fill="white">
-                            <use xlink:href="#path-1"></use>
-                        </mask>
-                        <g id="path-1"></g>
-                        <circle id="Oval" stroke="#0B1F35" mask="url(#mask-2)" cx="14.5" cy="13.5" r="13"></circle>
-                    </g>
+            <rect id="Rectangle" x="0" y="0" width="30" height="30"></rect>
+            <g id="Oval-Clipped" transform="translate(0.000000, 1.000000)">
+                <g>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <circle id="Oval" stroke="#0B1F35" mask="url(#mask-2)" cx="14.5" cy="13.5" r="13"></circle>
                 </g>
-                <polygon id="Shape" fill="#0B1F35" fill-rule="nonzero" points="20 11.6 19.1851852 10.9 15.0092593 15 15.0092593 2 13.9907407 2 13.9907407 15 9.81481481 10.9 9 11.6 14.5 17"></polygon>
             </g>
+            <polygon id="Shape" fill="#0B1F35" fill-rule="nonzero" points="20 12.6 19.1851852 11.9 15.0092593 16 15.0092593 3 13.9907407 3 13.9907407 16 9.81481481 11.9 9 12.6 14.5 18"></polygon>
         </g>
     </g>
 </svg>
