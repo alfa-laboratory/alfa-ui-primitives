@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30"><defs><path id="a" d="M30 0L13.929 15.077 0 0v28h30z"/></defs><g fill="none" fill-rule="evenodd"><g transform="translate(0 2)"><mask id="b" fill="#0B1F35"><use xlink:href="#a"/></mask><circle cx="14.5" cy="13.5" r="13" stroke="#0B1F35" mask="url(#b)"/></g><path fill="#0B1F35" d="M9 9.4l.8.7L13.9 6v13h1V6l4.1 4.1.8-.7L14.4 4z" opacity=".9"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_transfer-out_l_black</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="30 -8.8817842e-15 13.9285714 15.0769231 0 -8.8817842e-15 0 28 30 28"></polygon>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-208.000000, -60.000000)">
+        <g id="icon_transfer-out_l_black" transform="translate(208.000000, 60.000000)">
+            <rect id="ph" opacity="0" x="0" y="0" width="30" height="30"></rect>
+            <g id="Group-9" transform="translate(0.000000, 2.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask" fill-rule="nonzero"></g>
+                <circle id="Oval" stroke="#0B1F35" mask="url(#mask-2)" cx="14.5" cy="13.5" r="13"></circle>
+            </g>
+            <polygon id="Arrow" fill="#0B1F35" opacity="0.900000036" points="9 9.4 9.8 10.1 13.9 6 13.9 19 14.9 19 14.9 6 19 10.1 19.8 9.4 14.4 4"></polygon>
+        </g>
+    </g>
+</svg>
