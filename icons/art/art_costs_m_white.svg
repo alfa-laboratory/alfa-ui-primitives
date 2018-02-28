@@ -1,1 +1,28 @@
-<svg width="96" height="96" viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg"><title>art_costs_m_white</title><g fill="none" fill-rule="evenodd"><path d="M0 0h96v96H0z"/><path d="M36.612 5.499l.309 1.152L51.57 4.163a43.987 43.987 0 0 0-14.958 1.336zm23.443.194l-22.373 3.8.52 1.94 25.853-4.392a44.312 44.312 0 0 0-4-1.348zm8.703 3.521l-29.794 5.061.52 1.94 31.974-5.431a44.828 44.828 0 0 0-2.7-1.57zm2.04 4.654l-30.553 5.19.52 1.94 28.505-4.842zm-3.767 5.64L41.526 23.84l.52 1.94 23.457-3.984zm-3.767 5.64l-20.456 3.474.52 1.941 18.408-3.127zm-3.767 5.639l-15.408 2.618.52 1.94 13.359-2.269zm-3.767 5.64l-10.359 1.76.52 1.94 8.31-1.411zm-3.767 5.64l-5.311.902.52 1.941 3.262-.555z" opacity=".3" fill-rule="nonzero" fill="#FFF"/><path d="M48 92a43.95 43.95 0 0 0 40.513-26.804l-.92-.392A42.952 42.952 0 0 1 48 91C24.29 91 5 71.71 5 48A42.953 42.953 0 0 1 31.195 8.407l-.391-.92A43.95 43.95 0 0 0 4 48c0 24.262 19.738 44 44 44z" fill="#FFF" fill-rule="nonzero"/><path d="M90.501 36.612a44.005 44.005 0 0 0-11.388-19.725L48 48l42.501 11.388a44 44 0 0 0 0-22.776z" fill="#FFF" fill-rule="nonzero" opacity=".3"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>art_costs_m_white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1300.000000, -1203.000000)">
+        <g id="Headings" transform="translate(64.000000, 77.000000)"></g>
+        <g id="art_costs__m__white" transform="translate(1300.000000, 1203.000000)">
+            <g id="Group">
+                <rect id="Rectangle-path" x="0" y="0" width="96" height="96"></rect>
+                <g opacity="0.3" transform="translate(36.000000, 4.000000)" fill="#FFFFFF" id="Shape">
+                    <path d="M0.612,1.499 L0.921,2.651 L15.57,0.163 C10.562,-0.245 5.502,0.189 0.612,1.499 L0.612,1.499 Z"></path>
+                    <path d="M24.055,1.693 L1.682,5.493 L2.202,7.433 L28.055,3.041 C26.747,2.529 25.412,2.08 24.055,1.693 L24.055,1.693 Z"></path>
+                    <path d="M32.758,5.214 L2.964,10.275 L3.484,12.215 L35.458,6.784 C34.576,6.229 33.676,5.706 32.758,5.214 L32.758,5.214 Z"></path>
+                    <polygon points="34.798 9.868 4.245 15.058 4.765 16.998 33.27 12.156"></polygon>
+                    <polygon points="31.031 15.508 5.526 19.84 6.046 21.78 29.503 17.796"></polygon>
+                    <polygon points="27.264 21.148 6.808 24.622 7.328 26.563 25.736 23.436"></polygon>
+                    <polygon points="23.497 26.787 8.089 29.405 8.609 31.345 21.968 29.076"></polygon>
+                    <polygon points="19.73 32.427 9.371 34.187 9.891 36.127 18.201 34.716"></polygon>
+                    <polygon points="15.963 38.067 10.652 38.969 11.172 40.91 14.434 40.355"></polygon>
+                </g>
+                <path d="M48,92 C65.691,92 81.593,81.479 88.513,65.196 L87.593,64.804 C80.83,80.718 65.289,91 48,91 C24.29,91 5,71.71 5,48 C5,30.711 15.282,15.17 31.195,8.407 L30.804,7.487 C14.521,14.407 4,30.309 4,48 C4,72.262 23.738,92 48,92 L48,92 Z" id="Shape" fill="#FFFFFF"></path>
+                <path d="M90.501,36.612 C88.502,29.152 84.574,22.348 79.113,16.887 L48,48 L90.501,59.388 C92.5,51.928 92.5,44.072 90.501,36.612 L90.501,36.612 Z" id="Shape" fill="#FFFFFF" opacity="0.3"></path>
+            </g>
+        </g>
+    </g>
+</svg>
