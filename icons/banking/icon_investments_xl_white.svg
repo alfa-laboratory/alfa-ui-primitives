@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36"><g fill="#FFF" fill-rule="evenodd"><path fill-rule="nonzero" d="M3 8.007v22.986C3 31.55 3.449 32 4.002 32h27.996A1 1 0 0 0 33 30.993V8.007C33 7.45 32.551 7 31.998 7H4.002A1 1 0 0 0 3 8.007zm-1 0A2 2 0 0 1 4.002 6h27.996C33.104 6 34 6.898 34 8.007v22.986A2 2 0 0 1 31.998 33H4.002A2.004 2.004 0 0 1 2 30.993V8.007z"/><path d="M3 21h31v2H3zm6 2h4v2H9zm14 0h4v2h-4z" opacity=".3"/><path fill-rule="nonzero" d="M21.825 4.304C21.77 4.168 21.52 4 21.368 4h-7.736c-.154 0-.402.167-.457.304L12.485 6h10.03l-.69-1.696zm-9.577-.376c.208-.513.821-.928 1.384-.928h7.736c.556 0 1.175.413 1.384.928L24 7H11l1.248-3.072z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_investments_xl_white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_investments_xl_white">
+            <g id="icon_investments__l__white">
+                <rect id="Rectangle-8" opacity="0" x="0" y="0" width="36" height="36"></rect>
+                <path d="M3,8.00732994 L3,30.9926701 C3,31.549842 3.44896292,32 4.00174332,32 L31.9982567,32 C32.5548888,32 33,31.5525736 33,30.9926701 L33,8.00732994 C33,7.450158 32.5510371,7 31.9982567,7 L4.00174332,7 C3.44511122,7 3,7.4474264 3,8.00732994 Z M2,8.00732994 C2,6.89871223 2.88926172,6 4.00174332,6 L31.9982567,6 C33.103789,6 34,6.89833832 34,8.00732994 L34,30.9926701 C34,32.1012878 33.1107383,33 31.9982567,33 L4.00174332,33 C2.89621101,33 2,32.1016617 2,30.9926701 L2,8.00732994 Z" id="Rectangle-6-Copy" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <polygon id="Rectangle-6" fill="#FFFFFF" opacity="0.300000012" points="3 21 18.5624687 21 34 21 34 23 18.6025025 23 3 23"></polygon>
+                <rect id="Rectangle-9" fill="#FFFFFF" opacity="0.300000012" x="9" y="23" width="4" height="2"></rect>
+                <rect id="Rectangle-9-Copy" fill="#FFFFFF" opacity="0.300000012" x="23" y="23" width="4" height="2"></rect>
+                <path d="M21.8254255,4.30411142 C21.7701669,4.16809021 21.5191625,4 21.3683018,4 L13.6316982,4 C13.4783253,4 13.2303541,4.16680773 13.1745745,4.30411142 L12.4856198,6 L22.5143802,6 L21.8254255,4.30411142 Z M12.2481079,3.92773438 C12.4562597,3.41536083 13.0692728,3 13.6316982,3 L21.3683018,3 C21.9242859,3 22.542783,3.4130044 22.7518921,3.92773438 L24,7 L11,7 L12.2481079,3.92773438 Z" id="Rectangle-7" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

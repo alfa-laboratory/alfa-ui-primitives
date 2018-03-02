@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="#FFF" fill-rule="evenodd"><path fill-rule="nonzero" d="M3 7v13c0 .556.442 1 .99 1h16.02a1 1 0 0 0 .99-1V7c0-.556-.442-1-.99-1H3.99A1 1 0 0 0 3 7zM2 7a2 2 0 0 1 1.99-2h16.02C21.108 5 22 5.89 22 7v13a2 2 0 0 1-1.99 2H3.99C2.892 22 2 21.11 2 20V7z"/><path d="M2 15h20v-1H2zm8 0h4v2h-4z" opacity=".3"/><path fill-rule="nonzero" d="M14.28 4H9.72l-.333 1h5.226l-.334-1zM9 3h6l1 3H8l1-3z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_investments_m_white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_investments_m_white">
+            <g id="icon_investments__m__white">
+                <rect id="_ph_" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <path d="M3,7.00010618 L3,19.9998938 C3,20.5564093 3.44235366,21 3.99079514,21 L20.0092049,21 C20.5513773,21 21,20.5503561 21,19.9998938 L21,7.00010618 C21,6.44359075 20.5576463,6 20.0092049,6 L3.99079514,6 C3.44862268,6 3,6.44964395 3,7.00010618 Z M2,7.00010618 C2,5.89547804 2.89821238,5 3.99079514,5 L20.0092049,5 C21.1086907,5 22,5.89005841 22,7.00010618 L22,19.9998938 C22,21.104522 21.1017876,22 20.0092049,22 L3.99079514,22 C2.89130934,22 2,21.1099416 2,19.9998938 L2,7.00010618 Z" id="Rectangle-6-Copy" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <polygon id="Rectangle-6" fill="#FFFFFF" opacity="0.300000012" transform="translate(12.000000, 14.500000) scale(1, -1) translate(-12.000000, -14.500000) " points="2 14 12.0403024 14 22 14 22 15 12.0661307 15 2 15"></polygon>
+                <rect id="Rectangle-9-Copy" fill="#FFFFFF" opacity="0.300000012" x="10" y="15" width="4" height="2"></rect>
+                <path d="M14.2792408,4 L9.72075922,4 L9.38742589,5 L14.6125741,5 L14.2792408,4 Z M9,3 L15,3 L16,6 L8,6 L9,3 Z" id="Rectangle-7" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
