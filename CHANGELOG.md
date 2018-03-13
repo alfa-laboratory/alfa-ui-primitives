@@ -1,3 +1,41 @@
+<a name="1.4.2"></a>
+## [1.4.2](https://github.com/teryaew/alfa-ui-primitives/compare/v1.4.1...v1.4.2) (2018-03-13)
+
+
+### Bug Fixes
+
+* **business-icon:** fix stroke in business icon ([#24](https://github.com/teryaew/alfa-ui-primitives/issues/24)) ([08037bf](https://github.com/teryaew/alfa-ui-primitives/commit/08037bf))
+* **icons:** fix check-bold, add xxl ([54c7792](https://github.com/teryaew/alfa-ui-primitives/commit/54c7792))
+* **icons:** fix edit m icon ([#39](https://github.com/teryaew/alfa-ui-primitives/issues/39)) ([79247e8](https://github.com/teryaew/alfa-ui-primitives/commit/79247e8))
+* **icons:** fix house icon ([#25](https://github.com/teryaew/alfa-ui-primitives/issues/25)) ([723663f](https://github.com/teryaew/alfa-ui-primitives/commit/723663f))
+* **icons:** fix lock filled white ([8f73a28](https://github.com/teryaew/alfa-ui-primitives/commit/8f73a28))
+* **icons:** fix lock_s icons ([f6243f2](https://github.com/teryaew/alfa-ui-primitives/commit/f6243f2))
+* **icons:** fix naming filled ([70164bb](https://github.com/teryaew/alfa-ui-primitives/commit/70164bb))
+* **icons:** fix troika icon ([#26](https://github.com/teryaew/alfa-ui-primitives/issues/26)) ([f42cf6c](https://github.com/teryaew/alfa-ui-primitives/commit/f42cf6c))
+* **icons:** minify-icon-next ([#18](https://github.com/teryaew/alfa-ui-primitives/issues/18)) ([99f1f11](https://github.com/teryaew/alfa-ui-primitives/commit/99f1f11))
+* **icons:** remove alfa-check dublicate ([#28](https://github.com/teryaew/alfa-ui-primitives/issues/28)) ([6592a67](https://github.com/teryaew/alfa-ui-primitives/commit/6592a67))
+* **icons:** remove lock dublicates, fix sizes & icon ([#29](https://github.com/teryaew/alfa-ui-primitives/issues/29)) ([2d3da4b](https://github.com/teryaew/alfa-ui-primitives/commit/2d3da4b))
+* **icons:** remove user dublicate & fix user ([2944ade](https://github.com/teryaew/alfa-ui-primitives/commit/2944ade))
+* **icons:** rename transit to transport ([#27](https://github.com/teryaew/alfa-ui-primitives/issues/27)) ([21453f4](https://github.com/teryaew/alfa-ui-primitives/commit/21453f4))
+* **verifying:** remove dublicates, fix m size icon ([#33](https://github.com/teryaew/alfa-ui-primitives/issues/33)) ([d0a82e4](https://github.com/teryaew/alfa-ui-primitives/commit/d0a82e4))
+
+
+### Features
+
+* **arrow-down:** fix s & m, add l, xl & xxl ([#41](https://github.com/teryaew/alfa-ui-primitives/issues/41)) ([f862d48](https://github.com/teryaew/alfa-ui-primitives/commit/f862d48))
+* **colours:** add corporate bg ([e11356e](https://github.com/teryaew/alfa-ui-primitives/commit/e11356e))
+* **icons:** add annas icons ([4699d30](https://github.com/teryaew/alfa-ui-primitives/commit/4699d30))
+* **icons:** add chart art  ([59214a9](https://github.com/teryaew/alfa-ui-primitives/commit/59214a9))
+* **icons:** add color lock icons ([#47](https://github.com/teryaew/alfa-ui-primitives/issues/47)) ([15cf91a](https://github.com/teryaew/alfa-ui-primitives/commit/15cf91a))
+* **icons:** add erase icon ([aecf15f](https://github.com/teryaew/alfa-ui-primitives/commit/aecf15f))
+* **icons:** add icon-next ([0574ede](https://github.com/teryaew/alfa-ui-primitives/commit/0574ede))
+* **icons:** add indeterminate icon ([#22](https://github.com/teryaew/alfa-ui-primitives/issues/22)) ([33284f0](https://github.com/teryaew/alfa-ui-primitives/commit/33284f0))
+* **icons:** add predictions ([c87e91b](https://github.com/teryaew/alfa-ui-primitives/commit/c87e91b))
+* **icons:** add ui arrow up, left, right icons ([#43](https://github.com/teryaew/alfa-ui-primitives/issues/43)) ([cd5a706](https://github.com/teryaew/alfa-ui-primitives/commit/cd5a706))
+* **icons:** remake check bold ([#23](https://github.com/teryaew/alfa-ui-primitives/issues/23)) ([ef33057](https://github.com/teryaew/alfa-ui-primitives/commit/ef33057))
+
+
+
 <a name="1.4.1"></a>
 ## [1.4.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.4.0...v1.4.1) (2018-03-13)
 
