@@ -1,3 +1,13 @@
+<a name="1.4.1"></a>
+## [1.4.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.4.0...v1.4.1) (2018-03-13)
+
+
+### Bug Fixes
+
+* **icons:** indererminate ([#91](https://github.com/teryaew/alfa-ui-primitives/issues/91)) ([25c2abc](https://github.com/teryaew/alfa-ui-primitives/commit/25c2abc))
+
+
+
 <a name="1.4.0"></a>
 # [1.4.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.3.1...v1.4.0) (2018-03-13)
 
