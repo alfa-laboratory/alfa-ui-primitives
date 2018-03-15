@@ -1,3 +1,13 @@
+<a name="1.5.0"></a>
+# [1.5.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.4.2...v1.5.0) (2018-03-15)
+
+
+### Features
+
+* **icons:** icon back ([#94](https://github.com/teryaew/alfa-ui-primitives/issues/94)) ([b1656bf](https://github.com/teryaew/alfa-ui-primitives/commit/b1656bf))
+
+
+
 <a name="1.4.2"></a>
 ## [1.4.2](https://github.com/teryaew/alfa-ui-primitives/compare/v1.4.1...v1.4.2) (2018-03-13)
 
