@@ -1,3 +1,25 @@
+<a name="1.6.0"></a>
+# [1.6.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.5.2...v1.6.0) (2018-03-29)
+
+
+### Bug Fixes
+
+* **icons:** add lock and card-activate xxl icons ([#107](https://github.com/teryaew/alfa-ui-primitives/issues/107)) ([3d75cec](https://github.com/teryaew/alfa-ui-primitives/commit/3d75cec))
+* **icons:** fix icon for regisrty ([#98](https://github.com/teryaew/alfa-ui-primitives/issues/98)) ([ebf8d2b](https://github.com/teryaew/alfa-ui-primitives/commit/ebf8d2b))
+* **icons:** info for Anton in AM ([#96](https://github.com/teryaew/alfa-ui-primitives/issues/96)) ([c2a9bf6](https://github.com/teryaew/alfa-ui-primitives/commit/c2a9bf6))
+
+
+### Features
+
+* **icons:** add icons chat-send_color ([#97](https://github.com/teryaew/alfa-ui-primitives/issues/97)) ([9f34ad8](https://github.com/teryaew/alfa-ui-primitives/commit/9f34ad8))
+* **icons:** add mastercard and visa ([#105](https://github.com/teryaew/alfa-ui-primitives/issues/105)) ([6954f39](https://github.com/teryaew/alfa-ui-primitives/commit/6954f39))
+* **icons:** add system_arrow ([#100](https://github.com/teryaew/alfa-ui-primitives/issues/100)) ([19ad66e](https://github.com/teryaew/alfa-ui-primitives/commit/19ad66e))
+* **icons:** dublin ([#102](https://github.com/teryaew/alfa-ui-primitives/issues/102)) ([9a9739b](https://github.com/teryaew/alfa-ui-primitives/commit/9a9739b))
+* **icons:** replace icon_dublon ([#101](https://github.com/teryaew/alfa-ui-primitives/issues/101)) ([b5d9026](https://github.com/teryaew/alfa-ui-primitives/commit/b5d9026))
+* **icons:** success icon for mobile developers for final screen ([#99](https://github.com/teryaew/alfa-ui-primitives/issues/99)) ([8978e7d](https://github.com/teryaew/alfa-ui-primitives/commit/8978e7d))
+
+
+
 <a name="1.5.2"></a>
 ## [1.5.2](https://github.com/teryaew/alfa-ui-primitives/compare/v1.5.1...v1.5.2) (2018-03-15)
 
