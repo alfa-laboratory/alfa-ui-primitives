@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_card_xl_white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_card_xl_white">
+            <rect id="_ph_" opacity="0.200000003" x="0" y="0" width="48" height="48"></rect>
+            <g id="art" transform="translate(3.000000, 9.000000)" fill="#FFFFFF">
+                <rect id="Rectangle-path" opacity="0.3" x="0.5" y="9" width="41" height="4"></rect>
+                <rect id="Rectangle-path" opacity="0.3" x="6" y="20" width="8" height="4"></rect>
+                <path d="M4.00723574,29 L38.0037973,29 C39.6585858,29 41,27.6574779 41,26.0007252 L41,3.9992748 C41,2.34101146 39.6551565,1 37.9918888,1 L4.00811116,1 C2.34428711,1 1,2.34207301 1,3.9992748 L1,26.0007252 C1,27.6590376 2.34450061,29 4.00723574,29 Z M38.0037973,30 L4.00723574,30 C1.79410055,30 0,28.2132053 0,26.0007252 L0,3.9992748 C0,1.79053632 1.79125179,0 4.00811116,0 L37.9918888,0 C40.2055075,0 42,1.78679466 42,3.9992748 L42,26.0007252 C42,28.2094637 40.2111696,30 38.0037973,30 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

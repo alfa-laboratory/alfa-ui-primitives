@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_investments__xl__black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_investments__xl__black">
+            <g id="icon_investments_l_black">
+                <rect id="_ph_" opacity="0" x="0" y="0" width="36" height="36"></rect>
+                <path d="M3,8.00732994 L3,30.9926701 C3,31.549842 3.44896292,32 4.00174332,32 L31.9982567,32 C32.5548888,32 33,31.5525736 33,30.9926701 L33,8.00732994 C33,7.450158 32.5510371,7 31.9982567,7 L4.00174332,7 C3.44511122,7 3,7.4474264 3,8.00732994 Z M2,8.00732994 C2,6.89871223 2.88926172,6 4.00174332,6 L31.9982567,6 C33.103789,6 34,6.89833832 34,8.00732994 L34,30.9926701 C34,32.1012878 33.1107383,33 31.9982567,33 L4.00174332,33 C2.89621101,33 2,32.1016617 2,30.9926701 L2,8.00732994 Z" id="Rectangle-6-Copy" fill="#0B1F35" fill-rule="nonzero"></path>
+                <polygon id="Rectangle-6" fill="#0B1F35" opacity="0.300000012" points="3 21 18.5624687 21 34 21 34 23 18.6025025 23 3 23"></polygon>
+                <rect id="Rectangle-9" fill="#0B1F35" opacity="0.300000012" x="9" y="23" width="4" height="2"></rect>
+                <rect id="Rectangle-9-Copy" fill="#0B1F35" opacity="0.300000012" x="23" y="23" width="4" height="2"></rect>
+                <path d="M21.8254255,4.30411142 C21.7701669,4.16809021 21.5191625,4 21.3683018,4 L13.6316982,4 C13.4783253,4 13.2303541,4.16680773 13.1745745,4.30411142 L12.4856198,6 L22.5143802,6 L21.8254255,4.30411142 Z M12.2481079,3.92773438 C12.4562597,3.41536083 13.0692728,3 13.6316982,3 L21.3683018,3 C21.9242859,3 22.542783,3.4130044 22.7518921,3.92773438 L24,7 L11,7 L12.2481079,3.92773438 Z" id="Rectangle-7" fill="#0B1F35" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
