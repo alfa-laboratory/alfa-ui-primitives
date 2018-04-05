@@ -1,1 +1,21 @@
-<svg width="96" height="96" viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg"><title>art_tool-atm_m_white</title><g fill="none" fill-rule="evenodd"><path d="M0 0h96v96H0z"/><path d="M11 90l-1-1h76l-1 1V22.62C85 14.008 78.01 7 69.422 7H26.578C17.991 7 11 14.008 11 22.62V90zm-1-67.38C10 13.456 17.438 6 26.578 6h42.844C78.562 6 86 13.456 86 22.62V90H10V22.62z" fill="#FFF" fill-rule="nonzero"/><path fill="#FFF" fill-rule="nonzero" opacity=".3" d="M24 20h48v28H24zm28 36h20v4H52zm-28 0h8v8h-8zm12 0h8v8h-8zM24 68h8v8h-8zm12 0h8v8h-8z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>art_tool-atm_m_white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="art_tool-atm_m_white">
+            <g id="art">
+                <rect id="Rectangle-path" x="0" y="0" width="96" height="96"></rect>
+                <path d="M11,90 L10,89 L86,89 L85,90 L85,22.62 C85,14.0080183 78.0094465,7 69.422,7 L26.578,7 C17.9905535,7 11,14.0080183 11,22.62 L11,90 Z M10,22.62 C10,13.456 17.438,6 26.578,6 L69.422,6 C78.562,6 86,13.456 86,22.62 L86,90 L10,90 L10,22.62 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <rect id="Rectangle-path" fill="#FFFFFF" opacity="0.3" x="24" y="20" width="48" height="28"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" opacity="0.3" x="52" y="56" width="20" height="4"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" opacity="0.3" x="24" y="56" width="8" height="8"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" opacity="0.3" x="36" y="56" width="8" height="8"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" opacity="0.3" x="24" y="68" width="8" height="8"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" opacity="0.3" x="36" y="68" width="8" height="8"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
