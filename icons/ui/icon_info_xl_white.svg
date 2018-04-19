@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" version="1" viewBox="0 0 36 36"><path fill="#FFF" d="M18.5 3C10.505 3 4 9.505 4 17.5S10.505 32 18.5 32 33 25.495 33 17.5 26.495 3 18.5 3zm0 28C11.056 31 5 24.944 5 17.5S11.056 4 18.5 4 32 10.056 32 17.5 25.944 31 18.5 31z"/><path fill="#FFF" d="M18.506 10.22c-.547 0-1.006.43-1.006.967 0 .516.458.956 1.006.956s.994-.44.994-.956a.98.98 0 0 0-.994-.967zM18 14h1v11h-1z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_info_xl_white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon_info_xl_white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="bounds" x="0" y="0" width="48" height="48"></rect>
+            <circle id="Oval-75" stroke="#FFFFFF" opacity="0.900000036" cx="24.3333333" cy="24.3333333" r="22.5"></circle>
+            <path d="M24,18 C22.8954305,18 22,17.1045695 22,16 C22,14.8954305 22.8954305,14 24,14 C25.1045695,14 26,14.8954305 26,16 C26,17.1045695 25.1045695,18 24,18 Z M22,22.0058587 C22,20.8980535 22.8877296,20 24,20 C25.1045695,20 26,20.8970601 26,22.0058587 L26,31.9941413 C26,33.1019465 25.1122704,34 24,34 C22.8954305,34 22,33.1029399 22,31.9941413 L22,22.0058587 Z" id="Oval-126" fill="#FFFFFF" opacity="0.300000012"></path>
+        </g>
+    </g>
+</svg>
