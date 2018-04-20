@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" version="1" viewBox="0 0 30 30"><path fill="#FFF" d="M15.5 2C8.607 2 3 7.607 3 14.5S8.607 27 15.5 27 28 21.393 28 14.5 22.393 2 15.5 2zm0 24C9.159 26 4 20.841 4 14.5S9.159 3 15.5 3 27 8.159 27 14.5 21.841 26 15.5 26z"/><path fill="#FFF" d="M15 12h1v9h-1zm.495-3.378a.88.88 0 0 0-.873.873c0 .486.396.882.873.882a.883.883 0 0 0 .882-.882.88.88 0 0 0-.882-.873z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_info_l_white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon_info_l_white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="bounds" x="0" y="0" width="36" height="36"></rect>
+            <circle id="Oval-75" stroke="#FFFFFF" opacity="0.900000036" cx="18" cy="18" r="16.5"></circle>
+            <path d="M18,13.5 C17.1715729,13.5 16.5,12.8284271 16.5,12 C16.5,11.1715729 17.1715729,10.5 18,10.5 C18.8284271,10.5 19.5,11.1715729 19.5,12 C19.5,12.8284271 18.8284271,13.5 18,13.5 Z M16.5,16.504394 C16.5,15.6735401 17.1657972,15 18,15 C18.8284271,15 19.5,15.6727951 19.5,16.504394 L19.5,23.995606 C19.5,24.8264599 18.8342028,25.5 18,25.5 C17.1715729,25.5 16.5,24.8272049 16.5,23.995606 L16.5,16.504394 Z" id="Oval-126" fill="#FFFFFF" opacity="0.300000012"></path>
+        </g>
+    </g>
+</svg>
