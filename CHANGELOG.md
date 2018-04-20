@@ -1,3 +1,23 @@
+<a name="1.6.2"></a>
+## [1.6.2](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.1...v1.6.2) (2018-04-17)
+
+
+### Bug Fixes
+
+* **icons:** fixes add icon names ([33a8bc4](https://github.com/teryaew/alfa-ui-primitives/commit/33a8bc4))
+
+
+
+<a name="1.6.1"></a>
+## [1.6.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.0...v1.6.1) (2018-04-17)
+
+
+### Features
+
+* **icons:** fix bank icons ([#108](https://github.com/teryaew/alfa-ui-primitives/issues/108)) ([33c67ad](https://github.com/teryaew/alfa-ui-primitives/commit/33c67ad))
+
+
+
 <a name="1.6.0"></a>
 # [1.6.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.5.2...v1.6.0) (2018-03-29)
 
