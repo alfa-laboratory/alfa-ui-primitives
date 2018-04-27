@@ -1,3 +1,13 @@
+<a name="1.6.3"></a>
+## [1.6.3](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.2...v1.6.3) (2018-04-27)
+
+
+### Bug Fixes
+
+* **icons:** add_forex_icon ([#116](https://github.com/teryaew/alfa-ui-primitives/issues/116)) ([fd242d7](https://github.com/teryaew/alfa-ui-primitives/commit/fd242d7))
+
+
+
 <a name="1.6.2"></a>
 ## [1.6.2](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.1...v1.6.2) (2018-04-17)
 
