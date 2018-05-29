@@ -1,3 +1,18 @@
+<a name="1.6.4"></a>
+## [1.6.4](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.3...v1.6.4) (2018-05-29)
+
+
+### Bug Fixes
+
+* **icons:** add chat message error icon ([#127](https://github.com/teryaew/alfa-ui-primitives/issues/127)) ([4babf19](https://github.com/teryaew/alfa-ui-primitives/commit/4babf19))
+
+
+### Features
+
+* **icons:** add check-chat and clock xs icons ([#124](https://github.com/teryaew/alfa-ui-primitives/issues/124)) ([3021f7b](https://github.com/teryaew/alfa-ui-primitives/commit/3021f7b))
+
+
+
 <a name="1.6.3"></a>
 ## [1.6.3](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.2...v1.6.3) (2018-04-27)
 
