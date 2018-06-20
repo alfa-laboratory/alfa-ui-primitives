@@ -1,3 +1,48 @@
+<a name="1.6.4"></a>
+## [1.6.4](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.3...v1.6.4) (2018-05-29)
+
+
+### Bug Fixes
+
+* **icons:** add chat message error icon ([#127](https://github.com/teryaew/alfa-ui-primitives/issues/127)) ([4babf19](https://github.com/teryaew/alfa-ui-primitives/commit/4babf19))
+
+
+### Features
+
+* **icons:** add check-chat and clock xs icons ([#124](https://github.com/teryaew/alfa-ui-primitives/issues/124)) ([3021f7b](https://github.com/teryaew/alfa-ui-primitives/commit/3021f7b))
+
+
+
+<a name="1.6.3"></a>
+## [1.6.3](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.2...v1.6.3) (2018-04-27)
+
+
+### Bug Fixes
+
+* **icons:** add_forex_icon ([#116](https://github.com/teryaew/alfa-ui-primitives/issues/116)) ([fd242d7](https://github.com/teryaew/alfa-ui-primitives/commit/fd242d7))
+
+
+
+<a name="1.6.2"></a>
+## [1.6.2](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.1...v1.6.2) (2018-04-17)
+
+
+### Bug Fixes
+
+* **icons:** fixes add icon names ([33a8bc4](https://github.com/teryaew/alfa-ui-primitives/commit/33a8bc4))
+
+
+
+<a name="1.6.1"></a>
+## [1.6.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.0...v1.6.1) (2018-04-17)
+
+
+### Features
+
+* **icons:** fix bank icons ([#108](https://github.com/teryaew/alfa-ui-primitives/issues/108)) ([33c67ad](https://github.com/teryaew/alfa-ui-primitives/commit/33c67ad))
+
+
+
 <a name="1.6.0"></a>
 # [1.6.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.5.2...v1.6.0) (2018-03-29)
 
