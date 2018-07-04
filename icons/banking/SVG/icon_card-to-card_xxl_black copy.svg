@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>icon_card-to-card_xxl_black copy</title>
+  <g>
+    <rect width="48" height="48" fill="none"/>
+    <rect x="4" y="16" width="40" height="6" fill="#0b1f35" opacity="0.3"/>
+    <rect x="10" y="28" width="8" height="4" fill="#0b1f35" opacity="0.3"/>
+    <path d="M41.5,7H28V8H41.5A2.5,2.5,0,0,1,44,10.5v26A2.5,2.5,0,0,1,41.5,39H26.59l4.31-4.31L30.19,34,24.67,39.5,30.19,45l.71-.71L26.59,40H41.5A3.5,3.5,0,0,0,45,36.5v-26A3.5,3.5,0,0,0,41.5,7Z" fill="#0b1f35"/>
+    <path d="M4,36.5v-26A2.5,2.5,0,0,1,6.5,8H21.41L17.1,12.31l.71.71L23.33,7.5,17.81,2l-.71.71L21.41,7H6.5A3.5,3.5,0,0,0,3,10.5v26A3.5,3.5,0,0,0,6.5,40H20V39H6.5A2.5,2.5,0,0,1,4,36.5Z" fill="#0b1f35"/>
+  </g>
+</svg>
