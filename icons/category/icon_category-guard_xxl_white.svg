@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_category-guard_xxl_white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_category-guard_xxl_white">
+            <rect id="Rectangle" x="0" y="0" width="48" height="48"></rect>
+            <g id="icon" transform="translate(2.000000, 2.000000)" fill="#FFFFFF">
+                <path d="M0,7.3877284 L22,0 L44,7.3877284 C41.0720378,31.7959095 33.7387044,44 22,44 C10.2612956,44 2.92796224,31.7959095 0,7.3877284 Z M1,8.02825981 C3.80476172,31.3427533 10.8077767,43 22.0090448,43 C33.210313,43 40.207298,31.3427533 43,8.02825981 L22.0090448,1 L1,8.02825981 Z" id="Combined-Shape"></path>
+                <path d="M22,4 L40,10 C37.4097965,30 31.4097965,40 22,40 L22,4 Z" id="Rectangle-8" opacity="0.3"></path>
+            </g>
+        </g>
+    </g>
+</svg>
