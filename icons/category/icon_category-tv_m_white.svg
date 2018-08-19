@@ -9,9 +9,8 @@
             <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
             <g id="icon" transform="translate(2.000000, 2.000000)">
                 <path d="M2,3 L18,3 C19.1045695,3 20,3.8954305 20,5 L20,17 C20,18.1045695 19.1045695,19 18,19 L2,19 C0.8954305,19 1.3527075e-16,18.1045695 0,17 L0,5 C-1.3527075e-16,3.8954305 0.8954305,3 2,3 Z M2,4 C1.44771525,4 1,4.44771525 1,5 L1,17 C1,17.5522847 1.44771525,18 2,18 L18,18 C18.5522847,18 19,17.5522847 19,17 L19,5 C19,4.44771525 18.5522847,4 18,4 L2,4 Z" id="Combined-Shape" fill="#FFFFFF"></path>
-                <path d="M14.0670166,3.29779053 L11.0150757,0" id="Line" stroke="#FFFFFF" stroke-linecap="square" transform="translate(12.541046, 1.648895) scale(-1, 1) translate(-12.541046, -1.648895) "></path>
-                <path d="M9.0670166,3.29779053 L6.01507568,0" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
-                <polygon id="Rectangle-path" fill="#FFFFFF" opacity="0.2" points="1 6 19 6 19 16 1 16"></polygon>
+                <polyline id="Line-4" stroke="#FFFFFF" stroke-linecap="square" fill-rule="nonzero" points="5.5 0.5 9 3.5 11 3.5 14.5 0.5"></polyline>
+                <polygon id="Rectangle-path" fill="#FFFFFF" opacity="0.300000012" points="1 6 19 6 19 16 1 16"></polygon>
                 <rect id="Rectangle-path" fill="#FFFFFF" x="5" y="20" width="10" height="1"></rect>
             </g>
         </g>
