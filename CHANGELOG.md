@@ -1,3 +1,46 @@
+<a name="1.6.5"></a>
+## [1.6.5](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.4...v1.6.5) (2018-08-23)
+
+
+### Bug Fixes
+
+* **icons:** add erase xl icons ([#130](https://github.com/teryaew/alfa-ui-primitives/issues/130)) ([0f503ac](https://github.com/teryaew/alfa-ui-primitives/commit/0f503ac))
+* **icons:** balance-transfer and card-to-card fixed for android ([#140](https://github.com/teryaew/alfa-ui-primitives/issues/140)) ([81987c5](https://github.com/teryaew/alfa-ui-primitives/commit/81987c5))
+* **icons:** balance-transfer icons (android fix) ([#141](https://github.com/teryaew/alfa-ui-primitives/issues/141)) ([bca6ded](https://github.com/teryaew/alfa-ui-primitives/commit/bca6ded))
+* **icons:** balance-transfer icons (one more android fix) ([#142](https://github.com/teryaew/alfa-ui-primitives/issues/142)) ([3f3cccf](https://github.com/teryaew/alfa-ui-primitives/commit/3f3cccf))
+* **icons:** balance-transfer icons (yet another android fix) ([#143](https://github.com/teryaew/alfa-ui-primitives/issues/143)) ([bdc7325](https://github.com/teryaew/alfa-ui-primitives/commit/bdc7325))
+* **icons:** category-travel fixes ([#166](https://github.com/teryaew/alfa-ui-primitives/issues/166)) ([7d95b6d](https://github.com/teryaew/alfa-ui-primitives/commit/7d95b6d))
+* **icons:** fix calendar icons ([#155](https://github.com/teryaew/alfa-ui-primitives/issues/155)) ([71dca43](https://github.com/teryaew/alfa-ui-primitives/commit/71dca43))
+* **icons:** fix card-activate_m icons ([#147](https://github.com/teryaew/alfa-ui-primitives/issues/147)) ([ef9ed15](https://github.com/teryaew/alfa-ui-primitives/commit/ef9ed15))
+* **icons:** fix card-add icons & add new sizes ([#168](https://github.com/teryaew/alfa-ui-primitives/issues/168)) ([37cc843](https://github.com/teryaew/alfa-ui-primitives/commit/37cc843))
+* **icons:** fix icon_card brand icons ([#148](https://github.com/teryaew/alfa-ui-primitives/issues/148)) ([e646ba9](https://github.com/teryaew/alfa-ui-primitives/commit/e646ba9))
+* **icons:** photo-card icon fix ([#135](https://github.com/teryaew/alfa-ui-primitives/issues/135)) ([b3b656f](https://github.com/teryaew/alfa-ui-primitives/commit/b3b656f))
+* **icons:** renames and moves close-circle icons ([#164](https://github.com/teryaew/alfa-ui-primitives/issues/164)) ([e1c28cc](https://github.com/teryaew/alfa-ui-primitives/commit/e1c28cc))
+* **icons:** transfer-any-bank-credit icons (android fix) ([#144](https://github.com/teryaew/alfa-ui-primitives/issues/144)) ([37953a7](https://github.com/teryaew/alfa-ui-primitives/commit/37953a7))
+* **icons:** transfer-any-bank-credit icons (android please) ([#145](https://github.com/teryaew/alfa-ui-primitives/issues/145)) ([a3382eb](https://github.com/teryaew/alfa-ui-primitives/commit/a3382eb))
+* **icons:** update icons for payments and transfers screen ([#146](https://github.com/teryaew/alfa-ui-primitives/issues/146)) ([6bd5519](https://github.com/teryaew/alfa-ui-primitives/commit/6bd5519))
+
+
+### Features
+
+* **colors:** blue color for ios ([#154](https://github.com/teryaew/alfa-ui-primitives/issues/154)) ([005b118](https://github.com/teryaew/alfa-ui-primitives/commit/005b118))
+* **colors:** new bg_personal color ([#149](https://github.com/teryaew/alfa-ui-primitives/issues/149)) ([ba75e0a](https://github.com/teryaew/alfa-ui-primitives/commit/ba75e0a))
+* **icons:** add cashback icons ([#133](https://github.com/teryaew/alfa-ui-primitives/issues/133)) ([030b6f8](https://github.com/teryaew/alfa-ui-primitives/commit/030b6f8))
+* **icons:** add icon_cashback_xs_white ([#150](https://github.com/teryaew/alfa-ui-primitives/issues/150)) ([1866abf](https://github.com/teryaew/alfa-ui-primitives/commit/1866abf))
+* **icons:** add metro icon ([#151](https://github.com/teryaew/alfa-ui-primitives/issues/151)) ([c8910f2](https://github.com/teryaew/alfa-ui-primitives/commit/c8910f2))
+* **icons:** add photo-card m icon ([#129](https://github.com/teryaew/alfa-ui-primitives/issues/129)) ([9d28c4d](https://github.com/teryaew/alfa-ui-primitives/commit/9d28c4d))
+* **icons:** balance transfer icons ([#131](https://github.com/teryaew/alfa-ui-primitives/issues/131)) ([46aafa4](https://github.com/teryaew/alfa-ui-primitives/commit/46aafa4))
+* **icons:** balance transfer icons ([#138](https://github.com/teryaew/alfa-ui-primitives/issues/138)) ([9fa9376](https://github.com/teryaew/alfa-ui-primitives/commit/9fa9376))
+* **icons:** balance transfer icons update ([#134](https://github.com/teryaew/alfa-ui-primitives/issues/134)) ([5903018](https://github.com/teryaew/alfa-ui-primitives/commit/5903018))
+* **icons:** brand new card to card icon ([#139](https://github.com/teryaew/alfa-ui-primitives/issues/139)) ([b17e3f4](https://github.com/teryaew/alfa-ui-primitives/commit/b17e3f4))
+* **icons:** cashback_xs and hold_xs ([#153](https://github.com/teryaew/alfa-ui-primitives/issues/153)) ([53d0bf8](https://github.com/teryaew/alfa-ui-primitives/commit/53d0bf8))
+* **icons:** experiments category icon ([#132](https://github.com/teryaew/alfa-ui-primitives/issues/132)) ([782754a](https://github.com/teryaew/alfa-ui-primitives/commit/782754a))
+* **icons:** logout & arrow icons ([#137](https://github.com/teryaew/alfa-ui-primitives/issues/137)) ([22fb531](https://github.com/teryaew/alfa-ui-primitives/commit/22fb531))
+* **icons:** psb color icons fix ([#136](https://github.com/teryaew/alfa-ui-primitives/issues/136)) ([0e21f98](https://github.com/teryaew/alfa-ui-primitives/commit/0e21f98))
+* **icons:** xl card ([#128](https://github.com/teryaew/alfa-ui-primitives/issues/128)) ([d61b615](https://github.com/teryaew/alfa-ui-primitives/commit/d61b615))
+
+
+
 <a name="1.6.4"></a>
 ## [1.6.4](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.3...v1.6.4) (2018-05-29)
 
