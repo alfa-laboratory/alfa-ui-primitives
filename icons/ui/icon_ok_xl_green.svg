@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_ok_xl_green</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Cards" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-ok" transform="translate(-190.000000, -164.000000)">
+            <g id="icon_ok_xl_green" transform="translate(190.000000, 164.000000)">
+                <g id="Group-3">
+                    <rect id="avatar" fill="#0DBA26" fill-rule="nonzero" x="0" y="0" width="36" height="36" rx="18"></rect>
+                    <rect id="_ph_" x="9.18181818" y="9.18181818" width="19.6363636" height="19.6363636"></rect>
+                    <polygon id="Path-257" fill="#FFFFFF" fill-rule="nonzero" points="14.9545455 22.0037773 9.15639835 16.4806384 7.81818182 17.5909091 14.9545455 24.7272727 27.5909091 12.0909091 26.107468 10.8300631"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
