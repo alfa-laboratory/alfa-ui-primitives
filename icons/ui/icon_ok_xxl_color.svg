@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_ok_xxl_color</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-ok-copy-2" transform="translate(-289.000000, -78.000000)">
+            <g id="icon_ok_xxl_color" transform="translate(289.000000, 78.000000)">
+                <g id="Group-2">
+                    <rect id="avatar" fill="#0DBA26" fill-rule="nonzero" x="0" y="0" width="48" height="48" rx="24"></rect>
+                    <rect id="_ph_" x="9.90909091" y="14.9090909" width="26.1818182" height="26.1818182"></rect>
+                    <polygon id="Path-257" fill="#FFFFFF" fill-rule="nonzero" points="20.2727273 29.7518506 13.5871369 23.0056112 12.0909091 24.4545455 20.2727273 32.6363636 36.4545455 16.4545455 34.9382339 14.9482798"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
