@@ -1,3 +1,21 @@
+<a name="1.6.6"></a>
+## [1.6.6](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.5...v1.6.6) (2018-09-18)
+
+
+### Bug Fixes
+
+* **icons:** fixed ok icons ([#175](https://github.com/teryaew/alfa-ui-primitives/issues/175)) ([768cee0](https://github.com/teryaew/alfa-ui-primitives/commit/768cee0))
+
+
+### Features
+
+* **icons:** close icons for feather ([#169](https://github.com/teryaew/alfa-ui-primitives/issues/169)) ([98b72db](https://github.com/teryaew/alfa-ui-primitives/commit/98b72db))
+* **icons:** convert icons ([#171](https://github.com/teryaew/alfa-ui-primitives/issues/171)) ([dd11b44](https://github.com/teryaew/alfa-ui-primitives/commit/dd11b44))
+* **icons:** new cashback-bonus icons ([#172](https://github.com/teryaew/alfa-ui-primitives/issues/172)) ([0656104](https://github.com/teryaew/alfa-ui-primitives/commit/0656104))
+* **icons:** transfer-outer white icon ([#173](https://github.com/teryaew/alfa-ui-primitives/issues/173)) ([8bcdc14](https://github.com/teryaew/alfa-ui-primitives/commit/8bcdc14))
+
+
+
 <a name="1.6.5"></a>
 ## [1.6.5](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.4...v1.6.5) (2018-08-23)
 
