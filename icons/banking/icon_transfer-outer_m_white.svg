@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_transfer_outer_m_white" fill="#FFFFFF" fill-rule="nonzero">
+            <rect id="_bg_" opacity="0" x="0" y="0" width="24" height="24"></rect>
+            <polygon id="Arrow" transform="translate(11.999808, 7.500000) scale(1, -1) translate(-11.999808, -7.500000) " points="7.49980785 5.4 8.31798967 6.1 11.4884442 3 11.4884442 14 12.5111715 14 12.5111715 3 15.681626 6.1 16.4998078 5.4 11.9998078 1"></polygon>
+            <polygon id="Path-2" opacity="0.300000012" points="1 18.9895279 23.0037537 18.9895279 23.0037537 17.9895279 1 17.9895279"></polygon>
+            <polygon id="Path-2-Copy" points="1 21.9895279 23.0020546 21.9895279 23.0020546 20.9895279 1 20.9895279"></polygon>
+        </g>
+    </g>
+</svg>
