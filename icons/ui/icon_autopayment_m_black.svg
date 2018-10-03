@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>icon_autopayment_m_black</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="icon_autopayment_m_black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
-        <g id="Group" transform="translate(0.000000, 1.000000)" fill="#0B1F35" fill-rule="nonzero">
-            <path d="M19.0486349,16.9356926 L19.8150035,17.5810556 C17.8090404,20.2636106 14.607298,22 11,22 C4.92486775,22 0,17.0751322 0,11 C0,4.92486775 4.92486775,0 11,0 C17.0751322,0 22,4.92486775 22,11 L22,11.5857864 L23.2922371,10.2935493 L23.9993439,11.0006561 L21.5,13.5 L18.999939,10.999939 L19.7070457,10.2928322 L21,11.5857864 L21,11 C21,5.4771525 16.5228475,1 11,1 C5.4771525,1 1,5.4771525 1,11 C1,16.5228475 5.4771525,21 11,21 C14.3004197,21 17.2274025,19.4011264 19.0486349,16.9356926 Z" id="Combined-Shape-Copy"></path>
-            <polygon id="Shape-Copy" opacity="0.3" points="12 5 10 5 10 12 14.2 15.5 15.5 14 12 11.1"></polygon>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="24" height="24"/>
+    <g fill="#0B1F35" fill-rule="nonzero" transform="translate(0 1)">
+      <path d="M19.0486349,16.9356926 L19.8150035,17.5810556 C17.8090404,20.2636106 14.607298,22 11,22 C4.92486775,22 0,17.0751322 0,11 C0,4.92486775 4.92486775,0 11,0 C17.0751322,0 22,4.92486775 22,11 L22,11.5857864 L23.2922371,10.2935493 L23.9993439,11.0006561 L21.5,13.5 L18.999939,10.999939 L19.7070457,10.2928322 L21,11.5857864 L21,11 C21,5.4771525 16.5228475,1 11,1 C5.4771525,1 1,5.4771525 1,11 C1,16.5228475 5.4771525,21 11,21 C14.3004197,21 17.2274025,19.4011264 19.0486349,16.9356926 Z"/>
+      <polygon points="12 5 10 5 10 12 14.2 15.5 15.5 14 12 11.1" opacity=".3"/>
     </g>
+  </g>
 </svg>
