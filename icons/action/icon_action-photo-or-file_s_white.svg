@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
-    <title>icon_action-photo or file_s_black</title>
+    <title>icon_action-photo-or-file_s_white</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard-Copy-2" transform="translate(-276.000000, -180.000000)">
-            <rect fill="#212A33" x="0" y="0" width="360" height="280"></rect>
-            <rect id="Rectangle-4" fill="#FFFFFF" x="0" y="140" width="360" height="140"></rect>
-            <g id="icon_action-photo-or-file_s_black" opacity="0.8" transform="translate(276.000000, 180.000000)">
-                <rect x="0" y="0" width="18" height="18"></rect>
-                <g id="Group" transform="translate(2.000000, 1.000000)" fill="#0B1F35">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.8">
+        <g id="Artboard-Copy-2" transform="translate(-278.000000, -49.000000)">
+            <g id="icon_action-photo-or-file_s_white" transform="translate(276.000000, 48.000000)">
+                <rect id="icon_action-photo-or-filee_s_white" x="0" y="0" width="18" height="18"></rect>
+                <g id="Group" transform="translate(2.000000, 1.000000)" fill="#FFFFFF">
                     <path d="M6.86902089,4 L1,4 L1,15 L10,15 L10,6.81081181 L6.86902089,4 Z M1,3 L7.25204069,3 L11,6.36470092 L11,15 C11,15.5522847 10.5522847,16 10,16 L1,16 C0.44771525,16 -1.94722899e-14,15.5522847 -1.95399252e-14,15 L-1.95399252e-14,4 C-1.96075606e-14,3.44771525 0.44771525,3 1,3 Z" id="Rectangle-2-Copy" fill-rule="nonzero"></path>
                     <path d="M10.2520407,1 L9.58400474,0.744129004 L9.86902089,1 L10.2520407,1 Z M9.86902089,1 L13,3.81081181 L13,12 L10.4524569,12 L10.4524569,13 L13,13 C13.5522847,13 14,12.5522847 14,12 L14,3.36470092 L10.2520407,0 L4,4.4408921e-16 C3.44771525,5.45542273e-16 3,0.44771525 3,1 L3,3.59139258 L4,3.59139258 L4,1 L9.86902089,1 Z M13.3319641,4.10882992 L13,3.36470092 L13,3.81081181 L13.3319641,4.10882992 Z M13,3.81081181 L13,3.36470092 L13.3319641,4.10882992 L13,3.81081181 Z M13,3.81081181 L13,12 L10.4524569,12 L10.4524569,13 L13,13 C13.5522847,13 14,12.5522847 14,12 L14,3.36470092 L10.2520407,0 L4,4.4408921e-16 C3.44771525,5.45542273e-16 3,0.44771525 3,1 L3,3.59139258 L4,3.59139258 L4,1 L9.86902089,1 L13,3.81081181 Z M10.2520407,1 L9.58400474,0.744129004 L9.86902089,1 L10.2520407,1 Z" id="Rectangle-2-Copy" fill-rule="nonzero"></path>
                     <path d="M2,13 L3.65052285,9.69895429 C3.77401748,9.45196504 4.074354,9.35185287 4.32134325,9.4753475 C4.38605506,9.5077034 4.44297416,9.5537177 4.48817085,9.61021357 L5.43690749,10.7961344 C5.75548837,11.1943605 6.32567246,11.282885 6.75,11 L7.06369271,10.7908715 C7.29345706,10.6376953 7.60389173,10.6997822 7.75706796,10.9295466 C7.76146723,10.9361455 7.76570887,10.9428481 7.76978928,10.9496488 L9,13 L2,13 Z" id="Line" opacity="0.300000012"></path>
