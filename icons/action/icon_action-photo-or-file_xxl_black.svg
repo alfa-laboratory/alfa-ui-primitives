@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="37px" height="44px" viewBox="0 0 37 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
     <title>icon_action-photo-or-file_xxl_black</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.8">
-        <g id="Artboard-Copy-2" transform="translate(-46.000000, -182.000000)">
-            <g id="icon_action-photo-or-file_xxl_black" transform="translate(40.000000, 180.000000)">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-2" transform="translate(-40.000000, -180.000000)">
+            <rect id="Rectangle-4" fill="#FFFFFF" x="0" y="140" width="360" height="140"></rect>
+            <g id="icon_action-photo-or-file_xxl_black" opacity="0.8" transform="translate(40.000000, 180.000000)">
                 <rect x="0" y="0" width="48" height="48"></rect>
                 <g id="Group" transform="translate(6.000000, 2.000000)" fill="#0B1F35">
                     <path d="M29,16.7907088 L19.8495239,8 L3,8 C1.8954305,8 1,8.8954305 1,10 L1,41 C1,42.1045695 1.8954305,43 3,43 L27,43 C28.1045695,43 29,42.1045695 29,41 L29,16.7907088 Z M3,7 L20.2520407,7 L30,16.3647009 L30,41 C30,42.6568542 28.6568542,44 27,44 L3,44 C1.34314575,44 2.02906125e-16,42.6568542 0,41 L0,10 C-2.02906125e-16,8.34314575 1.34314575,7 3,7 Z" id="Rectangle-2-Copy" fill-rule="nonzero"></path>

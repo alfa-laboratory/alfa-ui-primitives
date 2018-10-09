@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="23px" height="27px" viewBox="0 0 23 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
     <title>icon_action-photo-or-file_l_black</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.8">
-        <g id="Artboard-Copy-2" transform="translate(-181.000000, -182.000000)">
-            <g id="icon_action-photo-or-file_l_black" transform="translate(177.000000, 180.000000)">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-2" transform="translate(-177.000000, -180.000000)">
+            <rect id="Rectangle-4" fill="#FFFFFF" x="0" y="140" width="360" height="140"></rect>
+            <g id="icon_action-photo-or-file_l_black" opacity="0.8" transform="translate(177.000000, 180.000000)">
                 <polygon points="0 0 30 0 30 21.0592998 30 30 0 30"></polygon>
                 <g id="Group" transform="translate(4.000000, 2.000000)" fill="#0B1F35">
                     <path d="M15.5147361,0.675560509 L16.2520407,1 L15.8120061,1 L15.5147361,0.675560509 Z M15.8120061,1 L22,7.75355646 L22,21 C22,21.5522847 21.5522847,22 21,22 L18.6284612,22 L18.6284612,23 L21,23 C22.1045695,23 23,22.1045695 23,21 L23,7.36470092 L16.2520407,4.4408921e-16 L6,0 C4.8954305,2.02906125e-16 4,0.8954305 4,2 L4,4.67669654 L5,4.67669654 L5,2 C5,1.44771525 5.44771525,1 6,1 L15.8120061,1 Z M22.2626955,8.04026143 L22,7.36470092 L22,7.75355646 L22.2626955,8.04026143 Z M22,7.36470092 L22.2626955,8.04026143 L22,7.75355646 L22,7.36470092 Z M22,7.75355646 L22,21 C22,21.5522847 21.5522847,22 21,22 L18.6284612,22 L18.6284612,23 L21,23 C22.1045695,23 23,22.1045695 23,21 L23,7.36470092 L16.2520407,4.4408921e-16 L6,0 C4.8954305,2.02906125e-16 4,0.8954305 4,2 L4,4.67669654 L5,4.67669654 L5,2 C5,1.44771525 5.44771525,1 6,1 L15.8120061,1 L22,7.75355646 Z M16.2520407,1 L15.5147361,0.675560509 L15.8120061,1 L16.2520407,1 Z" id="Rectangle-2-Copy" fill-rule="nonzero"></path>
