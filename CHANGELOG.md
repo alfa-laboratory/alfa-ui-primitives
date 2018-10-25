@@ -1,3 +1,28 @@
+<a name="1.6.7"></a>
+## [1.6.7](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.6...v1.6.7) (2018-10-22)
+
+
+### Bug Fixes
+
+* **icons:** chat-send icon update ([#182](https://github.com/teryaew/alfa-ui-primitives/issues/182)) ([99bcf72](https://github.com/teryaew/alfa-ui-primitives/commit/99bcf72))
+
+
+### Features
+
+* **icons:** action-photo-or-file icon ([#188](https://github.com/teryaew/alfa-ui-primitives/issues/188)) ([5afe68f](https://github.com/teryaew/alfa-ui-primitives/commit/5afe68f))
+* **icons:** chat-photo added, cashback updated ([#183](https://github.com/teryaew/alfa-ui-primitives/issues/183)) ([ac8853a](https://github.com/teryaew/alfa-ui-primitives/commit/ac8853a))
+* **icons:** chat-photo icons ([#180](https://github.com/teryaew/alfa-ui-primitives/issues/180)) ([0645a64](https://github.com/teryaew/alfa-ui-primitives/commit/0645a64))
+* **icons:** chat-sent icon ([#181](https://github.com/teryaew/alfa-ui-primitives/issues/181)) ([88fa2db](https://github.com/teryaew/alfa-ui-primitives/commit/88fa2db))
+* **icons:** exchange icons ([#179](https://github.com/teryaew/alfa-ui-primitives/issues/179)) ([e9d79b4](https://github.com/teryaew/alfa-ui-primitives/commit/e9d79b4))
+* **icons:** icon for investments ([#186](https://github.com/teryaew/alfa-ui-primitives/issues/186)) ([405021a](https://github.com/teryaew/alfa-ui-primitives/commit/405021a))
+* **icons:** icons for new navigation ([#187](https://github.com/teryaew/alfa-ui-primitives/issues/187)) ([0d5fd5f](https://github.com/teryaew/alfa-ui-primitives/commit/0d5fd5f))
+* **icons:** marketplace and add icons ([#178](https://github.com/teryaew/alfa-ui-primitives/issues/178)) ([d85097d](https://github.com/teryaew/alfa-ui-primitives/commit/d85097d))
+* **icons:** new plus icon for marketplace  ([#191](https://github.com/teryaew/alfa-ui-primitives/issues/191)) ([093a773](https://github.com/teryaew/alfa-ui-primitives/commit/093a773))
+* **icons:** small apc-bonus icon ([#189](https://github.com/teryaew/alfa-ui-primitives/issues/189)) ([a9320ad](https://github.com/teryaew/alfa-ui-primitives/commit/a9320ad))
+* **icons:** unionpay icon added ([#176](https://github.com/teryaew/alfa-ui-primitives/issues/176)) ([33db0c7](https://github.com/teryaew/alfa-ui-primitives/commit/33db0c7))
+
+
+
 <a name="1.6.6"></a>
 ## [1.6.6](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.5...v1.6.6) (2018-09-18)
 
