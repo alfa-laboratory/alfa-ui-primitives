@@ -1,3 +1,8 @@
+<a name="1.6.9"></a>
+## [1.6.9](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.8...v1.6.9) (2018-11-13)
+
+
+
 <a name="1.6.8"></a>
 ## [1.6.8](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.7...v1.6.8) (2018-11-13)
 
