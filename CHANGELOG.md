@@ -1,3 +1,29 @@
+<a name="1.6.9"></a>
+## [1.6.9](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.8...v1.6.9) (2018-11-13)
+
+
+
+<a name="1.6.8"></a>
+## [1.6.8](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.7...v1.6.8) (2018-11-13)
+
+
+### Bug Fixes
+
+* **icons:** fix photo_m_black&white icons ([#202](https://github.com/teryaew/alfa-ui-primitives/issues/202)) ([17c3997](https://github.com/teryaew/alfa-ui-primitives/commit/17c3997))
+* **icons:** moved crown icon ([#195](https://github.com/teryaew/alfa-ui-primitives/issues/195)) ([aece800](https://github.com/teryaew/alfa-ui-primitives/commit/aece800))
+* **icons:** photo-or-file icon update ([#200](https://github.com/teryaew/alfa-ui-primitives/issues/200)) ([c168ae8](https://github.com/teryaew/alfa-ui-primitives/commit/c168ae8))
+* **icons:** update navigation-payment icon ([#193](https://github.com/teryaew/alfa-ui-primitives/issues/193)) ([1f64d91](https://github.com/teryaew/alfa-ui-primitives/commit/1f64d91))
+
+
+### Features
+
+* **icons:** add tick icon ([#203](https://github.com/teryaew/alfa-ui-primitives/issues/203)) ([c0af273](https://github.com/teryaew/alfa-ui-primitives/commit/c0af273))
+* **icons:** additional size for marketplace icon ([#192](https://github.com/teryaew/alfa-ui-primitives/issues/192)) ([a41192d](https://github.com/teryaew/alfa-ui-primitives/commit/a41192d))
+* **icons:** logo-alfabank_m_color icon ([#199](https://github.com/teryaew/alfa-ui-primitives/issues/199)) ([3b0ae89](https://github.com/teryaew/alfa-ui-primitives/commit/3b0ae89))
+* **icons:** photo-or-file icon update ([#194](https://github.com/teryaew/alfa-ui-primitives/issues/194)) ([ef7459f](https://github.com/teryaew/alfa-ui-primitives/commit/ef7459f))
+
+
+
 <a name="1.6.7"></a>
 ## [1.6.7](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.6...v1.6.7) (2018-10-22)
 
