@@ -1,3 +1,54 @@
+<a name="1.6.9"></a>
+## [1.6.9](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.8...v1.6.9) (2018-11-13)
+
+
+
+<a name="1.6.8"></a>
+## [1.6.8](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.7...v1.6.8) (2018-11-13)
+
+
+### Bug Fixes
+
+* **icons:** fix photo_m_black&white icons ([#202](https://github.com/teryaew/alfa-ui-primitives/issues/202)) ([17c3997](https://github.com/teryaew/alfa-ui-primitives/commit/17c3997))
+* **icons:** moved crown icon ([#195](https://github.com/teryaew/alfa-ui-primitives/issues/195)) ([aece800](https://github.com/teryaew/alfa-ui-primitives/commit/aece800))
+* **icons:** photo-or-file icon update ([#200](https://github.com/teryaew/alfa-ui-primitives/issues/200)) ([c168ae8](https://github.com/teryaew/alfa-ui-primitives/commit/c168ae8))
+* **icons:** update navigation-payment icon ([#193](https://github.com/teryaew/alfa-ui-primitives/issues/193)) ([1f64d91](https://github.com/teryaew/alfa-ui-primitives/commit/1f64d91))
+
+
+### Features
+
+* **icons:** add tick icon ([#203](https://github.com/teryaew/alfa-ui-primitives/issues/203)) ([c0af273](https://github.com/teryaew/alfa-ui-primitives/commit/c0af273))
+* **icons:** additional size for marketplace icon ([#192](https://github.com/teryaew/alfa-ui-primitives/issues/192)) ([a41192d](https://github.com/teryaew/alfa-ui-primitives/commit/a41192d))
+* **icons:** logo-alfabank_m_color icon ([#199](https://github.com/teryaew/alfa-ui-primitives/issues/199)) ([3b0ae89](https://github.com/teryaew/alfa-ui-primitives/commit/3b0ae89))
+* **icons:** photo-or-file icon update ([#194](https://github.com/teryaew/alfa-ui-primitives/issues/194)) ([ef7459f](https://github.com/teryaew/alfa-ui-primitives/commit/ef7459f))
+
+
+
+<a name="1.6.7"></a>
+## [1.6.7](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.6...v1.6.7) (2018-10-22)
+
+
+### Bug Fixes
+
+* **icons:** chat-send icon update ([#182](https://github.com/teryaew/alfa-ui-primitives/issues/182)) ([99bcf72](https://github.com/teryaew/alfa-ui-primitives/commit/99bcf72))
+
+
+### Features
+
+* **icons:** action-photo-or-file icon ([#188](https://github.com/teryaew/alfa-ui-primitives/issues/188)) ([5afe68f](https://github.com/teryaew/alfa-ui-primitives/commit/5afe68f))
+* **icons:** chat-photo added, cashback updated ([#183](https://github.com/teryaew/alfa-ui-primitives/issues/183)) ([ac8853a](https://github.com/teryaew/alfa-ui-primitives/commit/ac8853a))
+* **icons:** chat-photo icons ([#180](https://github.com/teryaew/alfa-ui-primitives/issues/180)) ([0645a64](https://github.com/teryaew/alfa-ui-primitives/commit/0645a64))
+* **icons:** chat-sent icon ([#181](https://github.com/teryaew/alfa-ui-primitives/issues/181)) ([88fa2db](https://github.com/teryaew/alfa-ui-primitives/commit/88fa2db))
+* **icons:** exchange icons ([#179](https://github.com/teryaew/alfa-ui-primitives/issues/179)) ([e9d79b4](https://github.com/teryaew/alfa-ui-primitives/commit/e9d79b4))
+* **icons:** icon for investments ([#186](https://github.com/teryaew/alfa-ui-primitives/issues/186)) ([405021a](https://github.com/teryaew/alfa-ui-primitives/commit/405021a))
+* **icons:** icons for new navigation ([#187](https://github.com/teryaew/alfa-ui-primitives/issues/187)) ([0d5fd5f](https://github.com/teryaew/alfa-ui-primitives/commit/0d5fd5f))
+* **icons:** marketplace and add icons ([#178](https://github.com/teryaew/alfa-ui-primitives/issues/178)) ([d85097d](https://github.com/teryaew/alfa-ui-primitives/commit/d85097d))
+* **icons:** new plus icon for marketplace  ([#191](https://github.com/teryaew/alfa-ui-primitives/issues/191)) ([093a773](https://github.com/teryaew/alfa-ui-primitives/commit/093a773))
+* **icons:** small apc-bonus icon ([#189](https://github.com/teryaew/alfa-ui-primitives/issues/189)) ([a9320ad](https://github.com/teryaew/alfa-ui-primitives/commit/a9320ad))
+* **icons:** unionpay icon added ([#176](https://github.com/teryaew/alfa-ui-primitives/issues/176)) ([33db0c7](https://github.com/teryaew/alfa-ui-primitives/commit/33db0c7))
+
+
+
 <a name="1.6.6"></a>
 ## [1.6.6](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.5...v1.6.6) (2018-09-18)
 
