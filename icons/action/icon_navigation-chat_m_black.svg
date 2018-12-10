@@ -1,8 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g fill="none">
-    <rect width="24" height="24"/>
-    <path fill="#0B1F35" d="M12,22 C6.4771525,22 2,17.5228475 2,12 C2,6.4771525 6.4771525,2 12,2 C17.5228475,2 22,6.4771525 22,12 L22,22 L12,22 Z M20,12 C20,7.581722 16.418278,4 12,4 C7.581722,4 4,7.581722 4,12 C4,16.418278 7.581722,20 12,20 L20,20 L20,12 Z" opacity=".3"/>
-    <circle cx="14.5" cy="13" r="1.5" fill="#0B1F35" opacity=".3"/>
-    <circle cx="9.5" cy="13" r="1.5" fill="#0B1F35" opacity=".3"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_navigation-chat_m_black</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_navigation-chat_m_black">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+            <path d="M12,22 C6.4771525,22 2,17.5228475 2,12 C2,6.4771525 6.4771525,2 12,2 C17.5228475,2 22,6.4771525 22,12 L22,22 L12,22 Z M20,12 C20,7.581722 16.418278,4 12,4 C7.581722,4 4,7.581722 4,12 C4,16.418278 7.581722,20 12,20 L20,20 L20,12 Z" id="Shape" fill="#B5BBC2" fill-rule="nonzero"></path>
+            <circle id="Oval" fill="#B5BBC2" cx="14.5" cy="13" r="1.5"></circle>
+            <circle id="Oval" fill="#B5BBC2" cx="9.5" cy="13" r="1.5"></circle>
+        </g>
+    </g>
 </svg>
