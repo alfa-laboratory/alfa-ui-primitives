@@ -1,3 +1,282 @@
+<a name="1.6.9"></a>
+## [1.6.9](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.8...v1.6.9) (2018-11-13)
+
+
+
+<a name="1.6.8"></a>
+## [1.6.8](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.7...v1.6.8) (2018-11-13)
+
+
+### Bug Fixes
+
+* **icons:** fix photo_m_black&white icons ([#202](https://github.com/teryaew/alfa-ui-primitives/issues/202)) ([17c3997](https://github.com/teryaew/alfa-ui-primitives/commit/17c3997))
+* **icons:** moved crown icon ([#195](https://github.com/teryaew/alfa-ui-primitives/issues/195)) ([aece800](https://github.com/teryaew/alfa-ui-primitives/commit/aece800))
+* **icons:** photo-or-file icon update ([#200](https://github.com/teryaew/alfa-ui-primitives/issues/200)) ([c168ae8](https://github.com/teryaew/alfa-ui-primitives/commit/c168ae8))
+* **icons:** update navigation-payment icon ([#193](https://github.com/teryaew/alfa-ui-primitives/issues/193)) ([1f64d91](https://github.com/teryaew/alfa-ui-primitives/commit/1f64d91))
+
+
+### Features
+
+* **icons:** add tick icon ([#203](https://github.com/teryaew/alfa-ui-primitives/issues/203)) ([c0af273](https://github.com/teryaew/alfa-ui-primitives/commit/c0af273))
+* **icons:** additional size for marketplace icon ([#192](https://github.com/teryaew/alfa-ui-primitives/issues/192)) ([a41192d](https://github.com/teryaew/alfa-ui-primitives/commit/a41192d))
+* **icons:** logo-alfabank_m_color icon ([#199](https://github.com/teryaew/alfa-ui-primitives/issues/199)) ([3b0ae89](https://github.com/teryaew/alfa-ui-primitives/commit/3b0ae89))
+* **icons:** photo-or-file icon update ([#194](https://github.com/teryaew/alfa-ui-primitives/issues/194)) ([ef7459f](https://github.com/teryaew/alfa-ui-primitives/commit/ef7459f))
+
+
+
+<a name="1.6.7"></a>
+## [1.6.7](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.6...v1.6.7) (2018-10-22)
+
+
+### Bug Fixes
+
+* **icons:** chat-send icon update ([#182](https://github.com/teryaew/alfa-ui-primitives/issues/182)) ([99bcf72](https://github.com/teryaew/alfa-ui-primitives/commit/99bcf72))
+
+
+### Features
+
+* **icons:** action-photo-or-file icon ([#188](https://github.com/teryaew/alfa-ui-primitives/issues/188)) ([5afe68f](https://github.com/teryaew/alfa-ui-primitives/commit/5afe68f))
+* **icons:** chat-photo added, cashback updated ([#183](https://github.com/teryaew/alfa-ui-primitives/issues/183)) ([ac8853a](https://github.com/teryaew/alfa-ui-primitives/commit/ac8853a))
+* **icons:** chat-photo icons ([#180](https://github.com/teryaew/alfa-ui-primitives/issues/180)) ([0645a64](https://github.com/teryaew/alfa-ui-primitives/commit/0645a64))
+* **icons:** chat-sent icon ([#181](https://github.com/teryaew/alfa-ui-primitives/issues/181)) ([88fa2db](https://github.com/teryaew/alfa-ui-primitives/commit/88fa2db))
+* **icons:** exchange icons ([#179](https://github.com/teryaew/alfa-ui-primitives/issues/179)) ([e9d79b4](https://github.com/teryaew/alfa-ui-primitives/commit/e9d79b4))
+* **icons:** icon for investments ([#186](https://github.com/teryaew/alfa-ui-primitives/issues/186)) ([405021a](https://github.com/teryaew/alfa-ui-primitives/commit/405021a))
+* **icons:** icons for new navigation ([#187](https://github.com/teryaew/alfa-ui-primitives/issues/187)) ([0d5fd5f](https://github.com/teryaew/alfa-ui-primitives/commit/0d5fd5f))
+* **icons:** marketplace and add icons ([#178](https://github.com/teryaew/alfa-ui-primitives/issues/178)) ([d85097d](https://github.com/teryaew/alfa-ui-primitives/commit/d85097d))
+* **icons:** new plus icon for marketplace  ([#191](https://github.com/teryaew/alfa-ui-primitives/issues/191)) ([093a773](https://github.com/teryaew/alfa-ui-primitives/commit/093a773))
+* **icons:** small apc-bonus icon ([#189](https://github.com/teryaew/alfa-ui-primitives/issues/189)) ([a9320ad](https://github.com/teryaew/alfa-ui-primitives/commit/a9320ad))
+* **icons:** unionpay icon added ([#176](https://github.com/teryaew/alfa-ui-primitives/issues/176)) ([33db0c7](https://github.com/teryaew/alfa-ui-primitives/commit/33db0c7))
+
+
+
+<a name="1.6.6"></a>
+## [1.6.6](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.5...v1.6.6) (2018-09-18)
+
+
+### Bug Fixes
+
+* **icons:** fixed ok icons ([#175](https://github.com/teryaew/alfa-ui-primitives/issues/175)) ([768cee0](https://github.com/teryaew/alfa-ui-primitives/commit/768cee0))
+
+
+### Features
+
+* **icons:** close icons for feather ([#169](https://github.com/teryaew/alfa-ui-primitives/issues/169)) ([98b72db](https://github.com/teryaew/alfa-ui-primitives/commit/98b72db))
+* **icons:** convert icons ([#171](https://github.com/teryaew/alfa-ui-primitives/issues/171)) ([dd11b44](https://github.com/teryaew/alfa-ui-primitives/commit/dd11b44))
+* **icons:** new cashback-bonus icons ([#172](https://github.com/teryaew/alfa-ui-primitives/issues/172)) ([0656104](https://github.com/teryaew/alfa-ui-primitives/commit/0656104))
+* **icons:** transfer-outer white icon ([#173](https://github.com/teryaew/alfa-ui-primitives/issues/173)) ([8bcdc14](https://github.com/teryaew/alfa-ui-primitives/commit/8bcdc14))
+
+
+
+<a name="1.6.5"></a>
+## [1.6.5](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.4...v1.6.5) (2018-08-23)
+
+
+### Bug Fixes
+
+* **icons:** add erase xl icons ([#130](https://github.com/teryaew/alfa-ui-primitives/issues/130)) ([0f503ac](https://github.com/teryaew/alfa-ui-primitives/commit/0f503ac))
+* **icons:** balance-transfer and card-to-card fixed for android ([#140](https://github.com/teryaew/alfa-ui-primitives/issues/140)) ([81987c5](https://github.com/teryaew/alfa-ui-primitives/commit/81987c5))
+* **icons:** balance-transfer icons (android fix) ([#141](https://github.com/teryaew/alfa-ui-primitives/issues/141)) ([bca6ded](https://github.com/teryaew/alfa-ui-primitives/commit/bca6ded))
+* **icons:** balance-transfer icons (one more android fix) ([#142](https://github.com/teryaew/alfa-ui-primitives/issues/142)) ([3f3cccf](https://github.com/teryaew/alfa-ui-primitives/commit/3f3cccf))
+* **icons:** balance-transfer icons (yet another android fix) ([#143](https://github.com/teryaew/alfa-ui-primitives/issues/143)) ([bdc7325](https://github.com/teryaew/alfa-ui-primitives/commit/bdc7325))
+* **icons:** category-travel fixes ([#166](https://github.com/teryaew/alfa-ui-primitives/issues/166)) ([7d95b6d](https://github.com/teryaew/alfa-ui-primitives/commit/7d95b6d))
+* **icons:** fix calendar icons ([#155](https://github.com/teryaew/alfa-ui-primitives/issues/155)) ([71dca43](https://github.com/teryaew/alfa-ui-primitives/commit/71dca43))
+* **icons:** fix card-activate_m icons ([#147](https://github.com/teryaew/alfa-ui-primitives/issues/147)) ([ef9ed15](https://github.com/teryaew/alfa-ui-primitives/commit/ef9ed15))
+* **icons:** fix card-add icons & add new sizes ([#168](https://github.com/teryaew/alfa-ui-primitives/issues/168)) ([37cc843](https://github.com/teryaew/alfa-ui-primitives/commit/37cc843))
+* **icons:** fix icon_card brand icons ([#148](https://github.com/teryaew/alfa-ui-primitives/issues/148)) ([e646ba9](https://github.com/teryaew/alfa-ui-primitives/commit/e646ba9))
+* **icons:** photo-card icon fix ([#135](https://github.com/teryaew/alfa-ui-primitives/issues/135)) ([b3b656f](https://github.com/teryaew/alfa-ui-primitives/commit/b3b656f))
+* **icons:** renames and moves close-circle icons ([#164](https://github.com/teryaew/alfa-ui-primitives/issues/164)) ([e1c28cc](https://github.com/teryaew/alfa-ui-primitives/commit/e1c28cc))
+* **icons:** transfer-any-bank-credit icons (android fix) ([#144](https://github.com/teryaew/alfa-ui-primitives/issues/144)) ([37953a7](https://github.com/teryaew/alfa-ui-primitives/commit/37953a7))
+* **icons:** transfer-any-bank-credit icons (android please) ([#145](https://github.com/teryaew/alfa-ui-primitives/issues/145)) ([a3382eb](https://github.com/teryaew/alfa-ui-primitives/commit/a3382eb))
+* **icons:** update icons for payments and transfers screen ([#146](https://github.com/teryaew/alfa-ui-primitives/issues/146)) ([6bd5519](https://github.com/teryaew/alfa-ui-primitives/commit/6bd5519))
+
+
+### Features
+
+* **colors:** blue color for ios ([#154](https://github.com/teryaew/alfa-ui-primitives/issues/154)) ([005b118](https://github.com/teryaew/alfa-ui-primitives/commit/005b118))
+* **colors:** new bg_personal color ([#149](https://github.com/teryaew/alfa-ui-primitives/issues/149)) ([ba75e0a](https://github.com/teryaew/alfa-ui-primitives/commit/ba75e0a))
+* **icons:** add cashback icons ([#133](https://github.com/teryaew/alfa-ui-primitives/issues/133)) ([030b6f8](https://github.com/teryaew/alfa-ui-primitives/commit/030b6f8))
+* **icons:** add icon_cashback_xs_white ([#150](https://github.com/teryaew/alfa-ui-primitives/issues/150)) ([1866abf](https://github.com/teryaew/alfa-ui-primitives/commit/1866abf))
+* **icons:** add metro icon ([#151](https://github.com/teryaew/alfa-ui-primitives/issues/151)) ([c8910f2](https://github.com/teryaew/alfa-ui-primitives/commit/c8910f2))
+* **icons:** add photo-card m icon ([#129](https://github.com/teryaew/alfa-ui-primitives/issues/129)) ([9d28c4d](https://github.com/teryaew/alfa-ui-primitives/commit/9d28c4d))
+* **icons:** balance transfer icons ([#131](https://github.com/teryaew/alfa-ui-primitives/issues/131)) ([46aafa4](https://github.com/teryaew/alfa-ui-primitives/commit/46aafa4))
+* **icons:** balance transfer icons ([#138](https://github.com/teryaew/alfa-ui-primitives/issues/138)) ([9fa9376](https://github.com/teryaew/alfa-ui-primitives/commit/9fa9376))
+* **icons:** balance transfer icons update ([#134](https://github.com/teryaew/alfa-ui-primitives/issues/134)) ([5903018](https://github.com/teryaew/alfa-ui-primitives/commit/5903018))
+* **icons:** brand new card to card icon ([#139](https://github.com/teryaew/alfa-ui-primitives/issues/139)) ([b17e3f4](https://github.com/teryaew/alfa-ui-primitives/commit/b17e3f4))
+* **icons:** cashback_xs and hold_xs ([#153](https://github.com/teryaew/alfa-ui-primitives/issues/153)) ([53d0bf8](https://github.com/teryaew/alfa-ui-primitives/commit/53d0bf8))
+* **icons:** experiments category icon ([#132](https://github.com/teryaew/alfa-ui-primitives/issues/132)) ([782754a](https://github.com/teryaew/alfa-ui-primitives/commit/782754a))
+* **icons:** logout & arrow icons ([#137](https://github.com/teryaew/alfa-ui-primitives/issues/137)) ([22fb531](https://github.com/teryaew/alfa-ui-primitives/commit/22fb531))
+* **icons:** psb color icons fix ([#136](https://github.com/teryaew/alfa-ui-primitives/issues/136)) ([0e21f98](https://github.com/teryaew/alfa-ui-primitives/commit/0e21f98))
+* **icons:** xl card ([#128](https://github.com/teryaew/alfa-ui-primitives/issues/128)) ([d61b615](https://github.com/teryaew/alfa-ui-primitives/commit/d61b615))
+
+
+
+<a name="1.6.4"></a>
+## [1.6.4](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.3...v1.6.4) (2018-05-29)
+
+
+### Bug Fixes
+
+* **icons:** add chat message error icon ([#127](https://github.com/teryaew/alfa-ui-primitives/issues/127)) ([4babf19](https://github.com/teryaew/alfa-ui-primitives/commit/4babf19))
+
+
+### Features
+
+* **icons:** add check-chat and clock xs icons ([#124](https://github.com/teryaew/alfa-ui-primitives/issues/124)) ([3021f7b](https://github.com/teryaew/alfa-ui-primitives/commit/3021f7b))
+
+
+
+<a name="1.6.3"></a>
+## [1.6.3](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.2...v1.6.3) (2018-04-27)
+
+
+### Bug Fixes
+
+* **icons:** add_forex_icon ([#116](https://github.com/teryaew/alfa-ui-primitives/issues/116)) ([fd242d7](https://github.com/teryaew/alfa-ui-primitives/commit/fd242d7))
+
+
+
+<a name="1.6.2"></a>
+## [1.6.2](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.1...v1.6.2) (2018-04-17)
+
+
+### Bug Fixes
+
+* **icons:** fixes add icon names ([33a8bc4](https://github.com/teryaew/alfa-ui-primitives/commit/33a8bc4))
+
+
+
+<a name="1.6.1"></a>
+## [1.6.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.0...v1.6.1) (2018-04-17)
+
+
+### Features
+
+* **icons:** fix bank icons ([#108](https://github.com/teryaew/alfa-ui-primitives/issues/108)) ([33c67ad](https://github.com/teryaew/alfa-ui-primitives/commit/33c67ad))
+
+
+
+<a name="1.6.0"></a>
+# [1.6.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.5.2...v1.6.0) (2018-03-29)
+
+
+### Bug Fixes
+
+* **icons:** add lock and card-activate xxl icons ([#107](https://github.com/teryaew/alfa-ui-primitives/issues/107)) ([3d75cec](https://github.com/teryaew/alfa-ui-primitives/commit/3d75cec))
+* **icons:** fix icon for regisrty ([#98](https://github.com/teryaew/alfa-ui-primitives/issues/98)) ([ebf8d2b](https://github.com/teryaew/alfa-ui-primitives/commit/ebf8d2b))
+* **icons:** info for Anton in AM ([#96](https://github.com/teryaew/alfa-ui-primitives/issues/96)) ([c2a9bf6](https://github.com/teryaew/alfa-ui-primitives/commit/c2a9bf6))
+
+
+### Features
+
+* **icons:** add icons chat-send_color ([#97](https://github.com/teryaew/alfa-ui-primitives/issues/97)) ([9f34ad8](https://github.com/teryaew/alfa-ui-primitives/commit/9f34ad8))
+* **icons:** add mastercard and visa ([#105](https://github.com/teryaew/alfa-ui-primitives/issues/105)) ([6954f39](https://github.com/teryaew/alfa-ui-primitives/commit/6954f39))
+* **icons:** add system_arrow ([#100](https://github.com/teryaew/alfa-ui-primitives/issues/100)) ([19ad66e](https://github.com/teryaew/alfa-ui-primitives/commit/19ad66e))
+* **icons:** dublin ([#102](https://github.com/teryaew/alfa-ui-primitives/issues/102)) ([9a9739b](https://github.com/teryaew/alfa-ui-primitives/commit/9a9739b))
+* **icons:** replace icon_dublon ([#101](https://github.com/teryaew/alfa-ui-primitives/issues/101)) ([b5d9026](https://github.com/teryaew/alfa-ui-primitives/commit/b5d9026))
+* **icons:** success icon for mobile developers for final screen ([#99](https://github.com/teryaew/alfa-ui-primitives/issues/99)) ([8978e7d](https://github.com/teryaew/alfa-ui-primitives/commit/8978e7d))
+
+
+
+<a name="1.5.2"></a>
+## [1.5.2](https://github.com/teryaew/alfa-ui-primitives/compare/v1.5.1...v1.5.2) (2018-03-15)
+
+
+
+<a name="1.5.1"></a>
+## [1.5.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.5.0...v1.5.1) (2018-03-15)
+
+
+
+<a name="1.5.0"></a>
+# [1.5.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.4.2...v1.5.0) (2018-03-15)
+
+
+### Features
+
+* **icons:** icon back ([#94](https://github.com/teryaew/alfa-ui-primitives/issues/94)) ([b1656bf](https://github.com/teryaew/alfa-ui-primitives/commit/b1656bf))
+
+
+
+<a name="1.4.2"></a>
+## [1.4.2](https://github.com/teryaew/alfa-ui-primitives/compare/v1.4.1...v1.4.2) (2018-03-13)
+
+
+### Bug Fixes
+
+* **business-icon:** fix stroke in business icon ([#24](https://github.com/teryaew/alfa-ui-primitives/issues/24)) ([08037bf](https://github.com/teryaew/alfa-ui-primitives/commit/08037bf))
+* **icons:** fix check-bold, add xxl ([54c7792](https://github.com/teryaew/alfa-ui-primitives/commit/54c7792))
+* **icons:** fix edit m icon ([#39](https://github.com/teryaew/alfa-ui-primitives/issues/39)) ([79247e8](https://github.com/teryaew/alfa-ui-primitives/commit/79247e8))
+* **icons:** fix house icon ([#25](https://github.com/teryaew/alfa-ui-primitives/issues/25)) ([723663f](https://github.com/teryaew/alfa-ui-primitives/commit/723663f))
+* **icons:** fix lock filled white ([8f73a28](https://github.com/teryaew/alfa-ui-primitives/commit/8f73a28))
+* **icons:** fix lock_s icons ([f6243f2](https://github.com/teryaew/alfa-ui-primitives/commit/f6243f2))
+* **icons:** fix naming filled ([70164bb](https://github.com/teryaew/alfa-ui-primitives/commit/70164bb))
+* **icons:** fix troika icon ([#26](https://github.com/teryaew/alfa-ui-primitives/issues/26)) ([f42cf6c](https://github.com/teryaew/alfa-ui-primitives/commit/f42cf6c))
+* **icons:** minify-icon-next ([#18](https://github.com/teryaew/alfa-ui-primitives/issues/18)) ([99f1f11](https://github.com/teryaew/alfa-ui-primitives/commit/99f1f11))
+* **icons:** remove alfa-check dublicate ([#28](https://github.com/teryaew/alfa-ui-primitives/issues/28)) ([6592a67](https://github.com/teryaew/alfa-ui-primitives/commit/6592a67))
+* **icons:** remove lock dublicates, fix sizes & icon ([#29](https://github.com/teryaew/alfa-ui-primitives/issues/29)) ([2d3da4b](https://github.com/teryaew/alfa-ui-primitives/commit/2d3da4b))
+* **icons:** remove user dublicate & fix user ([2944ade](https://github.com/teryaew/alfa-ui-primitives/commit/2944ade))
+* **icons:** rename transit to transport ([#27](https://github.com/teryaew/alfa-ui-primitives/issues/27)) ([21453f4](https://github.com/teryaew/alfa-ui-primitives/commit/21453f4))
+* **verifying:** remove dublicates, fix m size icon ([#33](https://github.com/teryaew/alfa-ui-primitives/issues/33)) ([d0a82e4](https://github.com/teryaew/alfa-ui-primitives/commit/d0a82e4))
+
+
+### Features
+
+* **arrow-down:** fix s & m, add l, xl & xxl ([#41](https://github.com/teryaew/alfa-ui-primitives/issues/41)) ([f862d48](https://github.com/teryaew/alfa-ui-primitives/commit/f862d48))
+* **colours:** add corporate bg ([e11356e](https://github.com/teryaew/alfa-ui-primitives/commit/e11356e))
+* **icons:** add annas icons ([4699d30](https://github.com/teryaew/alfa-ui-primitives/commit/4699d30))
+* **icons:** add chart art  ([59214a9](https://github.com/teryaew/alfa-ui-primitives/commit/59214a9))
+* **icons:** add color lock icons ([#47](https://github.com/teryaew/alfa-ui-primitives/issues/47)) ([15cf91a](https://github.com/teryaew/alfa-ui-primitives/commit/15cf91a))
+* **icons:** add erase icon ([aecf15f](https://github.com/teryaew/alfa-ui-primitives/commit/aecf15f))
+* **icons:** add icon-next ([0574ede](https://github.com/teryaew/alfa-ui-primitives/commit/0574ede))
+* **icons:** add indeterminate icon ([#22](https://github.com/teryaew/alfa-ui-primitives/issues/22)) ([33284f0](https://github.com/teryaew/alfa-ui-primitives/commit/33284f0))
+* **icons:** add predictions ([c87e91b](https://github.com/teryaew/alfa-ui-primitives/commit/c87e91b))
+* **icons:** add ui arrow up, left, right icons ([#43](https://github.com/teryaew/alfa-ui-primitives/issues/43)) ([cd5a706](https://github.com/teryaew/alfa-ui-primitives/commit/cd5a706))
+* **icons:** remake check bold ([#23](https://github.com/teryaew/alfa-ui-primitives/issues/23)) ([ef33057](https://github.com/teryaew/alfa-ui-primitives/commit/ef33057))
+
+
+
+<a name="1.4.1"></a>
+## [1.4.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.4.0...v1.4.1) (2018-03-13)
+
+
+### Bug Fixes
+
+* **icons:** indererminate ([#91](https://github.com/teryaew/alfa-ui-primitives/issues/91)) ([25c2abc](https://github.com/teryaew/alfa-ui-primitives/commit/25c2abc))
+
+
+
+<a name="1.4.0"></a>
+# [1.4.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.3.1...v1.4.0) (2018-03-13)
+
+
+### Bug Fixes
+
+* **icon:** fix icon fingerprint and fix view logo and fix color for logo and add arrow for payment myself ([#70](https://github.com/teryaew/alfa-ui-primitives/issues/70)) ([a638528](https://github.com/teryaew/alfa-ui-primitives/commit/a638528)), closes [#18](https://github.com/teryaew/alfa-ui-primitives/issues/18) [#22](https://github.com/teryaew/alfa-ui-primitives/issues/22) [#23](https://github.com/teryaew/alfa-ui-primitives/issues/23) [#26](https://github.com/teryaew/alfa-ui-primitives/issues/26) [#28](https://github.com/teryaew/alfa-ui-primitives/issues/28) [#24](https://github.com/teryaew/alfa-ui-primitives/issues/24) [#25](https://github.com/teryaew/alfa-ui-primitives/issues/25) [#27](https://github.com/teryaew/alfa-ui-primitives/issues/27) [#29](https://github.com/teryaew/alfa-ui-primitives/issues/29) [#33](https://github.com/teryaew/alfa-ui-primitives/issues/33) [#41](https://github.com/teryaew/alfa-ui-primitives/issues/41) [#43](https://github.com/teryaew/alfa-ui-primitives/issues/43) [#47](https://github.com/teryaew/alfa-ui-primitives/issues/47) [#49](https://github.com/teryaew/alfa-ui-primitives/issues/49) [#39](https://github.com/teryaew/alfa-ui-primitives/issues/39)
+* **icons:** add white icons & put keyboard to entities ([#82](https://github.com/teryaew/alfa-ui-primitives/issues/82)) ([602e685](https://github.com/teryaew/alfa-ui-primitives/commit/602e685))
+* **icons:** fix and add icon ([#73](https://github.com/teryaew/alfa-ui-primitives/issues/73)) ([967a80a](https://github.com/teryaew/alfa-ui-primitives/commit/967a80a)), closes [#18](https://github.com/teryaew/alfa-ui-primitives/issues/18) [#22](https://github.com/teryaew/alfa-ui-primitives/issues/22) [#23](https://github.com/teryaew/alfa-ui-primitives/issues/23) [#26](https://github.com/teryaew/alfa-ui-primitives/issues/26) [#28](https://github.com/teryaew/alfa-ui-primitives/issues/28) [#24](https://github.com/teryaew/alfa-ui-primitives/issues/24) [#25](https://github.com/teryaew/alfa-ui-primitives/issues/25) [#27](https://github.com/teryaew/alfa-ui-primitives/issues/27) [#29](https://github.com/teryaew/alfa-ui-primitives/issues/29) [#33](https://github.com/teryaew/alfa-ui-primitives/issues/33) [#41](https://github.com/teryaew/alfa-ui-primitives/issues/41) [#43](https://github.com/teryaew/alfa-ui-primitives/issues/43) [#47](https://github.com/teryaew/alfa-ui-primitives/issues/47) [#49](https://github.com/teryaew/alfa-ui-primitives/issues/49) [#39](https://github.com/teryaew/alfa-ui-primitives/issues/39)
+* **icons:** fix lock_s icons ([#75](https://github.com/teryaew/alfa-ui-primitives/issues/75)) ([ef91985](https://github.com/teryaew/alfa-ui-primitives/commit/ef91985))
+* **icons:** huge fixes from Sveta ([#78](https://github.com/teryaew/alfa-ui-primitives/issues/78)) ([b037609](https://github.com/teryaew/alfa-ui-primitives/commit/b037609)), closes [#18](https://github.com/teryaew/alfa-ui-primitives/issues/18) [#22](https://github.com/teryaew/alfa-ui-primitives/issues/22) [#23](https://github.com/teryaew/alfa-ui-primitives/issues/23) [#26](https://github.com/teryaew/alfa-ui-primitives/issues/26) [#28](https://github.com/teryaew/alfa-ui-primitives/issues/28) [#24](https://github.com/teryaew/alfa-ui-primitives/issues/24) [#25](https://github.com/teryaew/alfa-ui-primitives/issues/25) [#27](https://github.com/teryaew/alfa-ui-primitives/issues/27) [#29](https://github.com/teryaew/alfa-ui-primitives/issues/29) [#33](https://github.com/teryaew/alfa-ui-primitives/issues/33) [#41](https://github.com/teryaew/alfa-ui-primitives/issues/41) [#43](https://github.com/teryaew/alfa-ui-primitives/issues/43) [#47](https://github.com/teryaew/alfa-ui-primitives/issues/47) [#49](https://github.com/teryaew/alfa-ui-primitives/issues/49) [#39](https://github.com/teryaew/alfa-ui-primitives/issues/39)
+* **icons:** icon for ABM ([#85](https://github.com/teryaew/alfa-ui-primitives/issues/85)) ([9b406c3](https://github.com/teryaew/alfa-ui-primitives/commit/9b406c3)), closes [#18](https://github.com/teryaew/alfa-ui-primitives/issues/18) [#22](https://github.com/teryaew/alfa-ui-primitives/issues/22) [#23](https://github.com/teryaew/alfa-ui-primitives/issues/23) [#26](https://github.com/teryaew/alfa-ui-primitives/issues/26) [#28](https://github.com/teryaew/alfa-ui-primitives/issues/28) [#24](https://github.com/teryaew/alfa-ui-primitives/issues/24) [#25](https://github.com/teryaew/alfa-ui-primitives/issues/25) [#27](https://github.com/teryaew/alfa-ui-primitives/issues/27) [#29](https://github.com/teryaew/alfa-ui-primitives/issues/29) [#33](https://github.com/teryaew/alfa-ui-primitives/issues/33) [#41](https://github.com/teryaew/alfa-ui-primitives/issues/41) [#43](https://github.com/teryaew/alfa-ui-primitives/issues/43) [#47](https://github.com/teryaew/alfa-ui-primitives/issues/47) [#49](https://github.com/teryaew/alfa-ui-primitives/issues/49) [#39](https://github.com/teryaew/alfa-ui-primitives/issues/39)
+* **icons:** icon for exchange rates ([#88](https://github.com/teryaew/alfa-ui-primitives/issues/88)) ([6afafb1](https://github.com/teryaew/alfa-ui-primitives/commit/6afafb1)), closes [#18](https://github.com/teryaew/alfa-ui-primitives/issues/18) [#22](https://github.com/teryaew/alfa-ui-primitives/issues/22) [#23](https://github.com/teryaew/alfa-ui-primitives/issues/23) [#26](https://github.com/teryaew/alfa-ui-primitives/issues/26) [#28](https://github.com/teryaew/alfa-ui-primitives/issues/28) [#24](https://github.com/teryaew/alfa-ui-primitives/issues/24) [#25](https://github.com/teryaew/alfa-ui-primitives/issues/25) [#27](https://github.com/teryaew/alfa-ui-primitives/issues/27) [#29](https://github.com/teryaew/alfa-ui-primitives/issues/29) [#33](https://github.com/teryaew/alfa-ui-primitives/issues/33) [#41](https://github.com/teryaew/alfa-ui-primitives/issues/41) [#43](https://github.com/teryaew/alfa-ui-primitives/issues/43) [#47](https://github.com/teryaew/alfa-ui-primitives/issues/47) [#49](https://github.com/teryaew/alfa-ui-primitives/issues/49) [#39](https://github.com/teryaew/alfa-ui-primitives/issues/39)
+
+
+### Features
+
+* **colors:** add deep indigo and bg personal ([#83](https://github.com/teryaew/alfa-ui-primitives/issues/83)) ([1e5c64a](https://github.com/teryaew/alfa-ui-primitives/commit/1e5c64a))
+* **icons:** add bonus icon ([#66](https://github.com/teryaew/alfa-ui-primitives/issues/66)) ([92ca772](https://github.com/teryaew/alfa-ui-primitives/commit/92ca772))
+* **icons:** add cashback & send ([#77](https://github.com/teryaew/alfa-ui-primitives/issues/77)) ([088dbf2](https://github.com/teryaew/alfa-ui-primitives/commit/088dbf2))
+* **icons:** add dublin ([#80](https://github.com/teryaew/alfa-ui-primitives/issues/80)) ([00f0365](https://github.com/teryaew/alfa-ui-primitives/commit/00f0365))
+* **icons:** add dublon s & fixes ([#87](https://github.com/teryaew/alfa-ui-primitives/issues/87)) ([f16dff3](https://github.com/teryaew/alfa-ui-primitives/commit/f16dff3))
+* **icons:** add google pay ([#64](https://github.com/teryaew/alfa-ui-primitives/issues/64)) ([d6c21fc](https://github.com/teryaew/alfa-ui-primitives/commit/d6c21fc))
+* **icons:** add transfer ([#69](https://github.com/teryaew/alfa-ui-primitives/issues/69)) ([af9b1a2](https://github.com/teryaew/alfa-ui-primitives/commit/af9b1a2))
+* **icons:** arrow back ([#90](https://github.com/teryaew/alfa-ui-primitives/issues/90)) ([1c1fe00](https://github.com/teryaew/alfa-ui-primitives/commit/1c1fe00))
+* **icons:** change bonus icon ([6fbaa51](https://github.com/teryaew/alfa-ui-primitives/commit/6fbaa51))
+* **icons:** icon gpay ([#72](https://github.com/teryaew/alfa-ui-primitives/issues/72)) ([145557d](https://github.com/teryaew/alfa-ui-primitives/commit/145557d))
+* **icons:** replace dublon ([#84](https://github.com/teryaew/alfa-ui-primitives/issues/84)) ([9a4d629](https://github.com/teryaew/alfa-ui-primitives/commit/9a4d629))
+* **icons:** replace dublons ([#89](https://github.com/teryaew/alfa-ui-primitives/issues/89)) ([8b626a7](https://github.com/teryaew/alfa-ui-primitives/commit/8b626a7))
+
+
+
 <a name="1.3.1"></a>
 ## [1.3.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.3.0...v1.3.1) (2018-02-07)
 
