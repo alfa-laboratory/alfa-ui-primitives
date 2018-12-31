@@ -1,3 +1,28 @@
+<a name="1.7.0"></a>
+# [1.7.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.9...v1.7.0) (2018-12-29)
+
+
+### Bug Fixes
+
+* **icons:** arrow-bottom icon update ([#204](https://github.com/teryaew/alfa-ui-primitives/issues/204)) ([b91344c](https://github.com/teryaew/alfa-ui-primitives/commit/b91344c))
+* **icons:** remove tax-fines duplicate ([#228](https://github.com/teryaew/alfa-ui-primitives/issues/228)) ([b928a8e](https://github.com/teryaew/alfa-ui-primitives/commit/b928a8e))
+* **icons:** rename ([#223](https://github.com/teryaew/alfa-ui-primitives/issues/223)) ([bbdf254](https://github.com/teryaew/alfa-ui-primitives/commit/bbdf254))
+* **icons:** update icon_bank-alfa_l_white icon ([#207](https://github.com/teryaew/alfa-ui-primitives/issues/207)) ([934ed0f](https://github.com/teryaew/alfa-ui-primitives/commit/934ed0f))
+* **icons:** update navigation icons color ([#205](https://github.com/teryaew/alfa-ui-primitives/issues/205)) ([42420b5](https://github.com/teryaew/alfa-ui-primitives/commit/42420b5))
+* **icons:** update notifications icon ([#210](https://github.com/teryaew/alfa-ui-primitives/issues/210)) ([feb3064](https://github.com/teryaew/alfa-ui-primitives/commit/feb3064))
+
+
+### Features
+
+* **colors:** add bg_corporate colors (opacity 90, 60, 30) ([#217](https://github.com/teryaew/alfa-ui-primitives/issues/217)) ([5f9add7](https://github.com/teryaew/alfa-ui-primitives/commit/5f9add7))
+* **icons:** add notification-badge icon ([#206](https://github.com/teryaew/alfa-ui-primitives/issues/206)) ([3f8159b](https://github.com/teryaew/alfa-ui-primitives/commit/3f8159b))
+* **icons:** add templates icon ([#212](https://github.com/teryaew/alfa-ui-primitives/issues/212)) ([79d9cda](https://github.com/teryaew/alfa-ui-primitives/commit/79d9cda))
+* **icons:** new icons for android and some fixes ([#211](https://github.com/teryaew/alfa-ui-primitives/issues/211)) ([a633240](https://github.com/teryaew/alfa-ui-primitives/commit/a633240))
+* **icons:** remove duplicates ([#226](https://github.com/teryaew/alfa-ui-primitives/issues/226)) ([33d888a](https://github.com/teryaew/alfa-ui-primitives/commit/33d888a))
+* **icons:** waiting and fault xs icons ([#208](https://github.com/teryaew/alfa-ui-primitives/issues/208)) ([6f2a95e](https://github.com/teryaew/alfa-ui-primitives/commit/6f2a95e))
+
+
+
 <a name="1.6.9"></a>
 ## [1.6.9](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.8...v1.6.9) (2018-11-13)
 
