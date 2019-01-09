@@ -1,3 +1,13 @@
+<a name="1.8.0"></a>
+# [1.8.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.7.0...v1.8.0) (2019-01-09)
+
+
+### Bug Fixes
+
+* **icons:** moved user and manager ([#229](https://github.com/teryaew/alfa-ui-primitives/issues/229)) ([0a5beff](https://github.com/teryaew/alfa-ui-primitives/commit/0a5beff))
+
+
+
 <a name="1.7.0"></a>
 # [1.7.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.9...v1.7.0) (2018-12-29)
 
