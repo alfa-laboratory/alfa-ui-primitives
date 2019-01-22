@@ -1,3 +1,13 @@
+<a name="1.8.1"></a>
+## [1.8.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.8.0...v1.8.1) (2019-01-22)
+
+
+### Features
+
+* **icons:** xs tick icons ([#230](https://github.com/teryaew/alfa-ui-primitives/issues/230)) ([71d47d1](https://github.com/teryaew/alfa-ui-primitives/commit/71d47d1))
+
+
+
 <a name="1.8.0"></a>
 # [1.8.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.7.0...v1.8.0) (2019-01-09)
 
