@@ -1,3 +1,13 @@
+<a name="1.9.0"></a>
+# [1.9.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.8.1...v1.9.0) (2019-01-24)
+
+
+### Features
+
+* **colors:** add colors.json to publish ([#231](https://github.com/teryaew/alfa-ui-primitives/issues/231)) ([bd73ab6](https://github.com/teryaew/alfa-ui-primitives/commit/bd73ab6))
+
+
+
 <a name="1.8.1"></a>
 ## [1.8.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.8.0...v1.8.1) (2019-01-22)
 
