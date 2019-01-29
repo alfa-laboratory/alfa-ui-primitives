@@ -1,3 +1,18 @@
+<a name="1.9.1"></a>
+## [1.9.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.9.0...v1.9.1) (2019-01-29)
+
+
+### Bug Fixes
+
+* **icons:** fixed telecom icon ([#233](https://github.com/teryaew/alfa-ui-primitives/issues/233)) ([f4d208d](https://github.com/teryaew/alfa-ui-primitives/commit/f4d208d))
+
+
+### Features
+
+* **icons:** filter icon is back ([#234](https://github.com/teryaew/alfa-ui-primitives/issues/234)) ([161a914](https://github.com/teryaew/alfa-ui-primitives/commit/161a914))
+
+
+
 <a name="1.9.0"></a>
 # [1.9.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.8.1...v1.9.0) (2019-01-24)
 
