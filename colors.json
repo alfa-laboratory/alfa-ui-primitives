@@ -111,5 +111,8 @@
   "text_white_primary": "#ffffff",
   "text_white_secondary": "#b3ffffff",
   "text_white_tertiary": "#66ffffff",
-  "text_white_paragraph": "#ccffffff"
+  "text_white_paragraph": "#ccffffff",
+  "corporate_payment_to_person": "#f6bf65",
+  "corporate_payment_to_atm": "#8888ad",
+  "corporate_payment_to_card": "#a489aa"
 }
