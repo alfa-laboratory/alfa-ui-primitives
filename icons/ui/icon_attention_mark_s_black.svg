@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon_attention_s_black</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_attention_s_black" fill-rule="nonzero">
+            <path d="M9,17.25 C13.556325,17.25 17.25,13.556325 17.25,9 C17.25,4.4436525 13.556325,0.75 9,0.75 C4.4436525,0.75 0.75,4.4436525 0.75,9 C0.75,13.556325 4.4436525,17.25 9,17.25 Z" id="Path" fill="#0B1F35"></path>
+            <path d="M9.750075,9.75 L9.937575,4.5 L8.062575,4.5 L8.250075,9.75 L9.750075,9.75 Z M8.19855,13.173375 C8.40945,13.3851 8.696775,13.50285 8.995575,13.5 C9.637575,13.5 10.125075,13.01175 10.125075,12.375 C10.125075,11.7375 9.636825,11.25 8.995575,11.25 C8.371575,11.25 7.875075,11.7375 7.875075,12.375 C7.871025,12.6738 7.98765,12.96165 8.19855,13.173375 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
