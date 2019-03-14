@@ -1,3 +1,24 @@
+<a name="1.9.2"></a>
+## [1.9.2](https://github.com/teryaew/alfa-ui-primitives/compare/v1.9.1...v1.9.2) (2019-03-14)
+
+
+### Bug Fixes
+
+* **icons:** fix telecom icon ([#242](https://github.com/teryaew/alfa-ui-primitives/issues/242)) ([48c923e](https://github.com/teryaew/alfa-ui-primitives/commit/48c923e))
+* **icons:** fixed exchange icon ([#246](https://github.com/teryaew/alfa-ui-primitives/issues/246)) ([5a8b058](https://github.com/teryaew/alfa-ui-primitives/commit/5a8b058))
+* **icons:** no more .svg.svg ([#245](https://github.com/teryaew/alfa-ui-primitives/issues/245)) ([969c60a](https://github.com/teryaew/alfa-ui-primitives/commit/969c60a))
+
+
+### Features
+
+* **colors:** new corporate colors for ABM ([#235](https://github.com/teryaew/alfa-ui-primitives/issues/235)) ([bab81ee](https://github.com/teryaew/alfa-ui-primitives/commit/bab81ee))
+* **colors:** updated dark indigo set ([#243](https://github.com/teryaew/alfa-ui-primitives/issues/243)) ([32851f7](https://github.com/teryaew/alfa-ui-primitives/commit/32851f7))
+* **icons:** add attention-mark icon ([#247](https://github.com/teryaew/alfa-ui-primitives/issues/247)) ([1c6327b](https://github.com/teryaew/alfa-ui-primitives/commit/1c6327b))
+* **icons:** add gallery-in-camera icons ([#236](https://github.com/teryaew/alfa-ui-primitives/issues/236)) ([90b09ca](https://github.com/teryaew/alfa-ui-primitives/commit/90b09ca))
+* **icons:** add pay-back icon ([#240](https://github.com/teryaew/alfa-ui-primitives/issues/240)) ([1452e5e](https://github.com/teryaew/alfa-ui-primitives/commit/1452e5e))
+
+
+
 <a name="1.9.1"></a>
 ## [1.9.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.9.0...v1.9.1) (2019-01-29)
 
