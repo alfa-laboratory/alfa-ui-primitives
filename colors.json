@@ -1,36 +1,67 @@
 {
   "dark_indigo": "#0b1f35",
+
+  "dark_indigo_95": "#f20b1f35",
+  "dark_indigo_90": "#e60b1f35",
+  "dark_indigo_80": "#cc0b1f35",
+  "dark_indigo_70": "#b30b1f35",
   "dark_indigo_95_deprecated": "#f20b1f35",
   "dark_indigo_90_deprecated": "#e60b1f35",
   "dark_indigo_80_deprecated": "#cc0b1f35",
   "dark_indigo_70_deprecated": "#b30b1f35",
+
   "dark_indigo_60": "#990b1f35",
+
+  "dark_indigo_50": "#800b1f35",
+  "dark_indigo_40": "#660b1f35",
   "dark_indigo_50_deprecated": "#800b1f35",
   "dark_indigo_40_deprecated": "#660b1f35",
+
   "dark_indigo_30": "#4d0b1f35",
+
+  "dark_indigo_25": "#400b1f35",
+  "dark_indigo_20": "#330b1f35",
   "dark_indigo_25_deprecated": "#400b1f35",
   "dark_indigo_20_deprecated": "#330b1f35",
+
   "dark_indigo_15": "#260b1f35",
   "dark_indigo_10": "#1a0b1f35",
   "dark_indigo_07": "#120b1f35",
   "dark_indigo_05": "#0d0b1f35",
   "dark_indigo_03": "#080b1f35",
+
+  "dark_indigo_95_flat": "#172a3f",
+  "dark_indigo_90_flat": "#233549",
+  "dark_indigo_80_flat": "#3c4c5d",
+  "dark_indigo_70_flat": "#546271",
   "dark_indigo_95_flat_deprecated": "#172a3f",
   "dark_indigo_90_flat_deprecated": "#233549",
   "dark_indigo_80_flat_deprecated": "#3c4c5d",
   "dark_indigo_70_flat_deprecated": "#546271",
+
   "dark_indigo_60_flat": "#6d7986",
+
+  "dark_indigo_50_flat": "#858f9a",
+  "dark_indigo_40_flat": "#9da5ae",
   "dark_indigo_50_flat_deprecated": "#858f9a",
   "dark_indigo_40_flat_deprecated": "#9da5ae",
+
   "dark_indigo_30_flat": "#b5bbc2",
+
+  "dark_indigo_25_flat": "#c2c7cc",
+  "dark_indigo_20_flat": "#ced2d7",
   "dark_indigo_25_flat_deprecated": "#c2c7cc",
   "dark_indigo_20_flat_deprecated": "#ced2d7",
+
   "dark_indigo_15_flat": "#dbdee1",
   "dark_indigo_10_flat": "#e6e8ea",
   "dark_indigo_07_flat": "#eeeff1",
   "dark_indigo_05_flat": "#f3f4f5",
   "dark_indigo_03_flat": "#f7f8f9",
+
+  "dark_indigo_deep": "#08182a",
   "dark_indigo_deep_deprecated": "#08182a",
+
   "red_brand": "#f03226",
   "red_brand_90": "#e6f03226",
   "red_brand_70": "#b3f03226",
