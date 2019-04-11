@@ -1,3 +1,94 @@
+<a name="1.9.2"></a>
+## [1.9.2](https://github.com/teryaew/alfa-ui-primitives/compare/v1.9.1...v1.9.2) (2019-03-14)
+
+
+### Bug Fixes
+
+* **icons:** fix telecom icon ([#242](https://github.com/teryaew/alfa-ui-primitives/issues/242)) ([48c923e](https://github.com/teryaew/alfa-ui-primitives/commit/48c923e))
+* **icons:** fixed exchange icon ([#246](https://github.com/teryaew/alfa-ui-primitives/issues/246)) ([5a8b058](https://github.com/teryaew/alfa-ui-primitives/commit/5a8b058))
+* **icons:** no more .svg.svg ([#245](https://github.com/teryaew/alfa-ui-primitives/issues/245)) ([969c60a](https://github.com/teryaew/alfa-ui-primitives/commit/969c60a))
+
+
+### Features
+
+* **colors:** new corporate colors for ABM ([#235](https://github.com/teryaew/alfa-ui-primitives/issues/235)) ([bab81ee](https://github.com/teryaew/alfa-ui-primitives/commit/bab81ee))
+* **colors:** updated dark indigo set ([#243](https://github.com/teryaew/alfa-ui-primitives/issues/243)) ([32851f7](https://github.com/teryaew/alfa-ui-primitives/commit/32851f7))
+* **icons:** add attention-mark icon ([#247](https://github.com/teryaew/alfa-ui-primitives/issues/247)) ([1c6327b](https://github.com/teryaew/alfa-ui-primitives/commit/1c6327b))
+* **icons:** add gallery-in-camera icons ([#236](https://github.com/teryaew/alfa-ui-primitives/issues/236)) ([90b09ca](https://github.com/teryaew/alfa-ui-primitives/commit/90b09ca))
+* **icons:** add pay-back icon ([#240](https://github.com/teryaew/alfa-ui-primitives/issues/240)) ([1452e5e](https://github.com/teryaew/alfa-ui-primitives/commit/1452e5e))
+
+
+
+<a name="1.9.1"></a>
+## [1.9.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.9.0...v1.9.1) (2019-01-29)
+
+
+### Bug Fixes
+
+* **icons:** fixed telecom icon ([#233](https://github.com/teryaew/alfa-ui-primitives/issues/233)) ([f4d208d](https://github.com/teryaew/alfa-ui-primitives/commit/f4d208d))
+
+
+### Features
+
+* **icons:** filter icon is back ([#234](https://github.com/teryaew/alfa-ui-primitives/issues/234)) ([161a914](https://github.com/teryaew/alfa-ui-primitives/commit/161a914))
+
+
+
+<a name="1.9.0"></a>
+# [1.9.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.8.1...v1.9.0) (2019-01-24)
+
+
+### Features
+
+* **colors:** add colors.json to publish ([#231](https://github.com/teryaew/alfa-ui-primitives/issues/231)) ([bd73ab6](https://github.com/teryaew/alfa-ui-primitives/commit/bd73ab6))
+
+
+
+<a name="1.8.1"></a>
+## [1.8.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.8.0...v1.8.1) (2019-01-22)
+
+
+### Features
+
+* **icons:** xs tick icons ([#230](https://github.com/teryaew/alfa-ui-primitives/issues/230)) ([71d47d1](https://github.com/teryaew/alfa-ui-primitives/commit/71d47d1))
+
+
+
+<a name="1.8.0"></a>
+# [1.8.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.7.0...v1.8.0) (2019-01-09)
+
+
+### Bug Fixes
+
+* **icons:** moved user and manager ([#229](https://github.com/teryaew/alfa-ui-primitives/issues/229)) ([0a5beff](https://github.com/teryaew/alfa-ui-primitives/commit/0a5beff))
+
+
+
+<a name="1.7.0"></a>
+# [1.7.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.9...v1.7.0) (2018-12-29)
+
+
+### Bug Fixes
+
+* **icons:** arrow-bottom icon update ([#204](https://github.com/teryaew/alfa-ui-primitives/issues/204)) ([b91344c](https://github.com/teryaew/alfa-ui-primitives/commit/b91344c))
+* **icons:** remove tax-fines duplicate ([#228](https://github.com/teryaew/alfa-ui-primitives/issues/228)) ([b928a8e](https://github.com/teryaew/alfa-ui-primitives/commit/b928a8e))
+* **icons:** rename ([#223](https://github.com/teryaew/alfa-ui-primitives/issues/223)) ([bbdf254](https://github.com/teryaew/alfa-ui-primitives/commit/bbdf254))
+* **icons:** update icon_bank-alfa_l_white icon ([#207](https://github.com/teryaew/alfa-ui-primitives/issues/207)) ([934ed0f](https://github.com/teryaew/alfa-ui-primitives/commit/934ed0f))
+* **icons:** update navigation icons color ([#205](https://github.com/teryaew/alfa-ui-primitives/issues/205)) ([42420b5](https://github.com/teryaew/alfa-ui-primitives/commit/42420b5))
+* **icons:** update notifications icon ([#210](https://github.com/teryaew/alfa-ui-primitives/issues/210)) ([feb3064](https://github.com/teryaew/alfa-ui-primitives/commit/feb3064))
+
+
+### Features
+
+* **colors:** add bg_corporate colors (opacity 90, 60, 30) ([#217](https://github.com/teryaew/alfa-ui-primitives/issues/217)) ([5f9add7](https://github.com/teryaew/alfa-ui-primitives/commit/5f9add7))
+* **icons:** add notification-badge icon ([#206](https://github.com/teryaew/alfa-ui-primitives/issues/206)) ([3f8159b](https://github.com/teryaew/alfa-ui-primitives/commit/3f8159b))
+* **icons:** add templates icon ([#212](https://github.com/teryaew/alfa-ui-primitives/issues/212)) ([79d9cda](https://github.com/teryaew/alfa-ui-primitives/commit/79d9cda))
+* **icons:** new icons for android and some fixes ([#211](https://github.com/teryaew/alfa-ui-primitives/issues/211)) ([a633240](https://github.com/teryaew/alfa-ui-primitives/commit/a633240))
+* **icons:** remove duplicates ([#226](https://github.com/teryaew/alfa-ui-primitives/issues/226)) ([33d888a](https://github.com/teryaew/alfa-ui-primitives/commit/33d888a))
+* **icons:** waiting and fault xs icons ([#208](https://github.com/teryaew/alfa-ui-primitives/issues/208)) ([6f2a95e](https://github.com/teryaew/alfa-ui-primitives/commit/6f2a95e))
+
+
+
 <a name="1.6.9"></a>
 ## [1.6.9](https://github.com/teryaew/alfa-ui-primitives/compare/v1.6.8...v1.6.9) (2018-11-13)
 
