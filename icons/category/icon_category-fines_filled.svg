@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon_category-fines_filled</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="15-4_Отметка-2-Copy-8" transform="translate(-17.000000, -190.000000)">
+            <g id="Group" transform="translate(0.000000, 174.000000)">
+                <g id="ico_tr_in" transform="translate(17.000000, 16.000000)">
+                    <path d="M20,0 C4,0 0,4 0,20 C0,36 4,40 20,40 C36,40 40,36 40,20 C40,4 36,0 20,0 L20,0 Z" id="squircle" fill="#6D7986" fill-rule="nonzero"></path>
+                    <g id="ic" stroke-width="1" fill-rule="evenodd" transform="translate(11.000000, 8.000000)" fill="#FFFFFF">
+                        <path d="M4.742,21.612 L6.867,23.112 L8.992,21.612 L11.118,23.111 L13.247,21.611 L15.377,23.112 L18,21.259 L18,2.741 L15.377,0.887 L13.247,2.388 L11.118,0.888 L8.992,2.387 L6.867,0.887 L4.742,2.387 L2.62,0.887 L0,2.741 L0,21.259 L2.62,23.113 L4.742,21.612 L4.742,21.612 Z M1,3.259 L2.62,2.113 L4.742,3.613 L6.867,2.113 L8.992,3.613 L11.118,2.112 L13.247,3.612 L15.377,2.113 L17,3.259 L17,20.741 L15.377,21.887 L13.247,20.388 L11.118,21.888 L8.992,20.387 L6.867,21.887 L4.742,20.387 L2.62,21.887 L1,20.741 L1,3.259 L1,3.259 Z" id="Shape"></path>
+                        <rect id="Rectangle-path" opacity="0.4" x="4" y="11" width="10" height="2"></rect>
+                        <rect id="Rectangle-path" opacity="0.4" x="11" y="15" width="3" height="2"></rect>
+                        <rect id="Rectangle-path" opacity="0.4" x="4" y="15" width="5" height="2"></rect>
+                        <rect id="Rectangle-path" opacity="0.4" x="4" y="7" width="6" height="2"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
