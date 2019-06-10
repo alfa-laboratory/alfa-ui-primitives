@@ -1,6 +1,7 @@
-<svg width="36" height="36" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect width="36" height="36"/>
-        <path d="M7,35 L7,30 L29,30 L29,35 L7,35 Z M14.3899208,15.4017067 L20.4958892,15.4017067 L17.5854141,6.1084591 L17.4712241,6.1084591 L14.3899208,15.4017067 Z M21.5220006,4.39297157 L28,24 L23.2063033,24 L21.7510658,19.339009 L13.0774208,19.339009 L11.5079933,24 L7,24 L13.7979598,4.39297157 C14.4572929,2.49140589 15.2255633,1 17.6996041,1 C20.1734166,1 20.8955542,2.49743083 21.5220006,4.39297157 Z" id="A-logo" fill="#FFFFFF"></path>
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <rect width="36" height="36" fill="none" />
+    <g fill="#FFF">
+        <rect x="8" y="28" width="20" height="4" />
+        <path d="M21.5,6.17C21,4.55,20.33,3.26,18.17,3.26s-2.82,1.28-3.39,2.91L8.86,23h3.92l1.37-4H21.7L23,23h4.17Zm-6.21,9.45,2.69-8h.09l2.54,8Z" />
     </g>
 </svg>
