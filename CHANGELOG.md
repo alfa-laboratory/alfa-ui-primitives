@@ -1,3 +1,15 @@
+<a name="1.10.1"></a>
+## [1.10.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.10.0...v1.10.1) (2019-06-10)
+
+
+### Features
+
+* **icons:** checkbox-disabled color icon ([#264](https://github.com/teryaew/alfa-ui-primitives/issues/264)) ([c273542](https://github.com/teryaew/alfa-ui-primitives/commit/c273542))
+* **icons:** icon_bank-alfa updated ([#267](https://github.com/teryaew/alfa-ui-primitives/issues/267)) ([27563e0](https://github.com/teryaew/alfa-ui-primitives/commit/27563e0))
+* **icons:** icon_offer_s_white icon ([#265](https://github.com/teryaew/alfa-ui-primitives/issues/265)) ([383ddd7](https://github.com/teryaew/alfa-ui-primitives/commit/383ddd7))
+
+
+
 <a name="1.10.0"></a>
 # [1.10.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.9.2...v1.10.0) (2019-05-08)
 
