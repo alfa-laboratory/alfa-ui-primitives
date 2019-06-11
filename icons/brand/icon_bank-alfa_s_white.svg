@@ -1,6 +1,8 @@
-<svg width="18" height="18" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect width="18" height="18"/>
-        <path d="M3.5,17 L3.5,15 L14.5,15 L14.5,17 L3.5,17 Z M6.98381982,7.88777278 L9.86234775,7.88777278 L8.49026666,3.44317609 L8.43643423,3.44317609 L6.98381982,7.88777278 Z M10.346086,2.62272553 L13.4,12 L11.1401144,12 L10.4540739,9.77083039 L6.36506982,9.77083039 L5.62519684,12 L3.5,12 L6.70475248,2.62272553 C7.01558096,1.71328108 7.37776557,1 8.5440991,1 C9.71032495,1 10.0507613,1.71616257 10.346086,2.62272553 Z" id="A-logo" fill="#FFFFFF"></path>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <title>Artboard 1</title>
+  <rect width="18" height="18" fill="none"/>
+  <g fill="#fff">
+    <path d="M4,16H14V14H4Z"/>
+    <path d="M7.64,8.31,9,4.31H9l1.27,4Zm3.11-4.73c-.27-.82-.59-1.46-1.67-1.46s-1.41.64-1.7,1.46L4.42,12h2l.68-2h3.78l.64,2h2.08Z"/>
+  </g>
 </svg>
