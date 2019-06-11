@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
-  <rect width="30" height="30" fill="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <title>Artboard 1</title>
+  <rect width="18" height="18" fill="none"/>
   <g fill="#fff">
-    <path d="M5,29H25V25H5Z"/>
-    <path d="M12.29,13.62l2.69-8h.09l2.54,8ZM18.5,4.16C18,2.54,17.33,1.25,15.17,1.25s-2.82,1.28-3.4,2.91L5.85,21H9.78l1.37-4H18.7L20,21h4.18Z"/>
+    <path d="M4,16H14V14H4Z"/>
+    <path d="M7.64,8.31,9,4.31H9l1.27,4Zm3.11-4.73c-.27-.82-.59-1.46-1.67-1.46s-1.41.64-1.7,1.46L4.42,12h2l.68-2h3.78l.64,2h2.08Z"/>
   </g>
 </svg>
