@@ -1,3 +1,23 @@
+<a name="1.11.0"></a>
+# [1.11.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.10.2...v1.11.0) (2019-06-17)
+
+
+
+<a name="1.10.2"></a>
+## [1.10.2](https://github.com/teryaew/alfa-ui-primitives/compare/v1.10.1...v1.10.2) (2019-06-17)
+
+
+### Bug Fixes
+
+* **icons:** fixed size for "utilities" and "transfer-any-bank" ([#269](https://github.com/teryaew/alfa-ui-primitives/issues/269)) ([a77387a](https://github.com/teryaew/alfa-ui-primitives/commit/a77387a))
+
+
+### Features
+
+* **icons:** icon_bank-alfa updated ([#268](https://github.com/teryaew/alfa-ui-primitives/issues/268)) ([83cdbd7](https://github.com/teryaew/alfa-ui-primitives/commit/83cdbd7))
+
+
+
 <a name="1.10.1"></a>
 ## [1.10.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.10.0...v1.10.1) (2019-06-10)
 
