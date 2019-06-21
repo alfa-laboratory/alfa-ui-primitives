@@ -1,3 +1,19 @@
+<a name="1.12.0"></a>
+# [1.12.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.11.0...v1.12.0) (2019-06-21)
+
+
+### Bug Fixes
+
+* **icons:** fixed broken "alfa" icons ([#271](https://github.com/teryaew/alfa-ui-primitives/issues/271)) ([bab47b0](https://github.com/teryaew/alfa-ui-primitives/commit/bab47b0))
+* **icons:** fixed color "category-state" ([#270](https://github.com/teryaew/alfa-ui-primitives/issues/270)) ([acb16c6](https://github.com/teryaew/alfa-ui-primitives/commit/acb16c6))
+
+
+### Features
+
+* **colors:** new green colors ([#272](https://github.com/teryaew/alfa-ui-primitives/issues/272)) ([fe5f07b](https://github.com/teryaew/alfa-ui-primitives/commit/fe5f07b))
+
+
+
 <a name="1.11.0"></a>
 # [1.11.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.10.2...v1.11.0) (2019-06-17)
 
