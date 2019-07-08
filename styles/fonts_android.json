@@ -1,0 +1,94 @@
+{
+  "sets": [
+    {
+      "name": "Android/10-13 Regular Description",
+      "font_size": 10,
+      "line_height": 13,
+      "font_weight": 400
+    },
+    {
+      "name": "Android/12-14 Regular",
+      "font_size": 12,
+      "line_height": 14,
+      "font_weight": 400
+    },
+    {
+      "name": "Android/12-14 Medium Label",
+      "font_size": 12,
+      "line_height": 14,
+      "font_weight": 500
+    },
+    {
+      "name": "Android/14-20 Regular",
+      "font_size": 14,
+      "line_height": 20,
+      "font_weight": 400
+    },
+    {
+      "name": "Android/14-20 Medium",
+      "font_size": 14,
+      "line_height": 20,
+      "font_weight": 500
+    },
+    {
+      "name": "Android/16-21 Regular Action",
+      "font_size": 16,
+      "line_height": 21,
+      "font_weight": 400
+    },
+    {
+      "name": "Android/16-21 Medium Button",
+      "font_size": 16,
+      "line_height": 21,
+      "font_weight": 500
+    },
+    {
+      "name": "Android/16-24 Regular",
+      "font_size": 16,
+      "line_height": 24,
+      "font_weight": 400
+    },
+    {
+      "name": "Android/16-24 Medium",
+      "font_size": 16,
+      "line_height": 24,
+      "font_weight": 500
+    },
+    {
+      "name": "Android/16-24 Bold",
+      "font_size": 16,
+      "line_height": 24,
+      "font_weight": 700
+    },
+    {
+      "name": "Android/18-23 Medium Toolbar",
+      "font_size": 18,
+      "line_height": 23,
+      "font_weight": 500
+    },
+    {
+      "name": "Android/20-28 Medium",
+      "font_size": 20,
+      "line_height": 28,
+      "font_weight": 500
+    },
+    {
+      "name": "Android/20-28 Bold",
+      "font_size": 20,
+      "line_height": 28,
+      "font_weight": 700
+    },
+    {
+      "name": "Android/30-36 Regular Heading",
+      "font_size": 30,
+      "line_height": 36,
+      "font_weight": 400
+    },
+    {
+      "name": "Android/30-36 Bold Heading",
+      "font_size": 30,
+      "line_height": 36,
+      "font_weight": 700
+    }
+  ]
+}
