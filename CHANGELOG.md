@@ -1,3 +1,14 @@
+<a name="1.12.1"></a>
+## [1.12.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.12.0...v1.12.1) (2019-07-09)
+
+
+### Features
+
+* **icons:** alfa logo xxl ([#277](https://github.com/teryaew/alfa-ui-primitives/issues/277)) ([4f35bf6](https://github.com/teryaew/alfa-ui-primitives/commit/4f35bf6))
+* **icons:** new color tabbar icons ([#275](https://github.com/teryaew/alfa-ui-primitives/issues/275)) ([c291d9d](https://github.com/teryaew/alfa-ui-primitives/commit/c291d9d))
+
+
+
 <a name="1.12.0"></a>
 # [1.12.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.11.0...v1.12.0) (2019-06-21)
 
