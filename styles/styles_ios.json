@@ -1,0 +1,42 @@
+{
+  "font_13-18_regular": {
+    "font_size": 13,
+    "line_height": 18,
+    "font_weight": "regular"
+  },
+  "font_15-20_regular": {
+    "font_size": 15,
+    "line_height": 20,
+    "font_weight": "regular"
+  },
+  "font_17-22_regular": {
+    "font_size": 17,
+    "line_height": 22,
+    "font_weight": "regular"
+  },
+  "font_17-22_medium": {
+    "font_size": 17,
+    "line_height": 22,
+    "font_weight": "medium"
+  },
+  "font_22-28_bold": {
+    "font_size": 22,
+    "line_height": 28,
+    "font_weight": "bold"
+  },
+  "font_27-32_light": {
+    "font_size": 27,
+    "line_height": 32,
+    "font_weight": "light"
+  },
+  "font_27-32_medium": {
+    "font_size": 27,
+    "line_height": 32,
+    "font_weight": "medium"
+  },
+  "font_30-37_bold": {
+    "font_size": 30,
+    "line_height": 37,
+    "font_weight": "bold"
+  }
+}

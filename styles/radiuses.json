@@ -1,4 +1,4 @@
 {
-  "radius_card": 10,
-  "radius_button": 4
+  "card_radius": 10,
+  "button_radius": 4
 }

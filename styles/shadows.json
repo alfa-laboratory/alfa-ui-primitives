@@ -1,13 +1,12 @@
 {
-  "shadow_card": {
-    "offset_x": 0,
-    "offset_y": 10,
+  "card_shadow": {
+    "color": "dark_indigo_15",
+    "opacity": 1,
+    "offset": {
+      "width": 0,
+      "height": 10
+    },
     "radius": 30,
-    "color": {
-      "r": 15,
-      "g": 53,
-      "b": 100,
-      "a": 0.15
-    }
+    "android_elevation": 7
   }
 }

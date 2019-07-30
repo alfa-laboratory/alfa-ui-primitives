@@ -1,250 +1,250 @@
 {
-  "dark-indigo": {
+  "dark_indigo": {
     "r": 11,
     "g": 31,
     "b": 53,
     "a": 1,
     "hex": "#0b1f35"
   },
-  "dark-indigo-60": {
+  "dark_indigo_60": {
     "r": 11,
     "g": 31,
     "b": 53,
     "a": 0.6,
     "hex": "#990b1f35"
   },
-  "dark-indigo-30": {
+  "dark_indigo_30": {
     "r": 11,
     "g": 31,
     "b": 53,
     "a": 0.3,
     "hex": "#4d0b1f35"
   },
-  "dark-indigo-15": {
+  "dark_indigo_15": {
     "r": 11,
     "g": 31,
     "b": 53,
     "a": 0.15,
     "hex": "#260b1f35"
   },
-  "dark-indigo-10": {
+  "dark_indigo_10": {
     "r": 11,
     "g": 31,
     "b": 53,
     "a": 0.1,
     "hex": "#1a0b1f35"
   },
-  "dark-indigo-07": {
+  "dark_indigo_07": {
     "r": 11,
     "g": 31,
     "b": 53,
     "a": 0.07,
     "hex": "#120b1f35"
   },
-  "dark-indigo-05": {
+  "dark_indigo_05": {
     "r": 11,
     "g": 31,
     "b": 53,
     "a": 0.05,
     "hex": "#0d0b1f35"
   },
-  "dark-indigo-03": {
+  "dark_indigo_03": {
     "r": 11,
     "g": 31,
     "b": 53,
     "a": 0.03,
     "hex": "#080b1f35"
   },
-  "dark-indigo-60-flat": {
+  "dark_indigo_60_flat": {
     "r": 109,
     "g": 121,
     "b": 134,
     "a": 1,
     "hex": "#6d7986"
   },
-  "dark-indigo-30-flat": {
+  "dark_indigo_30_flat": {
     "r": 181,
     "g": 187,
     "b": 194,
     "a": 1,
     "hex": "#b5bbc2"
   },
-  "dark-indigo-15-flat": {
+  "dark_indigo_15_flat": {
     "r": 219,
     "g": 222,
     "b": 225,
     "a": 1,
     "hex": "#dbdee1"
   },
-  "dark-indigo-10-flat": {
+  "dark_indigo_10_flat": {
     "r": 230,
     "g": 232,
     "b": 234,
     "a": 1,
     "hex": "#e6e8ea"
   },
-  "dark-indigo-07-flat": {
+  "dark_indigo_07_flat": {
     "r": 238,
     "g": 239,
     "b": 241,
     "a": 1,
     "hex": "#eeeff1"
   },
-  "dark-indigo-05-flat": {
+  "dark_indigo_05_flat": {
     "r": 243,
     "g": 244,
     "b": 245,
     "a": 1,
     "hex": "#f3f4f5"
   },
-  "dark-indigo-03-flat": {
+  "dark_indigo_03_flat": {
     "r": 247,
     "g": 248,
     "b": 249,
     "a": 1,
     "hex": "#f7f8f9"
   },
-  "red-brand": {
+  "red_brand": {
     "r": 239,
     "g": 49,
     "b": 36,
     "a": 1,
     "hex": "#ef3124"
   },
-  "red-brand-90": {
+  "red_brand_90": {
     "r": 239,
     "g": 49,
     "b": 36,
     "a": 0.9,
     "hex": "#e6ef3124"
   },
-  "red-brand-70": {
+  "red_brand_70": {
     "r": 239,
     "g": 49,
     "b": 36,
     "a": 0.7,
     "hex": "#b3ef3124"
   },
-  "red-brand-50": {
+  "red_brand_50": {
     "r": 239,
     "g": 49,
     "b": 36,
     "a": 0.5,
     "hex": "#80ef3124"
   },
-  "red-brand-30": {
+  "red_brand_30": {
     "r": 239,
     "g": 49,
     "b": 36,
     "a": 0.3,
     "hex": "#4def3124"
   },
-  "red-brand-20": {
+  "red_brand_20": {
     "r": 239,
     "g": 49,
     "b": 36,
     "a": 0.2,
     "hex": "#33ef3124"
   },
-  "red-brand-10": {
+  "red_brand_10": {
     "r": 239,
     "g": 49,
     "b": 36,
     "a": 0.1,
     "hex": "#1aef3124"
   },
-  "red-brand-90-flat": {
+  "red_brand_90_flat": {
     "r": 241,
     "g": 69,
     "b": 57,
     "a": 1,
     "hex": "#f14539"
   },
-  "red-brand-70-flat": {
+  "red_brand_70_flat": {
     "r": 244,
     "g": 110,
     "b": 101,
     "a": 1,
     "hex": "#f46e65"
   },
-  "red-brand-50-flat": {
+  "red_brand_50_flat": {
     "r": 247,
     "g": 152,
     "b": 145,
     "a": 1,
     "hex": "#f79891"
   },
-  "red-brand-30-flat": {
+  "red_brand_30_flat": {
     "r": 250,
     "g": 193,
     "b": 189,
     "a": 1,
     "hex": "#fac1bd"
   },
-  "red-brand-20-flat": {
+  "red_brand_20_flat": {
     "r": 252,
     "g": 214,
     "b": 211,
     "a": 1,
     "hex": "#fcd6d3"
   },
-  "red-brand-10-flat": {
+  "red_brand_10_flat": {
     "r": 253,
     "g": 234,
     "b": 233,
     "a": 1,
     "hex": "#FDEAE9"
   },
-  "blue-action": {
+  "blue_action": {
     "r": 14,
     "g": 96,
     "b": 185,
     "a": 1,
     "hex": "#0e60b9"
   },
-  "blue-action-ios": {
+  "blue_action_ios": {
     "r": 0,
     "g": 122,
     "b": 255,
     "a": 1,
     "hex": "#007aff"
   },
-  "blue-action-ios-10": {
+  "blue_action_ios_10": {
     "r": 0,
     "g": 122,
     "b": 255,
     "a": 0.1,
     "hex": "#1a007aff"
   },
-  "blue-action-ios-10-flat": {
+  "blue_action_ios_10_flat": {
     "r": 230,
     "g": 242,
     "b": 255,
     "a": 1,
     "hex": "#E6F2FF"
   },
-  "blue-swipe-a": {
+  "blue_swipe_a": {
     "r": 38,
     "g": 112,
     "b": 198,
     "a": 1,
     "hex": "#2670c6"
   },
-  "blue-swipe-b": {
+  "blue_swipe_b": {
     "r": 55,
     "g": 129,
     "b": 216,
     "a": 1,
     "hex": "#3781d8"
   },
-  "blue-swipe-c": {
+  "blue_swipe_c": {
     "r": 74,
     "g": 144,
     "b": 226,
     "a": 1,
     "hex": "#4a90e2"
   },
-  "indigo-active": {
+  "indigo_active": {
     "r": 94,
     "g": 117,
     "b": 138,
@@ -258,77 +258,77 @@
     "a": 1,
     "hex": "#0063a7"
   },
-  "red-error": {
+  "red_error": {
     "r": 255,
     "g": 92,
     "b": 92,
     "a": 1,
     "hex": "#ff5c5c"
   },
-  "red-dark": {
+  "red_dark": {
     "r": 217,
     "g": 29,
     "b": 11,
     "a": 1,
     "hex": "#d91d0b"
   },
-  "green-done": {
+  "green_done": {
     "r": 19,
     "g": 164,
     "b": 99,
     "a": 1,
     "hex": "#13a463"
   },
-  "green-done-20": {
+  "green_done_20": {
     "r": 19,
     "g": 164,
     "b": 99,
     "a": 0.2,
     "hex": "#3313a463"
   },
-  "green-done-10": {
+  "green_done_10": {
     "r": 19,
     "g": 164,
     "b": 99,
     "a": 0.1,
     "hex": "#1a13a463"
   },
-  "green-done-05": {
+  "green_done_05": {
     "r": 19,
     "g": 164,
     "b": 99,
     "a": 0.05,
     "hex": "#0d13a463"
   },
-  "green-done-20-flat": {
+  "green_done_20_flat": {
     "r": 208,
     "g": 237,
     "b": 224,
     "a": 1,
     "hex": "#d0ede0"
   },
-  "green-done-10-flat": {
+  "green_done_10_flat": {
     "r": 232,
     "g": 246,
     "b": 240,
     "a": 1,
     "hex": "#e8f6f0"
   },
-  "green-done-05-flat": {
+  "green_done_05_flat": {
     "r": 243,
     "g": 250,
     "b": 247,
     "a": 1,
     "hex": "#f3faf7"
   },
-  "green-delta": {
+  "green_delta": {
     "r": 95,
     "g": 165,
     "b": 13,
     "a": 1,
     "hex": "#5fa50d"
   },
-  "warning-default": {
+  "warning_default": {
     "r": 252,
     "g": 227,
     "b": 51,
@@ -342,189 +342,189 @@
     "a": 1,
     "hex": "#000000"
   },
-  "black-95": {
+  "black_95": {
     "r": 0,
     "g": 0,
     "b": 0,
     "a": 0.95,
     "hex": "#f2000000"
   },
-  "black-90": {
+  "black_90": {
     "r": 0,
     "g": 0,
     "b": 0,
     "a": 0.9,
     "hex": "#e6000000"
   },
-  "black-80": {
+  "black_80": {
     "r": 0,
     "g": 0,
     "b": 0,
     "a": 0.8,
     "hex": "#cc000000"
   },
-  "black-70": {
+  "black_70": {
     "r": 0,
     "g": 0,
     "b": 0,
     "a": 0.7,
     "hex": "#b3000000"
   },
-  "black-60": {
+  "black_60": {
     "r": 0,
     "g": 0,
     "b": 0,
     "a": 0.6,
     "hex": "#99000000"
   },
-  "black-50": {
+  "black_50": {
     "r": 0,
     "g": 0,
     "b": 0,
     "a": 0.5,
     "hex": "#80000000"
   },
-  "black-40": {
+  "black_40": {
     "r": 0,
     "g": 0,
     "b": 0,
     "a": 0.4,
     "hex": "#66000000"
   },
-  "black-30": {
+  "black_30": {
     "r": 0,
     "g": 0,
     "b": 0,
     "a": 0.3,
     "hex": "#4d000000"
   },
-  "black-25": {
+  "black_25": {
     "r": 0,
     "g": 0,
     "b": 0,
     "a": 0.25,
     "hex": "#40000000"
   },
-  "black-20": {
+  "black_20": {
     "r": 0,
     "g": 0,
     "b": 0,
     "a": 0.2,
     "hex": "#33000000"
   },
-  "black-15": {
+  "black_15": {
     "r": 0,
     "g": 0,
     "b": 0,
     "a": 0.15,
     "hex": "#26000000"
   },
-  "black-10": {
+  "black_10": {
     "r": 0,
     "g": 0,
     "b": 0,
     "a": 0.1,
     "hex": "#1a000000"
   },
-  "black-05": {
+  "black_05": {
     "r": 0,
     "g": 0,
     "b": 0,
     "a": 0.05,
     "hex": "#0d000000"
   },
-  "black-95-flat": {
+  "black_95_flat": {
     "r": 13,
     "g": 13,
     "b": 13,
     "a": 1,
     "hex": "#0d0d0d"
   },
-  "black-90-flat": {
+  "black_90_flat": {
     "r": 25,
     "g": 25,
     "b": 25,
     "a": 1,
     "hex": "#191919"
   },
-  "black-85-flat": {
+  "black_85_flat": {
     "r": 38,
     "g": 38,
     "b": 38,
     "a": 1,
     "hex": "#262626"
   },
-  "black-80-flat": {
+  "black_80_flat": {
     "r": 51,
     "g": 51,
     "b": 51,
     "a": 1,
     "hex": "#333333"
   },
-  "black-70-flat": {
+  "black_70_flat": {
     "r": 76,
     "g": 76,
     "b": 76,
     "a": 1,
     "hex": "#4c4c4c"
   },
-  "black-60-flat": {
+  "black_60_flat": {
     "r": 102,
     "g": 102,
     "b": 102,
     "a": 1,
     "hex": "#666666"
   },
-  "black-50-flat": {
+  "black_50_flat": {
     "r": 127,
     "g": 127,
     "b": 127,
     "a": 1,
     "hex": "#7f7f7f"
   },
-  "black-40-flat": {
+  "black_40_flat": {
     "r": 153,
     "g": 153,
     "b": 153,
     "a": 1,
     "hex": "#999999"
   },
-  "black-30-flat": {
+  "black_30_flat": {
     "r": 178,
     "g": 178,
     "b": 178,
     "a": 1,
     "hex": "#b2b2b2"
   },
-  "black-25-flat": {
+  "black_25_flat": {
     "r": 191,
     "g": 191,
     "b": 191,
     "a": 1,
     "hex": "#bfbfbf"
   },
-  "black-20-flat": {
+  "black_20_flat": {
     "r": 204,
     "g": 204,
     "b": 204,
     "a": 1,
     "hex": "#cccccc"
   },
-  "black-15-flat": {
+  "black_15_flat": {
     "r": 217,
     "g": 217,
     "b": 217,
     "a": 1,
     "hex": "#d9d9d9"
   },
-  "black-10-flat": {
+  "black_10_flat": {
     "r": 229,
     "g": 229,
     "b": 229,
     "a": 1,
     "hex": "#e5e5e5"
   },
-  "black-05-flat": {
+  "black_05_flat": {
     "r": 242,
     "g": 242,
     "b": 242,
@@ -538,252 +538,252 @@
     "a": 1,
     "hex": "#ffffff"
   },
-  "white-95": {
+  "white_95": {
     "r": 255,
     "g": 255,
     "b": 255,
     "a": 0.95,
     "hex": "#f2ffffff"
   },
-  "white-90": {
+  "white_90": {
     "r": 255,
     "g": 255,
     "b": 255,
     "a": 0.9,
     "hex": "#e6ffffff"
   },
-  "white-80": {
+  "white_80": {
     "r": 255,
     "g": 255,
     "b": 255,
     "a": 0.8,
     "hex": "#ccffffff"
   },
-  "white-70": {
+  "white_70": {
     "r": 255,
     "g": 255,
     "b": 255,
     "a": 0.7,
     "hex": "#b3ffffff"
   },
-  "white-60": {
+  "white_60": {
     "r": 255,
     "g": 255,
     "b": 255,
     "a": 0.6,
     "hex": "#99ffffff"
   },
-  "white-50": {
+  "white_50": {
     "r": 255,
     "g": 255,
     "b": 255,
     "a": 0.5,
     "hex": "#80ffffff"
   },
-  "white-40": {
+  "white_40": {
     "r": 255,
     "g": 255,
     "b": 255,
     "a": 0.4,
     "hex": "#66ffffff"
   },
-  "white-30": {
+  "white_30": {
     "r": 255,
     "g": 255,
     "b": 255,
     "a": 0.3,
     "hex": "#4dffffff"
   },
-  "white-20": {
+  "white_20": {
     "r": 255,
     "g": 255,
     "b": 255,
     "a": 0.2,
     "hex": "#33ffffff"
   },
-  "white-10": {
+  "white_10": {
     "r": 255,
     "g": 255,
     "b": 255,
     "a": 0.1,
     "hex": "#1affffff"
   },
-  "white-05": {
+  "white_05": {
     "r": 255,
     "g": 255,
     "b": 255,
     "a": 0.05,
     "hex": "#0dffffff"
   },
-  "grey-00": {
+  "grey_00": {
     "r": 191,
     "g": 191,
     "b": 191,
     "a": 0,
     "hex": "#00bfbfbf"
   },
-  "grey-20": {
+  "grey_20": {
     "r": 191,
     "g": 191,
     "b": 191,
     "a": 0.2,
     "hex": "#33bfbfbf"
   },
-  "grey-50": {
+  "grey_50": {
     "r": 191,
     "g": 191,
     "b": 191,
     "a": 0.5,
     "hex": "#80bfbfbf"
   },
-  "category-information": {
+  "category_information": {
     "r": 67,
     "g": 131,
     "b": 232,
     "a": 1,
     "hex": "#4383e8"
   },
-  "category-invoice": {
+  "category_invoice": {
     "r": 96,
     "g": 130,
     "b": 167,
     "a": 1,
     "hex": "#6082a7"
   },
-  "category-notice": {
+  "category_notice": {
     "r": 77,
     "g": 213,
     "b": 213,
     "a": 1,
     "hex": "#4dd5d5"
   },
-  "bg-corporate": {
+  "bg_corporate": {
     "r": 33,
     "g": 42,
     "b": 51,
     "a": 1,
     "hex": "#212a33"
   },
-  "bg-corporate-90": {
+  "bg_corporate_90": {
     "r": 33,
     "g": 42,
     "b": 51,
     "a": 0.9,
     "hex": "#e6212a33"
   },
-  "bg-corporate-60": {
+  "bg_corporate_60": {
     "r": 33,
     "g": 42,
     "b": 51,
     "a": 0.6,
     "hex": "#99212a33"
   },
-  "bg-corporate-30": {
+  "bg_corporate_30": {
     "r": 33,
     "g": 42,
     "b": 51,
     "a": 0.3,
     "hex": "#4d212a33"
   },
-  "bg-corporate-90-flat": {
+  "bg_corporate_90_flat": {
     "r": 55,
     "g": 63,
     "b": 71,
     "a": 1,
     "hex": "#373f47"
   },
-  "bg-corporate-60-flat": {
+  "bg_corporate_60_flat": {
     "r": 122,
     "g": 127,
     "b": 133,
     "a": 1,
     "hex": "#7a7f85"
   },
-  "bg-corporate-30-flat": {
+  "bg_corporate_30_flat": {
     "r": 188,
     "g": 191,
     "b": 193,
     "a": 1,
     "hex": "#bcbfc1"
   },
-  "bg-personal": {
+  "bg_personal": {
     "r": 20,
     "g": 50,
     "b": 90,
     "a": 1,
     "hex": "#14325A"
   },
-  "text-black-primary": {
+  "text_black_primary": {
     "r": 11,
     "g": 31,
     "b": 53,
     "a": 0.95,
     "hex": "#f20b1f35"
   },
-  "text-black-secondary": {
+  "text_black_secondary": {
     "r": 11,
     "g": 31,
     "b": 53,
     "a": 0.6,
     "hex": "#990b1f35"
   },
-  "text-black-tertiary": {
+  "text_black_tertiary": {
     "r": 11,
     "g": 31,
     "b": 53,
     "a": 0.3,
     "hex": "#4d0b1f35"
   },
-  "text-black-paragraph": {
+  "text_black_paragraph": {
     "r": 11,
     "g": 31,
     "b": 53,
     "a": 0.7,
     "hex": "#b30b1f35"
   },
-  "text-white-primary": {
+  "text_white_primary": {
     "r": 255,
     "g": 255,
     "b": 255,
     "a": 1,
     "hex": "#ffffff"
   },
-  "text-white-secondary": {
+  "text_white_secondary": {
     "r": 255,
     "g": 255,
     "b": 255,
     "a": 0.7,
     "hex": "#b3ffffff"
   },
-  "text-white-tertiary": {
+  "text_white_tertiary": {
     "r": 255,
     "g": 255,
     "b": 255,
     "a": 0.4,
     "hex": "#66ffffff"
   },
-  "text-white-paragraph": {
+  "text_white_paragraph": {
     "r": 255,
     "g": 255,
     "b": 255,
     "a": 0.8,
     "hex": "#ccffffff"
   },
-  "corporate-payment-to-person": {
+  "corporate_payment_to_person": {
     "r": 246,
     "g": 191,
     "b": 101,
     "a": 1,
     "hex": "#f6bf65"
   },
-  "corporate-payment-to-atm": {
+  "corporate_payment_to_atm": {
     "r": 136,
     "g": 136,
     "b": 173,
     "a": 1,
     "hex": "#8888ad"
   },
-  "corporate-payment-to-card": {
+  "corporate_payment_to_card": {
     "r": 164,
     "g": 137,
     "b": 170,

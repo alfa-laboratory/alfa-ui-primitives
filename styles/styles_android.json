@@ -1,0 +1,92 @@
+{
+  "font_10-13_regular": {
+    "font_size": 10,
+    "line_height": 13,
+    "font_weight": "regular",
+    "text_appearance": "roboto_regular"
+  },
+  "font_12-14_regular": {
+    "font_size": 12,
+    "line_height": 14,
+    "font_weight": "regular",
+    "text_appearance": "roboto_regular"
+  },
+  "font_12-14_medium": {
+    "font_size": 12,
+    "line_height": 14,
+    "font_weight": "medium",
+    "text_appearance": "roboto_medium"
+  },
+  "font_14-20_regular": {
+    "font_size": 14,
+    "line_height": 20,
+    "font_weight": "regular",
+    "text_appearance": "roboto_regular"
+  },
+  "font_14-20_medium": {
+    "font_size": 14,
+    "line_height": 20,
+    "font_weight": "medium",
+    "text_appearance": "roboto_medium"
+  },
+  "font_16-21_regular": {
+    "font_size": 16,
+    "line_height": 21,
+    "font_weight": "regular",
+    "text_appearance": "roboto_regular"
+  },
+  "font_16-21_medium": {
+    "font_size": 16,
+    "line_height": 21,
+    "font_weight": "medium",
+    "text_appearance": "roboto_medium"
+  },
+  "font_16-24_regular": {
+    "font_size": 16,
+    "line_height": 24,
+    "font_weight": "regular",
+    "text_appearance": "roboto_regular"
+  },
+  "font_16-24_medium": {
+    "font_size": 16,
+    "line_height": 24,
+    "font_weight": "medium",
+    "text_appearance": "roboto_medium"
+  },
+  "font_16-24_bold": {
+    "font_size": 16,
+    "line_height": 24,
+    "font_weight": "bold",
+    "text_appearance": "roboto_bold"
+  },
+  "font_18-23_medium": {
+    "font_size": 18,
+    "line_height": 23,
+    "font_weight": "medium",
+    "text_appearance": "roboto_medium"
+  },
+  "font_20-28_medium": {
+    "font_size": 20,
+    "line_height": 28,
+    "font_weight": "medium",
+    "text_appearance": "roboto_medium"
+  },
+  "font_20-28_bold": {
+    "font_size": 20,
+    "line_height": 28,
+    "font_weight": "bold",
+    "text_appearance": "roboto_bold"
+  },
+  "font_30-36_regular": {
+    "font_size": 30,
+    "line_height": 36,
+    "font_weight": "regular",
+    "text_appearance": "roboto_regular"
+  },
+  "font_30-36_bold": {
+    "font_size": 30,
+    "line_height": 36,
+    "font_weight": "bold",
+    "text_appearance": "roboto_bold"
+  }
+}
