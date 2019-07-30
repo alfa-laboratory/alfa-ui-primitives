@@ -13,5 +13,5 @@
 <path opacity="0.3" d="M18 13H7V16H18V13Z" fill="white"/>
 <path opacity="0.3" d="M18 9H15V12H18V9Z" fill="white"/>
 <path opacity="0.3" d="M22 9H19V12H22V9Z" fill="white"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M7.69539 21.6854L8.3046 20.3146L12.5 22.1793L16.6954 20.3146L17.3046 21.6854L12.5 23.8207L7.69539 21.6854Z" fill="white"/>
+<path d="M7.69539 21.6854L8.3046 20.3146L12.5 22.1793L16.6954 20.3146L17.3046 21.6854L12.5 23.8207L7.69539 21.6854Z" fill="white"/>
 </svg>
