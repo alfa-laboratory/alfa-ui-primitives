@@ -1,3 +1,16 @@
+<a name="1.13.0"></a>
+# [1.13.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.12.1...v1.13.0) (2019-08-14)
+
+
+### Features
+
+* **colors:** green colors update ([#280](https://github.com/teryaew/alfa-ui-primitives/issues/280)) ([1f8a5c2](https://github.com/teryaew/alfa-ui-primitives/commit/1f8a5c2))
+* **icons:** add art_logo-alfa_s icons ([#278](https://github.com/teryaew/alfa-ui-primitives/issues/278)) ([fad1d2c](https://github.com/teryaew/alfa-ui-primitives/commit/fad1d2c))
+* **icons:** add download icons ([#281](https://github.com/teryaew/alfa-ui-primitives/issues/281)) ([71d1808](https://github.com/teryaew/alfa-ui-primitives/commit/71d1808))
+* **icons:** new cancel icons, updated ok and tick icons ([#282](https://github.com/teryaew/alfa-ui-primitives/issues/282)) ([af38c6d](https://github.com/teryaew/alfa-ui-primitives/commit/af38c6d))
+
+
+
 <a name="1.12.1"></a>
 ## [1.12.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.12.0...v1.12.1) (2019-07-09)
 
