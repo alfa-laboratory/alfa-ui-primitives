@@ -1,3 +1,95 @@
+<a name="1.13.0"></a>
+# [1.13.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.12.1...v1.13.0) (2019-08-14)
+
+
+### Features
+
+* **colors:** green colors update ([#280](https://github.com/teryaew/alfa-ui-primitives/issues/280)) ([1f8a5c2](https://github.com/teryaew/alfa-ui-primitives/commit/1f8a5c2))
+* **icons:** add art_logo-alfa_s icons ([#278](https://github.com/teryaew/alfa-ui-primitives/issues/278)) ([fad1d2c](https://github.com/teryaew/alfa-ui-primitives/commit/fad1d2c))
+* **icons:** add download icons ([#281](https://github.com/teryaew/alfa-ui-primitives/issues/281)) ([71d1808](https://github.com/teryaew/alfa-ui-primitives/commit/71d1808))
+* **icons:** new cancel icons, updated ok and tick icons ([#282](https://github.com/teryaew/alfa-ui-primitives/issues/282)) ([af38c6d](https://github.com/teryaew/alfa-ui-primitives/commit/af38c6d))
+
+
+
+<a name="1.12.1"></a>
+## [1.12.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.12.0...v1.12.1) (2019-07-09)
+
+
+### Features
+
+* **icons:** alfa logo xxl ([#277](https://github.com/teryaew/alfa-ui-primitives/issues/277)) ([4f35bf6](https://github.com/teryaew/alfa-ui-primitives/commit/4f35bf6))
+* **icons:** new color tabbar icons ([#275](https://github.com/teryaew/alfa-ui-primitives/issues/275)) ([c291d9d](https://github.com/teryaew/alfa-ui-primitives/commit/c291d9d))
+
+
+
+<a name="1.12.0"></a>
+# [1.12.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.11.0...v1.12.0) (2019-06-21)
+
+
+### Bug Fixes
+
+* **icons:** fixed broken "alfa" icons ([#271](https://github.com/teryaew/alfa-ui-primitives/issues/271)) ([bab47b0](https://github.com/teryaew/alfa-ui-primitives/commit/bab47b0))
+* **icons:** fixed color "category-state" ([#270](https://github.com/teryaew/alfa-ui-primitives/issues/270)) ([acb16c6](https://github.com/teryaew/alfa-ui-primitives/commit/acb16c6))
+
+
+### Features
+
+* **colors:** new green colors ([#272](https://github.com/teryaew/alfa-ui-primitives/issues/272)) ([fe5f07b](https://github.com/teryaew/alfa-ui-primitives/commit/fe5f07b))
+
+
+
+<a name="1.11.0"></a>
+# [1.11.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.10.2...v1.11.0) (2019-06-17)
+
+
+
+<a name="1.10.2"></a>
+## [1.10.2](https://github.com/teryaew/alfa-ui-primitives/compare/v1.10.1...v1.10.2) (2019-06-17)
+
+
+### Bug Fixes
+
+* **icons:** fixed size for "utilities" and "transfer-any-bank" ([#269](https://github.com/teryaew/alfa-ui-primitives/issues/269)) ([a77387a](https://github.com/teryaew/alfa-ui-primitives/commit/a77387a))
+
+
+### Features
+
+* **icons:** icon_bank-alfa updated ([#268](https://github.com/teryaew/alfa-ui-primitives/issues/268)) ([83cdbd7](https://github.com/teryaew/alfa-ui-primitives/commit/83cdbd7))
+
+
+
+<a name="1.10.1"></a>
+## [1.10.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.10.0...v1.10.1) (2019-06-10)
+
+
+### Features
+
+* **icons:** checkbox-disabled color icon ([#264](https://github.com/teryaew/alfa-ui-primitives/issues/264)) ([c273542](https://github.com/teryaew/alfa-ui-primitives/commit/c273542))
+* **icons:** icon_bank-alfa updated ([#267](https://github.com/teryaew/alfa-ui-primitives/issues/267)) ([27563e0](https://github.com/teryaew/alfa-ui-primitives/commit/27563e0))
+* **icons:** icon_offer_s_white icon ([#265](https://github.com/teryaew/alfa-ui-primitives/issues/265)) ([383ddd7](https://github.com/teryaew/alfa-ui-primitives/commit/383ddd7))
+
+
+
+<a name="1.10.0"></a>
+# [1.10.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.9.2...v1.10.0) (2019-05-08)
+
+
+### Bug Fixes
+
+* **icons:** fixed error_m_color icon ([#251](https://github.com/teryaew/alfa-ui-primitives/issues/251)) ([6b1959f](https://github.com/teryaew/alfa-ui-primitives/commit/6b1959f))
+* **icons:** fixed opacity icon_qr_xxl_white ([#261](https://github.com/teryaew/alfa-ui-primitives/issues/261)) ([d3d1e58](https://github.com/teryaew/alfa-ui-primitives/commit/d3d1e58))
+
+
+### Features
+
+* **colors:** deprecated dark indigo ([#256](https://github.com/teryaew/alfa-ui-primitives/issues/256)) ([5c98672](https://github.com/teryaew/alfa-ui-primitives/commit/5c98672))
+* **colors:** updated dark indigo set, deprecated colors ([#248](https://github.com/teryaew/alfa-ui-primitives/issues/248)) ([ab4fe8c](https://github.com/teryaew/alfa-ui-primitives/commit/ab4fe8c))
+* **icons:** attention icons update ([#254](https://github.com/teryaew/alfa-ui-primitives/issues/254)) ([0d333f5](https://github.com/teryaew/alfa-ui-primitives/commit/0d333f5))
+* **icons:** new clock-filled icon ([#252](https://github.com/teryaew/alfa-ui-primitives/issues/252)) ([cc6e35b](https://github.com/teryaew/alfa-ui-primitives/commit/cc6e35b))
+* **icons:** new house icon for insurance ([#262](https://github.com/teryaew/alfa-ui-primitives/issues/262)) ([0267c09](https://github.com/teryaew/alfa-ui-primitives/commit/0267c09))
+
+
+
 <a name="1.9.2"></a>
 ## [1.9.2](https://github.com/teryaew/alfa-ui-primitives/compare/v1.9.1...v1.9.2) (2019-03-14)
 
