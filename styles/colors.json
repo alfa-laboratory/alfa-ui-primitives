@@ -328,21 +328,21 @@
     "a": 1,
     "hex": "#e6f2ff"
   },
-  "payment_to_person": {
+  "sand": {
     "r": 246,
     "g": 191,
     "b": 101,
     "a": 1,
     "hex": "#f6bf65"
   },
-  "payment_to_atm": {
+  "lavender": {
     "r": 136,
     "g": 136,
     "b": 173,
     "a": 1,
     "hex": "#8888ad"
   },
-  "payment_to_card": {
+  "amethyst": {
     "r": 164,
     "g": 137,
     "b": 170,
