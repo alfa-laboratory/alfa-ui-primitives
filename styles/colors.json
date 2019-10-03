@@ -349,27 +349,6 @@
     "a": 1,
     "hex": "#a489aa"
   },
-  "category_invoice": {
-    "r": 96,
-    "g": 130,
-    "b": 167,
-    "a": 1,
-    "hex": "#6082a7"
-  },
-  "category_notice": {
-    "r": 77,
-    "g": 213,
-    "b": 213,
-    "a": 1,
-    "hex": "#4dd5d5"
-  },
-  "category_information": {
-    "r": 67,
-    "g": 131,
-    "b": 232,
-    "a": 1,
-    "hex": "#4383e8"
-  },
   "black": {
     "r": 0,
     "g": 0,
