@@ -1,3 +1,16 @@
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.13.0...v2.0.0) (2019-10-11)
+
+
+### Features
+
+* **icons:** add transfer-by-phone _xxl icon ([#287](https://github.com/teryaew/alfa-ui-primitives/issues/287)) ([42874ca](https://github.com/teryaew/alfa-ui-primitives/commit/42874ca))
+* **icons:** new geolocation-map and metro-map icons, updated close-circle icon ([#286](https://github.com/teryaew/alfa-ui-primitives/issues/286)) ([76f04a8](https://github.com/teryaew/alfa-ui-primitives/commit/76f04a8))
+* **icons:** new tabbar icon for marketplace ([#283](https://github.com/teryaew/alfa-ui-primitives/issues/283)) ([742b8da](https://github.com/teryaew/alfa-ui-primitives/commit/742b8da))
+* **tokens:** introducing design tokens ([#276](https://github.com/teryaew/alfa-ui-primitives/issues/276)) ([1a5620d](https://github.com/teryaew/alfa-ui-primitives/commit/1a5620d))
+
+
+
 <a name="1.13.0"></a>
 # [1.13.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.12.1...v1.13.0) (2019-08-14)
 
