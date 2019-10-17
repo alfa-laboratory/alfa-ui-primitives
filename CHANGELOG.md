@@ -1,3 +1,42 @@
+<a name="2.1.0"></a>
+# [2.1.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.0.0...v2.1.0) (2019-10-15)
+
+
+### Features
+
+* **colors:** rgba added ([#293](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/293)) ([00d48ce](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/00d48ce))
+* **icons:** new icons for Marketplace Personal Cards status ([#289](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/289)) ([e128079](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/e128079))
+* **icons:** update mastercard color icons ([#290](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/290)) ([5d23399](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/5d23399))
+* **icons:** update mastercard icons dimensions ([#291](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/291)) ([82d00d2](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/82d00d2))
+
+
+
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.13.0...v2.0.0) (2019-10-11)
+
+
+### Features
+
+* **icons:** add transfer-by-phone _xxl icon ([#287](https://github.com/teryaew/alfa-ui-primitives/issues/287)) ([42874ca](https://github.com/teryaew/alfa-ui-primitives/commit/42874ca))
+* **icons:** new geolocation-map and metro-map icons, updated close-circle icon ([#286](https://github.com/teryaew/alfa-ui-primitives/issues/286)) ([76f04a8](https://github.com/teryaew/alfa-ui-primitives/commit/76f04a8))
+* **icons:** new tabbar icon for marketplace ([#283](https://github.com/teryaew/alfa-ui-primitives/issues/283)) ([742b8da](https://github.com/teryaew/alfa-ui-primitives/commit/742b8da))
+* **tokens:** introducing design tokens ([#276](https://github.com/teryaew/alfa-ui-primitives/issues/276)) ([1a5620d](https://github.com/teryaew/alfa-ui-primitives/commit/1a5620d))
+
+
+
+<a name="1.13.0"></a>
+# [1.13.0](https://github.com/teryaew/alfa-ui-primitives/compare/v1.12.1...v1.13.0) (2019-08-14)
+
+
+### Features
+
+* **colors:** green colors update ([#280](https://github.com/teryaew/alfa-ui-primitives/issues/280)) ([1f8a5c2](https://github.com/teryaew/alfa-ui-primitives/commit/1f8a5c2))
+* **icons:** add art_logo-alfa_s icons ([#278](https://github.com/teryaew/alfa-ui-primitives/issues/278)) ([fad1d2c](https://github.com/teryaew/alfa-ui-primitives/commit/fad1d2c))
+* **icons:** add download icons ([#281](https://github.com/teryaew/alfa-ui-primitives/issues/281)) ([71d1808](https://github.com/teryaew/alfa-ui-primitives/commit/71d1808))
+* **icons:** new cancel icons, updated ok and tick icons ([#282](https://github.com/teryaew/alfa-ui-primitives/issues/282)) ([af38c6d](https://github.com/teryaew/alfa-ui-primitives/commit/af38c6d))
+
+
+
 <a name="1.12.1"></a>
 ## [1.12.1](https://github.com/teryaew/alfa-ui-primitives/compare/v1.12.0...v1.12.1) (2019-07-09)
 

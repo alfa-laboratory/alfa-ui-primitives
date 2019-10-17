@@ -1,0 +1,12 @@
+{
+  "gap_2xs": 4,
+  "gap_xs": 8,
+  "gap_s": 12,
+  "gap_m": 16,
+  "gap_l": 20,
+  "gap_xl": 24,
+  "gap_2xl": 32,
+  "gap_3xl": 40,
+  "gap_4xl": 48,
+  "gap_5xl": 72
+}
