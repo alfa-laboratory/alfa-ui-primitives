@@ -8,5 +8,8 @@
   "gap_2xl": 32,
   "gap_3xl": 40,
   "gap_4xl": 48,
-  "gap_5xl": 72
+  "gap_5xl": 64,
+  "gap_6xl": 72,
+  "gap_7xl": 96,
+  "gap_8xl": 128
 }
