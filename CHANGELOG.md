@@ -1,3 +1,14 @@
+<a name="2.3.0"></a>
+# [2.3.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.2.0...v2.3.0) (2019-10-25)
+
+
+### Features
+
+* **icons:** new sizes ([#301](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/301)) ([d0004c7](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d0004c7))
+* **icons:** transfer-by-phone icons ([#302](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/302)) ([a2d4e98](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/a2d4e98))
+
+
+
 <a name="2.2.0"></a>
 # [2.2.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.1.0...v2.2.0) (2019-10-22)
 
