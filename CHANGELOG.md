@@ -1,3 +1,28 @@
+<a name="2.3.0"></a>
+# [2.3.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.2.0...v2.3.0) (2019-10-25)
+
+
+### Features
+
+* **icons:** new sizes ([#301](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/301)) ([d0004c7](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d0004c7))
+* **icons:** transfer-by-phone icons ([#302](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/302)) ([a2d4e98](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/a2d4e98))
+
+
+
+<a name="2.2.0"></a>
+# [2.2.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.1.0...v2.2.0) (2019-10-22)
+
+
+### Features
+
+* **icons:** new android reorder icon ([#298](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/298)) ([ea630f7](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/ea630f7))
+* **icons:** new outside (external link) icons ([#299](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/299)) ([a36eaf5](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/a36eaf5))
+* **icons:** new payment-outbox icons ([#296](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/296)) ([66181ca](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/66181ca))
+* **icons:** update arrow xxl icons and add bold arrow xxl icons ([#294](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/294)) ([59f8f2e](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/59f8f2e))
+* **tokens:** updated colors and gaps ([#295](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/295)) ([6b8cebb](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/6b8cebb))
+
+
+
 <a name="2.1.0"></a>
 # [2.1.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.0.0...v2.1.0) (2019-10-15)
 
