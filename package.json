@@ -1,6 +1,6 @@
 {
   "name": "alfa-ui-primitives",
-  "version": "1.6.3",
+  "version": "2.3.1",
   "description": "UI primitives for sharing between platforms in Alfa-Bank projects",
   "keywords": [
     "alfa-bank",
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/teryaew/alfa-ui-primitives.git"
+    "url": "git+https://github.com/alfa-laboratory/alfa-ui-primitives.git"
   },
   "author": "Alfa Boys",
   "license": "MPL-2.0",
@@ -24,7 +24,6 @@
     "release-major": "npm version major -m 'chore(*): major version'",
     "test": "NODE_ENV=test nyc --reporter=lcov --reporter=text mocha ./utils/**/*.spec.js",
     "coverage": "nyc report --reporter=text-lcov | coveralls",
-    "preversion": "./utils/process-svg.pre-release.bin.js",
     "version": "git fetch --tags && npm run changelog && git add CHANGELOG.md",
     "postversion": "git push origin master && git push --tags && npm run pub",
     "pub": "./utils/publish.sh"
