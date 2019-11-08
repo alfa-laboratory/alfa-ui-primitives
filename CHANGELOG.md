@@ -1,3 +1,13 @@
+<a name="2.3.2"></a>
+## [2.3.2](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.3.1...v2.3.2) (2019-11-08)
+
+
+### Features
+
+* **icons:** added xxl size for error icon ([#307](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/307)) ([f01fb11](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f01fb11))
+
+
+
 <a name="2.3.1"></a>
 ## [2.3.1](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.3.0...v2.3.1) (2019-11-07)
 
