@@ -1,3 +1,25 @@
+<a name="2.3.2"></a>
+## [2.3.2](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.3.1...v2.3.2) (2019-11-08)
+
+
+### Features
+
+* **icons:** added xxl size for error icon ([#307](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/307)) ([f01fb11](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f01fb11))
+
+
+
+<a name="2.3.1"></a>
+## [2.3.1](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.3.0...v2.3.1) (2019-11-07)
+
+
+### Features
+
+* **icons:** double arrow, list, table ([#305](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/305)) ([b5454dc](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/b5454dc))
+* **icons:** filter/card-activation/limits xl ([#306](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/306)) ([e216004](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/e216004))
+* **icons:** gaming icons ([#304](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/304)) ([6213069](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/6213069))
+
+
+
 <a name="2.3.0"></a>
 # [2.3.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.2.0...v2.3.0) (2019-10-25)
 
