@@ -1,3 +1,15 @@
+<a name="2.3.3"></a>
+## [2.3.3](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.3.2...v2.3.3) (2019-11-26)
+
+
+### Features
+
+* **icons:** add attention color icons ([#310](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/310)) ([3f17fbf](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/3f17fbf))
+* **icons:** add icon_category-default_xxl ([#311](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/311)) ([815be3f](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/815be3f))
+* **icons:** new icons for ATM ([#309](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/309)) ([cbeebe4](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/cbeebe4))
+
+
+
 <a name="2.3.2"></a>
 ## [2.3.2](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.3.1...v2.3.2) (2019-11-08)
 
