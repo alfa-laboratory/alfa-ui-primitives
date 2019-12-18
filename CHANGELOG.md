@@ -1,3 +1,14 @@
+<a name="2.3.4"></a>
+## [2.3.4](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.3.3...v2.3.4) (2019-12-18)
+
+
+### Features
+
+* **icons:** new flash icon ([#312](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/312)) ([2ac8824](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/2ac8824))
+* **icons:** qr icons for android ([#313](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/313)) ([c6900ff](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/c6900ff))
+
+
+
 <a name="2.3.3"></a>
 ## [2.3.3](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.3.2...v2.3.3) (2019-11-26)
 
