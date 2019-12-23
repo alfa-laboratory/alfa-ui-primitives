@@ -18,70 +18,70 @@
     "line_height": 28,
     "line_spacing": 5,
     "font_weight": "bold",
-    "letter_spacing": 0
+    "letter_spacing": 0.15
   },
   "16-24_regular": {
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
     "font_weight": "regular",
-    "letter_spacing": 0
+    "letter_spacing": 0.15
   },
   "16-24_medium": {
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
     "font_weight": "medium",
-    "letter_spacing": 0
+    "letter_spacing": 0.15
   },
   "16-24_bold": {
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
     "font_weight": "bold",
-    "letter_spacing": 0
+    "letter_spacing": 0.15
   },
   "16-20_regular": {
     "font_size": 16,
     "line_height": 20,
     "line_spacing": 1,
     "font_weight": "regular",
-    "letter_spacing": 0
+    "letter_spacing": 0.15
   },
   "16-20_medium": {
     "font_size": 16,
     "line_height": 20,
     "line_spacing": 1,
     "font_weight": "medium",
-    "letter_spacing": 0
+    "letter_spacing": 0.15
   },
   "16-20_bold": {
     "font_size": 16,
     "line_height": 20,
     "line_spacing": 1,
     "font_weight": "bold",
-    "letter_spacing": 0
+    "letter_spacing": 0.15
   },
   "14-20_regular": {
     "font_size": 14,
     "line_height": 20,
     "line_spacing": 4,
     "font_weight": "regular",
-    "letter_spacing": 0
+    "letter_spacing": 0.25
   },
   "14-20_bold": {
     "font_size": 14,
     "line_height": 20,
     "line_spacing": 4,
     "font_weight": "bold",
-    "letter_spacing": 0
+    "letter_spacing": 0.25
   },
   "12-16_regular": {
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 2,
     "font_weight": "regular",
-    "letter_spacing": 0
+    "letter_spacing": 0.4
   },
   "12-16_medium_caps": {
     "font_size": 12,
