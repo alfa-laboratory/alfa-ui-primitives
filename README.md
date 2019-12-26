@@ -12,6 +12,10 @@ Design tokens for UI libraries in Alfa-Bank projects. Web, iOS, Android.
 
 > Use colors from `styles/colors.json`, `colors.json` is deprecated.
 
+## Contributing
+
+See our [wiki (in Russian)](https://github.com/alfa-laboratory/alfa-ui-primitives/wiki)
+
 ## License
 
 This project is licensed under the Mozilla Public License 2.0 - see the [LICENSE.md](LICENSE.md) file for details
