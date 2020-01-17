@@ -1,3 +1,48 @@
+<a name="2.3.3"></a>
+## [2.3.3](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.3.2...v2.3.3) (2019-11-26)
+
+
+### Features
+
+* **icons:** add attention color icons ([#310](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/310)) ([3f17fbf](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/3f17fbf))
+* **icons:** add icon_category-default_xxl ([#311](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/311)) ([815be3f](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/815be3f))
+* **icons:** new icons for ATM ([#309](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/309)) ([cbeebe4](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/cbeebe4))
+
+
+
+<a name="2.3.2"></a>
+## [2.3.2](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.3.1...v2.3.2) (2019-11-08)
+
+
+### Features
+
+* **icons:** added xxl size for error icon ([#307](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/307)) ([f01fb11](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f01fb11))
+
+
+
+<a name="2.3.1"></a>
+## [2.3.1](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.3.0...v2.3.1) (2019-11-07)
+
+
+### Features
+
+* **icons:** double arrow, list, table ([#305](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/305)) ([b5454dc](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/b5454dc))
+* **icons:** filter/card-activation/limits xl ([#306](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/306)) ([e216004](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/e216004))
+* **icons:** gaming icons ([#304](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/304)) ([6213069](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/6213069))
+
+
+
+<a name="2.3.0"></a>
+# [2.3.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.2.0...v2.3.0) (2019-10-25)
+
+
+### Features
+
+* **icons:** new sizes ([#301](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/301)) ([d0004c7](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d0004c7))
+* **icons:** transfer-by-phone icons ([#302](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/302)) ([a2d4e98](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/a2d4e98))
+
+
+
 <a name="2.2.0"></a>
 # [2.2.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.1.0...v2.2.0) (2019-10-22)
 
