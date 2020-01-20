@@ -1,3 +1,32 @@
+<a name="2.4.0"></a>
+# [2.4.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.3.4...v2.4.0) (2019-12-24)
+
+
+### Bug Fixes
+
+* **icons:** fix CI warnings about viewBox and update ReadMe about icons ([#318](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/318)) ([f1f8596](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f1f8596))
+
+
+### Features
+
+* **icons:** add format-unknown color icon ([#317](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/317)) ([b1de5dc](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/b1de5dc))
+* **icons:** add jpg and rar icons ([#314](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/314)) ([84e0067](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/84e0067))
+* **icons:** new mir icon ([#316](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/316)) ([4ad7ca3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/4ad7ca3))
+* **tokens:** updated colors and ios/android styles ([#315](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/315)) ([4d54d1b](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/4d54d1b))
+
+
+
+<a name="2.3.4"></a>
+## [2.3.4](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.3.3...v2.3.4) (2019-12-18)
+
+
+### Features
+
+* **icons:** new flash icon ([#312](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/312)) ([2ac8824](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/2ac8824))
+* **icons:** qr icons for android ([#313](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/313)) ([c6900ff](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/c6900ff))
+
+
+
 <a name="2.3.3"></a>
 ## [2.3.3](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.3.2...v2.3.3) (2019-11-26)
 
