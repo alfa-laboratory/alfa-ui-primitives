@@ -1,3 +1,13 @@
+<a name="2.4.3"></a>
+## [2.4.3](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.4.2...v2.4.3) (2020-01-23)
+
+
+### Features
+
+* **icons:** re-added format jpg & rar icons ([8b6edfe](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8b6edfe))
+
+
+
 <a name="2.4.2"></a>
 ## [2.4.2](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.4.1...v2.4.2) (2020-01-23)
 
