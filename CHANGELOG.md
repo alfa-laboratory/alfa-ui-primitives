@@ -1,3 +1,13 @@
+<a name="2.4.2"></a>
+## [2.4.2](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.4.1...v2.4.2) (2020-01-23)
+
+
+### Features
+
+* **icons:** fixed call icons ([#322](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/322)) ([3e42dc3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/3e42dc3))
+
+
+
 <a name="2.4.1"></a>
 ## [2.4.1](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.4.0...v2.4.1) (2020-01-22)
 
