@@ -1,3 +1,20 @@
+<a name="2.5.0"></a>
+# [2.5.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.4.3...v2.5.0) (2020-02-12)
+
+
+### Bug Fixes
+
+* **icons:** updated arrow icons ([#327](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/327)) ([fe55662](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/fe55662))
+
+
+### Features
+
+* **icons:** fixed arrow-collapse icons ([#326](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/326)) ([7ae859c](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/7ae859c))
+* **tokens:** new android styles ([#329](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/329)) ([44e0cbd](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/44e0cbd))
+* **tokens:** new color ([d346bb8](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d346bb8))
+
+
+
 <a name="2.4.3"></a>
 ## [2.4.3](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.4.2...v2.4.3) (2020-01-23)
 
