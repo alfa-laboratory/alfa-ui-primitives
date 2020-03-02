@@ -1,3 +1,58 @@
+<a name="2.5.0"></a>
+# [2.5.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.4.3...v2.5.0) (2020-02-12)
+
+
+### Bug Fixes
+
+* **icons:** updated arrow icons ([#327](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/327)) ([fe55662](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/fe55662))
+
+
+### Features
+
+* **icons:** fixed arrow-collapse icons ([#326](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/326)) ([7ae859c](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/7ae859c))
+* **tokens:** new android styles ([#329](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/329)) ([44e0cbd](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/44e0cbd))
+* **tokens:** new color ([d346bb8](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d346bb8))
+
+
+
+<a name="2.4.3"></a>
+## [2.4.3](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.4.2...v2.4.3) (2020-01-23)
+
+
+### Features
+
+* **icons:** re-added format jpg & rar icons ([8b6edfe](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8b6edfe))
+
+
+
+<a name="2.4.2"></a>
+## [2.4.2](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.4.1...v2.4.2) (2020-01-23)
+
+
+### Features
+
+* **icons:** fixed call icons ([#322](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/322)) ([3e42dc3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/3e42dc3))
+
+
+
+<a name="2.4.1"></a>
+## [2.4.1](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.4.0...v2.4.1) (2020-01-22)
+
+
+### Bug Fixes
+
+* **icons:** mir logos (art) without gradient ([#320](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/320)) ([f899de9](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f899de9))
+
+
+### Features
+
+* **icons:** flash + beeline icons ([#323](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/323)) ([a4ce6ca](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/a4ce6ca))
+* **icons:** home icons ([#324](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/324)) ([157310a](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/157310a))
+* **icons:** mir art ([#319](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/319)) ([24330f3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/24330f3))
+* **icons:** new pause color icon ([#321](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/321)) ([6eada34](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/6eada34))
+
+
+
 <a name="2.4.0"></a>
 # [2.4.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.3.4...v2.4.0) (2019-12-24)
 
