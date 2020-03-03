@@ -24,5 +24,9 @@
   "static_text_light_primary": "#ffffff",
   "static_text_light_secondary": "#99ffffff",
   "static_text_light_tetriary": "#4dffffff",
-  "static_text_brand": "#ef3124"
+  "static_text_brand": "#ef3124",
+  "static_icon_brand": "#ef3124",
+  "static_icon_moody_blue": "#7879cf",
+  "static_icon_sand": "#f6bf65",
+  "static_icon_maya_blue": "#7eb3ff"
 }
