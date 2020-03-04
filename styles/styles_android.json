@@ -2,7 +2,7 @@
   "TextAppearance.Heading1": {
     "font_size": 30,
     "line_height": 36,
-    "line_spacing": 1,
+    "line_spacing": 0,
     "font_weight": "roboto_bold",
     "letter_spacing": 0,
     "first_baseline_to_top_height": 28,
@@ -11,7 +11,7 @@
   "TextAppearance.Heading2": {
     "font_size": 26,
     "line_height": 32,
-    "line_spacing": 2,
+    "line_spacing": 1,
     "font_weight": "roboto_bold",
     "letter_spacing": 0,
     "first_baseline_to_top_height": 25,
@@ -20,7 +20,7 @@
   "TextAppearance.Heading3": {
     "font_size": 20,
     "line_height": 28,
-    "line_spacing": 5,
+    "line_spacing": 4,
     "font_weight": "roboto_bold",
     "letter_spacing": 0.15,
     "first_baseline_to_top_height": 21,
@@ -32,8 +32,8 @@
     "line_spacing": 5,
     "font_weight": "roboto_regular",
     "letter_spacing": 0.15,
-    "first_baseline_to_top_height": 15,
-    "last_baseline_to_bottom_height": 9
+    "first_baseline_to_top_height": 17,
+    "last_baseline_to_bottom_height": 7
   },
   "TextAppearance.PrimaryParagraph.Medium": {
     "font_size": 16,
@@ -41,8 +41,8 @@
     "line_spacing": 5,
     "font_weight": "roboto_medium",
     "letter_spacing": 0.15,
-    "first_baseline_to_top_height": 15,
-    "last_baseline_to_bottom_height": 9
+    "first_baseline_to_top_height": 17,
+    "last_baseline_to_bottom_height": 7
   },
   "TextAppearance.PrimaryParagraph.Bold": {
     "font_size": 16,
@@ -50,8 +50,8 @@
     "line_spacing": 5,
     "font_weight": "roboto_bold",
     "letter_spacing": 0.15,
-    "first_baseline_to_top_height": 15,
-    "last_baseline_to_bottom_height": 9
+    "first_baseline_to_top_height": 17,
+    "last_baseline_to_bottom_height": 7
   },
   "TextAppearance.PrimaryComponents.Regular": {
     "font_size": 16,
@@ -83,37 +83,37 @@
   "TextAppearance.Secondary.Regular": {
     "font_size": 14,
     "line_height": 20,
-    "line_spacing": 4,
+    "line_spacing": 3,
     "font_weight": "roboto_regular",
     "letter_spacing": 0.25,
-    "first_baseline_to_top_height": 13,
-    "last_baseline_to_bottom_height": 7
+    "first_baseline_to_top_height": 15,
+    "last_baseline_to_bottom_height": 5
   },
   "TextAppearance.Secondary.Bold": {
     "font_size": 14,
     "line_height": 20,
-    "line_spacing": 4,
+    "line_spacing": 3,
     "font_weight": "roboto_bold",
     "letter_spacing": 0.25,
-    "first_baseline_to_top_height": 13,
-    "last_baseline_to_bottom_height": 7
+    "first_baseline_to_top_height": 15,
+    "last_baseline_to_bottom_height": 5
   },
   "TextAppearance.Tertiary": {
     "font_size": 12,
     "line_height": 16,
-    "line_spacing": 2,
+    "line_spacing": 1,
     "font_weight": "roboto_regular",
     "letter_spacing": 0.4,
-    "first_baseline_to_top_height": 11,
-    "last_baseline_to_bottom_height": 5
+    "first_baseline_to_top_height": 12,
+    "last_baseline_to_bottom_height": 4
   },
   "TextAppearance.Caption": {
     "font_size": 12,
-    "line_height": 14,
-    "line_spacing": 0,
+    "line_height": 16,
+    "line_spacing": 1,
     "font_weight": "roboto_medium",
     "letter_spacing": 1.5,
-    "first_baseline_to_top_height": 11,
-    "last_baseline_to_bottom_height": 5
+    "first_baseline_to_top_height": 12,
+    "last_baseline_to_bottom_height": 4
   }
 }
