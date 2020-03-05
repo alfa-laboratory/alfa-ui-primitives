@@ -3,7 +3,7 @@
     "font_size": 30,
     "line_height": 36,
     "line_spacing": 0,
-    "font_weight": "roboto_bold",
+    "font_family": "roboto_bold",
     "letter_spacing": 0,
     "first_baseline_to_top_height": 28,
     "last_baseline_to_bottom_height": 8
@@ -12,7 +12,7 @@
     "font_size": 26,
     "line_height": 32,
     "line_spacing": 1,
-    "font_weight": "roboto_bold",
+    "font_family": "roboto_bold",
     "letter_spacing": 0,
     "first_baseline_to_top_height": 25,
     "last_baseline_to_bottom_height": 7
@@ -21,7 +21,7 @@
     "font_size": 20,
     "line_height": 28,
     "line_spacing": 4,
-    "font_weight": "roboto_bold",
+    "font_family": "roboto_bold",
     "letter_spacing": 0.15,
     "first_baseline_to_top_height": 21,
     "last_baseline_to_bottom_height": 7
@@ -30,7 +30,7 @@
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
-    "font_weight": "roboto_regular",
+    "font_family": "roboto_regular",
     "letter_spacing": 0.15,
     "first_baseline_to_top_height": 17,
     "last_baseline_to_bottom_height": 7
@@ -39,7 +39,7 @@
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
-    "font_weight": "roboto_medium",
+    "font_family": "roboto_medium",
     "letter_spacing": 0.15,
     "first_baseline_to_top_height": 17,
     "last_baseline_to_bottom_height": 7
@@ -48,7 +48,7 @@
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
-    "font_weight": "roboto_bold",
+    "font_family": "roboto_bold",
     "letter_spacing": 0.15,
     "first_baseline_to_top_height": 17,
     "last_baseline_to_bottom_height": 7
@@ -57,7 +57,7 @@
     "font_size": 16,
     "line_height": 20,
     "line_spacing": 1,
-    "font_weight": "roboto_regular",
+    "font_family": "roboto_regular",
     "letter_spacing": 0.15,
     "first_baseline_to_top_height": 15,
     "last_baseline_to_bottom_height": 5
@@ -66,7 +66,7 @@
     "font_size": 16,
     "line_height": 20,
     "line_spacing": 1,
-    "font_weight": "roboto_medium",
+    "font_family": "roboto_medium",
     "letter_spacing": 0.15,
     "first_baseline_to_top_height": 15,
     "last_baseline_to_bottom_height": 5
@@ -75,7 +75,7 @@
     "font_size": 16,
     "line_height": 20,
     "line_spacing": 1,
-    "font_weight": "roboto_bold",
+    "font_family": "roboto_bold",
     "letter_spacing": 0.15,
     "first_baseline_to_top_height": 15,
     "last_baseline_to_bottom_height": 5
@@ -84,7 +84,7 @@
     "font_size": 14,
     "line_height": 20,
     "line_spacing": 3,
-    "font_weight": "roboto_regular",
+    "font_family": "roboto_regular",
     "letter_spacing": 0.25,
     "first_baseline_to_top_height": 15,
     "last_baseline_to_bottom_height": 5
@@ -93,7 +93,7 @@
     "font_size": 14,
     "line_height": 20,
     "line_spacing": 3,
-    "font_weight": "roboto_bold",
+    "font_family": "roboto_bold",
     "letter_spacing": 0.25,
     "first_baseline_to_top_height": 15,
     "last_baseline_to_bottom_height": 5
@@ -102,7 +102,7 @@
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
-    "font_weight": "roboto_regular",
+    "font_family": "roboto_regular",
     "letter_spacing": 0.4,
     "first_baseline_to_top_height": 12,
     "last_baseline_to_bottom_height": 4
@@ -111,7 +111,7 @@
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
-    "font_weight": "roboto_medium",
+    "font_family": "roboto_medium",
     "letter_spacing": 1.5,
     "first_baseline_to_top_height": 12,
     "last_baseline_to_bottom_height": 4
