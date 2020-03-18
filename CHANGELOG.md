@@ -1,3 +1,29 @@
+<a name="2.6.0"></a>
+# [2.6.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.5.0...v2.6.0) (2020-03-18)
+
+
+### Features
+
+* **icons:** add new category-budget icons ([#328](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/328)) ([8eca08a](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8eca08a))
+* **icons:** add voc icons ([712b624](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/712b624))
+* **icons:** added new icon user-add_m ([#333](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/333)) ([91c807e](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/91c807e))
+* **icons:** new file-docx icons ([#341](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/341)) ([da793d3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/da793d3))
+* **icons:** new icons for mobile ([#331](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/331)) ([eb89029](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/eb89029))
+* **icons:** new voc icons ([#334](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/334)) ([7b358ae](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/7b358ae))
+* **tokens:** new colors for mobile ([8e9b255](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8e9b255))
+* **tokens:** new colors for mobile ([83d6003](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/83d6003))
+* **tokens:** rename ios/android tokens please ([9f70eb9](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/9f70eb9))
+* **tokens:** rename ios/android tokens please ([d87a1cd](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d87a1cd))
+* **tokens:** updated android text styles ([12a8a16](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/12a8a16))
+* **tokens:** updated android text styles ([52f0780](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/52f0780))
+* **tokens:** updated android text styles ([9d3d065](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/9d3d065))
+* **tokens:** updated android text styles ([179d00c](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/179d00c))
+* **tokens:** updated android text styles ([e4f00b4](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/e4f00b4))
+* **tokens:** updated colors for mobile ([4f3e044](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/4f3e044))
+* **tokens:** updated colors for mobile ([d64d528](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d64d528))
+
+
+
 <a name="2.5.0"></a>
 # [2.5.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.4.3...v2.5.0) (2020-02-12)
 
