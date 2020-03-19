@@ -32,6 +32,7 @@
   "static_text_light_secondary": "#99ffffff",
   "static_text_light_tertiary": "#4dffffff",
   "static_text_brand": "#ef3124",
+  "static_background_brand": "#ef3124",
   "static_fill_moody_blue": "#7879cf",
   "static_fill_sand": "#f6bf65",
   "static_fill_maya_blue": "#7eb3ff"
