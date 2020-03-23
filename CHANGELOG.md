@@ -1,3 +1,23 @@
+<a name="2.6.1"></a>
+## [2.6.1](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.6.0...v2.6.1) (2020-03-23)
+
+
+### Bug Fixes
+
+* add missing icons from figma ([#336](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/336)) ([db13aa6](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/db13aa6))
+
+
+### Features
+
+* **icons:** add word (docx) icons ([#348](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/348)) ([8934f50](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8934f50))
+* **icons:** deleted docx icons ([0a40894](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/0a40894))
+* **icons:** new voc act ([#342](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/342)) ([471a15b](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/471a15b))
+* **tokens:** updated colors for mobile ([46029c8](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/46029c8))
+* **tokens:** updated colors for mobile ([70a487c](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/70a487c))
+* **tokens:** updated colors for mobile ([e330e47](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/e330e47))
+
+
+
 <a name="2.6.0"></a>
 # [2.6.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.5.0...v2.6.0) (2020-03-18)
 
