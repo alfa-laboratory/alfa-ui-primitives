@@ -1,3 +1,14 @@
+<a name="2.7.0"></a>
+# [2.7.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.6.1...v2.7.0) (2020-03-24)
+
+
+### Features
+
+* **icons:** add 11 glyph_ icons ([#344](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/344)) ([8ab25cb](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8ab25cb))
+* **icons:** add 49 glyph_ icons ([#347](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/347)) ([8341402](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8341402))
+
+
+
 <a name="2.6.1"></a>
 ## [2.6.1](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.6.0...v2.6.1) (2020-03-23)
 
