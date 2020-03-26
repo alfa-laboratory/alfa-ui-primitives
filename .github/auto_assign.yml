@@ -1,7 +1,12 @@
 addReviewers: true
 
 reviewers:
-  - reme3d2y
+  - slavastrizh
+  - vlasdmitrenko
+  - danildesign
+  - Shushuru
+  - Elenajoyka
+  - Marina-Re
 
 skipKeywords:
   - wip
