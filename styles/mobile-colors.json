@@ -35,5 +35,6 @@
   "static_background_brand": "#ef3124",
   "static_fill_moody_blue": "#7879cf",
   "static_fill_sand": "#f6bf65",
-  "static_fill_maya_blue": "#7eb3ff"
+  "static_fill_maya_blue": "#7eb3ff",
+  "static_fill_dark_overlay": "#99000000"
 }
