@@ -1,3 +1,17 @@
+<a name="2.8.0"></a>
+# [2.8.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.7.2...v2.8.0) (2020-04-03)
+
+
+### Features
+
+* **icons:** add 2 voc icons ([#362](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/362)) ([d63d510](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d63d510))
+* **icons:** add all services icons ([#363](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/363)) ([0dca6f4](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/0dca6f4))
+* **icons:** download icon ([#360](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/360)) ([91afe61](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/91afe61))
+* **tokens:** new web typography ([#359](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/359)) ([876ca2c](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/876ca2c))
+* **tokens:** updated colors for mobile ([5a9a7ce](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/5a9a7ce))
+
+
+
 <a name="2.7.2"></a>
 ## [2.7.2](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.7.1...v2.7.2) (2020-03-30)
 
