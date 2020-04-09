@@ -62,9 +62,9 @@
     "font_weight": "regular",
     "letter_spacing": -0.08
   },
-  "11-13_medium_caps": {
+  "11-16_semibold_caps": {
     "font_size": 11,
-    "line_height": 13,
+    "line_height": 16,
     "line_spacing": 0,
     "font_weight": "medium",
     "letter_spacing": 1.5
