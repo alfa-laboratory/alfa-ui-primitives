@@ -1,3 +1,14 @@
+<a name="2.9.0"></a>
+# [2.9.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.8.0...v2.9.0) (2020-04-16)
+
+
+### Features
+
+* **icons:** update 57 glyph_ icons ([#366](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/366)) ([f9a835f](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f9a835f))
+* **tokens:** updated android text styles ([a5f477d](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/a5f477d))
+
+
+
 <a name="2.8.0"></a>
 # [2.8.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.7.2...v2.8.0) (2020-04-03)
 
