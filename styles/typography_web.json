@@ -29,6 +29,12 @@
     "font_weight": 700,
     "font_family": "var(--font-family-system)"
   },
+  "system_18-22_regular": {
+    "font_size": 18,
+    "line_height": 22,
+    "font_weight": 400,
+    "font_family": "var(--font-family-system)"
+  },
   "system_18-22_medium": {
     "font_size": 18,
     "line_height": 22,

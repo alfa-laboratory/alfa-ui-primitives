@@ -758,29 +758,5 @@
     "sets": [
       "site"
     ]
-  },
-  "dark_indigo_03": {
-    "r": 11,
-    "g": 31,
-    "b": 53,
-    "a": 0.03,
-    "rgba": "rgba(11, 31, 53, 0.03)",
-    "hex": "#080b1f35",
-    "sets": [
-      "all"
-    ],
-    "deprecated": true
-  },
-  "dark_indigo_03_flat": {
-    "r": 247,
-    "g": 248,
-    "b": 249,
-    "a": 1,
-    "rgba": "rgba(247, 248, 249, 1)",
-    "hex": "#f7f8f9",
-    "sets": [
-      "all"
-    ],
-    "deprecated": true
   }
 }
