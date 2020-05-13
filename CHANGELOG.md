@@ -1,3 +1,13 @@
+<a name="2.12.0"></a>
+# [2.12.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.11.0...v2.12.0) (2020-05-13)
+
+
+### Features
+
+* **icons:** add 3 glyph icons ([#377](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/377)) ([2cabb36](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/2cabb36))
+
+
+
 <a name="2.11.0"></a>
 # [2.11.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.10.0...v2.11.0) (2020-05-12)
 
