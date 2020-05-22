@@ -16,7 +16,7 @@ Design tokens for UI libraries in Alfa-Bank projects. Web, iOS, Android.
 
 ## Contributing
 
-See our [wiki (in Russian)](https://github.com/alfa-laboratory/alfa-ui-primitives/wiki)
+See our [wiki (in Russian)](https://github.com/alfa-laboratory/alfa-ui-primitives/wiki).
 
 ## License
 
