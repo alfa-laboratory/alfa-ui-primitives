@@ -1,4 +1,4 @@
-<div class="readme-header"><img width="914" alt="Дизайн-токены и иконки для цифровых продуктов Альфа-Банка" src="https://user-images.githubusercontent.com/109410/82578323-e9e84580-9b94-11ea-8707-5227f478095b.png"></div>
+<p class="readme-header"><img width="914" alt="Дизайн-токены и иконки для цифровых продуктов Альфа-Банка" src="https://user-images.githubusercontent.com/109410/82578323-e9e84580-9b94-11ea-8707-5227f478095b.png"></p>
 
 [![travis][travis-img]][travis]
 
