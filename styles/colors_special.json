@@ -1,0 +1,23 @@
+{
+  "static_graphic_amethyst": {
+    "hex": "#a489aa"
+  },
+  "static_graphic_lavender": {
+    "hex": "#8888ad"
+  },
+  "static_graphic_blue_moody": {
+    "hex": "#7879cf"
+  },
+  "static_graphic_persimmon": {
+    "hex": "#ff5c5c"
+  },
+  "static_graphic_green_jungle": {
+    "hex": "#2fc26e"
+  },
+  "static_graphic_sand": {
+    "hex": "#f6bf65"
+  },
+  "static_graphic_blue_maya": {
+    "hex": "#7eb3ff"
+  }
+}
