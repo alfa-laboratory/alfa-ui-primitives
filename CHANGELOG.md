@@ -1,3 +1,24 @@
+<a name="2.13.0"></a>
+# [2.13.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.12.0...v2.13.0) (2020-06-09)
+
+
+### Bug Fixes
+
+* **tokens:** updated indigo colors ([282e1ee](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/282e1ee))
+
+
+### Features
+
+* **icons:** add 260 flags ([#373](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/373)) ([f581ba5](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f581ba5))
+* **icons:** add 3 category-idea icons ([#378](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/378)) ([851a4f0](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/851a4f0))
+* **icons:** add 6 icons ([#381](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/381)) ([f7a11ee](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f7a11ee))
+* **icons:** add 6 icons ([#383](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/383)) ([09d633a](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/09d633a))
+* **tokens:** indigo rgba colors ([e81f5dd](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/e81f5dd))
+* **tokens:** new colors ([#382](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/382)) ([35ed663](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/35ed663))
+* **tokens:** special → addons ([f62c8d3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f62c8d3))
+
+
+
 <a name="2.12.0"></a>
 # [2.12.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.11.0...v2.12.0) (2020-05-13)
 
