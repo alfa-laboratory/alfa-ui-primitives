@@ -1,23 +1,30 @@
 {
   "static_graphic_amethyst": {
+    "rgba": "rgba(164, 137, 170, 1)",
     "hex": "#a489aa"
   },
   "static_graphic_lavender": {
+    "rgba": "rgba(136, 136, 173, 1)",
     "hex": "#8888ad"
   },
   "static_graphic_blue_moody": {
+    "rgba": "rgba(120, 121, 207, 1)",
     "hex": "#7879cf"
   },
   "static_graphic_persimmon": {
+    "rgba": "rgba(255, 92, 92, 1)",
     "hex": "#ff5c5c"
   },
   "static_graphic_green_jungle": {
+    "rgba": "rgba(47, 194, 110, 1)",
     "hex": "#2fc26e"
   },
   "static_graphic_sand": {
+    "rgba": "rgba(246, 191, 101, 1)",
     "hex": "#f6bf65"
   },
   "static_graphic_blue_maya": {
+    "rgba": "rgba(126, 179, 255, 1)",
     "hex": "#7eb3ff"
   }
 }
