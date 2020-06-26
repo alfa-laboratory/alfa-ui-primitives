@@ -1,6 +1,6 @@
 {
   "Heading1": {
-    "alias": "header L",
+    "alias": "headerL",
     "font_size": 30,
     "line_height": 36,
     "line_spacing": 0,
@@ -9,7 +9,7 @@
     "letter_spacing": 0.36
   },
   "Heading2": {
-    "alias": "header M",
+    "alias": "headerM",
     "font_size": 27,
     "line_height": 32,
     "line_spacing": 0,
@@ -18,7 +18,7 @@
     "letter_spacing": 0.35
   },
   "Heading3": {
-    "alias": "header S",
+    "alias": "headerS",
     "font_size": 22,
     "line_height": 28,
     "line_spacing": 2,
@@ -26,17 +26,8 @@
     "font_weight": "bold",
     "letter_spacing": 0.35
   },
-  "Heading4": {
-    "alias": "header XS",
-    "font_size": 17,
-    "line_height": 24,
-    "line_spacing": 4,
-    "font_family": "System",
-    "font_weight": "bold",
-    "letter_spacing": -0.41
-  },
   "PrimaryParagraph.Regular": {
-    "alias": "body text",
+    "alias": "bodyText",
     "font_size": 17,
     "line_height": 24,
     "line_spacing": 4,
@@ -45,6 +36,7 @@
     "letter_spacing": -0.41
   },
   "PrimaryParagraph.Medium": {
+    "alias": "mediumText",
     "font_size": 17,
     "line_height": 24,
     "line_spacing": 4,
@@ -53,6 +45,7 @@
     "letter_spacing": -0.41
   },
   "PrimaryParagraph.Bold": {
+    "alias": "headerXS",
     "font_size": 17,
     "line_height": 24,
     "line_spacing": 4,
@@ -85,7 +78,7 @@
     "letter_spacing": -0.41
   },
   "Secondary.Regular": {
-    "alias": "secondary text",
+    "alias": "secondaryText",
     "font_size": 15,
     "line_height": 20,
     "line_spacing": 2,
@@ -94,6 +87,7 @@
     "letter_spacing": -0.24
   },
   "Secondary.Bold": {
+    "alias": "headerXXS",
     "font_size": 15,
     "line_height": 20,
     "line_spacing": 2,
@@ -102,7 +96,7 @@
     "letter_spacing": -0.24
   },
   "Tertiary": {
-    "alias": "caption text",
+    "alias": "captionText",
     "font_size": 13,
     "line_height": 18,
     "line_spacing": 2,
@@ -111,7 +105,7 @@
     "letter_spacing": -0.08
   },
   "Caption1": {
-    "alias": "small caps",
+    "alias": "smallCaps",
     "font_size": 11,
     "line_height": 16,
     "line_spacing": 3,

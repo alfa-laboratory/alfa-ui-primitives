@@ -1,6 +1,6 @@
 {
   "TextStyle.Heading1": {
-    "alias": "header L",
+    "alias": "headerL",
     "font_size": 30,
     "line_height": 36,
     "line_spacing": 0,
@@ -12,7 +12,7 @@
     "last_baseline_to_bottom_height": 8
   },
   "TextStyle.Heading2": {
-    "alias": "header M",
+    "alias": "headerM",
     "font_size": 26,
     "line_height": 32,
     "line_spacing": 1,
@@ -24,7 +24,7 @@
     "last_baseline_to_bottom_height": 7
   },
   "TextStyle.Heading3": {
-    "alias": "header S",
+    "alias": "headerS",
     "font_size": 20,
     "line_height": 28,
     "line_spacing": 4,
@@ -35,20 +35,8 @@
     "first_baseline_to_top_height": 21,
     "last_baseline_to_bottom_height": 7
   },
-  "TextStyle.Heading4": {
-    "alias": "header XS",
-    "font_size": 16,
-    "line_height": 24,
-    "line_spacing": 5,
-    "line_spacing_extra": 5,
-    "font_family": "roboto_bold",
-    "text_all_caps": false,
-    "letter_spacing": 0.01,
-    "first_baseline_to_top_height": 17,
-    "last_baseline_to_bottom_height": 7
-  },
   "TextStyle.PrimaryParagraph.Regular": {
-    "alias": "body text",
+    "alias": "bodyText",
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
@@ -60,6 +48,7 @@
     "last_baseline_to_bottom_height": 7
   },
   "TextStyle.PrimaryParagraph.Medium": {
+    "alias": "mediumText",
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
@@ -71,6 +60,7 @@
     "last_baseline_to_bottom_height": 7
   },
   "TextStyle.PrimaryParagraph.Bold": {
+    "alias": "headerXS",
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
@@ -115,7 +105,7 @@
     "last_baseline_to_bottom_height": 5
   },
   "TextStyle.Secondary.Regular": {
-    "alias": "secondary text",
+    "alias": "secondaryText",
     "font_size": 14,
     "line_height": 20,
     "line_spacing": 3,
@@ -127,6 +117,7 @@
     "last_baseline_to_bottom_height": 5
   },
   "TextStyle.Secondary.Bold": {
+    "alias": "headerXXS",
     "font_size": 14,
     "line_height": 20,
     "line_spacing": 3,
@@ -138,7 +129,7 @@
     "last_baseline_to_bottom_height": 5
   },
   "TextStyle.Tertiary": {
-    "alias": "caption text",
+    "alias": "captionText",
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
@@ -150,7 +141,7 @@
     "last_baseline_to_bottom_height": 4
   },
   "TextStyle.Caption": {
-    "alias": "small caps",
+    "alias": "smallCaps",
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
