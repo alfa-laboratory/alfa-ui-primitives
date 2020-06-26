@@ -1,8 +1,10 @@
 {
   "TextStyle.Heading1": {
+    "alias": "header L",
     "font_size": 30,
     "line_height": 36,
     "line_spacing": 0,
+    "line_spacing_extra": 1,
     "font_family": "roboto_bold",
     "text_all_caps": false,
     "letter_spacing": 0,
@@ -10,9 +12,11 @@
     "last_baseline_to_bottom_height": 8
   },
   "TextStyle.Heading2": {
+    "alias": "header M",
     "font_size": 26,
     "line_height": 32,
     "line_spacing": 1,
+    "line_spacing_extra": 2,
     "font_family": "roboto_bold",
     "text_all_caps": false,
     "letter_spacing": 0,
@@ -20,19 +24,35 @@
     "last_baseline_to_bottom_height": 7
   },
   "TextStyle.Heading3": {
+    "alias": "header S",
     "font_size": 20,
     "line_height": 28,
     "line_spacing": 4,
+    "line_spacing_extra": 5,
     "font_family": "roboto_bold",
     "text_all_caps": false,
     "letter_spacing": 0.01,
     "first_baseline_to_top_height": 21,
     "last_baseline_to_bottom_height": 7
   },
-  "TextStyle.PrimaryParagraph.Regular": {
+  "TextStyle.Heading4": {
+    "alias": "header XS",
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
+    "line_spacing_extra": 5,
+    "font_family": "roboto_bold",
+    "text_all_caps": false,
+    "letter_spacing": 0.01,
+    "first_baseline_to_top_height": 17,
+    "last_baseline_to_bottom_height": 7
+  },
+  "TextStyle.PrimaryParagraph.Regular": {
+    "alias": "body text",
+    "font_size": 16,
+    "line_height": 24,
+    "line_spacing": 5,
+    "line_spacing_extra": 5,
     "font_family": "roboto_regular",
     "text_all_caps": false,
     "letter_spacing": 0.01,
@@ -43,6 +63,7 @@
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
+    "line_spacing_extra": 5,
     "font_family": "roboto_medium",
     "text_all_caps": false,
     "letter_spacing": 0.01,
@@ -53,6 +74,7 @@
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
+    "line_spacing_extra": 5,
     "font_family": "roboto_bold",
     "text_all_caps": false,
     "letter_spacing": 0.01,
@@ -63,6 +85,7 @@
     "font_size": 16,
     "line_height": 20,
     "line_spacing": 1,
+    "line_spacing_extra": 1,
     "font_family": "roboto_regular",
     "text_all_caps": false,
     "letter_spacing": 0.01,
@@ -73,6 +96,7 @@
     "font_size": 16,
     "line_height": 20,
     "line_spacing": 1,
+    "line_spacing_extra": 1,
     "font_family": "roboto_medium",
     "text_all_caps": false,
     "letter_spacing": 0.01,
@@ -83,6 +107,7 @@
     "font_size": 16,
     "line_height": 20,
     "line_spacing": 1,
+    "line_spacing_extra": 1,
     "font_family": "roboto_bold",
     "text_all_caps": false,
     "letter_spacing": 0.01,
@@ -90,9 +115,11 @@
     "last_baseline_to_bottom_height": 5
   },
   "TextStyle.Secondary.Regular": {
+    "alias": "secondary text",
     "font_size": 14,
     "line_height": 20,
     "line_spacing": 3,
+    "line_spacing_extra": 4,
     "font_family": "roboto_regular",
     "text_all_caps": false,
     "letter_spacing": 0.02,
@@ -103,6 +130,7 @@
     "font_size": 14,
     "line_height": 20,
     "line_spacing": 3,
+    "line_spacing_extra": 4,
     "font_family": "roboto_bold",
     "text_all_caps": false,
     "letter_spacing": 0.02,
@@ -110,9 +138,11 @@
     "last_baseline_to_bottom_height": 5
   },
   "TextStyle.Tertiary": {
+    "alias": "caption text",
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
+    "line_spacing_extra": 2,
     "font_family": "roboto_regular",
     "text_all_caps": false,
     "letter_spacing": 0.03,
@@ -120,9 +150,11 @@
     "last_baseline_to_bottom_height": 4
   },
   "TextStyle.Caption": {
+    "alias": "small caps",
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
+    "line_spacing_extra": 2,
     "font_family": "roboto_medium",
     "text_all_caps": true,
     "letter_spacing": 0.12,
