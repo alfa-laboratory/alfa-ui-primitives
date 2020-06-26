@@ -1,5 +1,6 @@
 {
   "Heading1": {
+    "alias": "header L",
     "font_size": 30,
     "line_height": 36,
     "line_spacing": 0,
@@ -8,6 +9,7 @@
     "letter_spacing": 0.36
   },
   "Heading2": {
+    "alias": "header M",
     "font_size": 27,
     "line_height": 32,
     "line_spacing": 0,
@@ -16,6 +18,7 @@
     "letter_spacing": 0.35
   },
   "Heading3": {
+    "alias": "header S",
     "font_size": 22,
     "line_height": 28,
     "line_spacing": 2,
@@ -23,7 +26,17 @@
     "font_weight": "bold",
     "letter_spacing": 0.35
   },
+  "Heading4": {
+    "alias": "header XS",
+    "font_size": 17,
+    "line_height": 24,
+    "line_spacing": 4,
+    "font_family": "System",
+    "font_weight": "bold",
+    "letter_spacing": -0.41
+  },
   "PrimaryParagraph.Regular": {
+    "alias": "body text",
     "font_size": 17,
     "line_height": 24,
     "line_spacing": 4,
@@ -72,6 +85,7 @@
     "letter_spacing": -0.41
   },
   "Secondary.Regular": {
+    "alias": "secondary text",
     "font_size": 15,
     "line_height": 20,
     "line_spacing": 2,
@@ -88,6 +102,7 @@
     "letter_spacing": -0.24
   },
   "Tertiary": {
+    "alias": "caption text",
     "font_size": 13,
     "line_height": 18,
     "line_spacing": 2,
@@ -95,13 +110,22 @@
     "font_weight": "regular",
     "letter_spacing": -0.08
   },
-  "Caption": {
+  "Caption1": {
+    "alias": "small caps",
     "font_size": 11,
     "line_height": 16,
     "line_spacing": 3,
     "font_family": "System",
     "font_weight": "bold",
     "letter_spacing": 1
+  },
+  "Caption2": {
+    "font_size": 11,
+    "line_height": 14,
+    "line_spacing": 1,
+    "font_family": "System",
+    "font_weight": "regular",
+    "letter_spacing": -0.08
   },
   "HeadingOS": {
     "font_size": 34,
