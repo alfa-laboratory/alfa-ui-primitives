@@ -1,3 +1,26 @@
+<a name="2.17.0"></a>
+# [2.17.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.16.0...v2.17.0) (2020-07-03)
+
+
+### Bug Fixes
+
+* **icons:** revert settings icon ([d2f7170](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d2f7170))
+
+
+### Features
+
+* **icons:** add 1 icons ([#387](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/387)) ([eb96c90](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/eb96c90))
+* **icons:** add 1 icons ([#388](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/388)) ([c082c96](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/c082c96))
+* **icons:** add 1 icons ([#393](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/393)) ([f48a800](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f48a800))
+* **icons:** add 1 icons ([#395](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/395)) ([7a4f664](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/7a4f664))
+* **icons:** add 13 icons ([#398](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/398)) ([88b4cec](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/88b4cec))
+* **icons:** add 2 icons ([#402](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/402)) ([71b0b59](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/71b0b59))
+* **icons:** add 2 icons ([#406](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/406)) ([4c406ea](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/4c406ea))
+* **tokens:** updated typography for mobile ([9000ddf](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/9000ddf))
+* **tokens:** updated typography for mobile ([#397](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/397)) ([f424db6](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f424db6))
+
+
+
 <a name="2.16.0"></a>
 # [2.16.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.15.0...v2.16.0) (2020-06-17)
 
