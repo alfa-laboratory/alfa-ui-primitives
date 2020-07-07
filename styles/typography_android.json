@@ -116,6 +116,17 @@
     "first_baseline_to_top_height": 15,
     "last_baseline_to_bottom_height": 5
   },
+  "TextStyle.Secondary.Medium": {
+    "font_size": 14,
+    "line_height": 20,
+    "line_spacing": 3,
+    "line_spacing_extra": 4,
+    "font_family": "roboto_medium",
+    "text_all_caps": false,
+    "letter_spacing": 0.02,
+    "first_baseline_to_top_height": 15,
+    "last_baseline_to_bottom_height": 5
+  },
   "TextStyle.Secondary.Bold": {
     "alias": "headerXXS",
     "font_size": 14,
