@@ -3,7 +3,7 @@
 git fetch --prune --unshallow
 git fetch --tags
 
-git_commits_diff=`git --no-pager log $(git describe --tags --abbrev=0)..HEAD --oneline | grep -P "add \d+ icons"`
+git_commits_diff=`git --no-pager log $(git describe --tags --abbrev=0)..HEAD --oneline | grep "feat(icons)"`
 
 if [ -z "$git_commits_diff" ]
 then
