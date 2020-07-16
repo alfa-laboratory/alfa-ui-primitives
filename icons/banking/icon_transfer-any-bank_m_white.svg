@@ -1,7 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-    <g fill="none">
-        <rect width="36" height="36" fill="none" />
-        <path fill="#FFF" d="M8 12h2v11H8V12zm6 0h2v11h-2V12z" opacity=".3" />
-        <path fill="#FFF" d="M.2 9.6l.6.8L12 2.6l11.2 7.8.6-.8L12 1.4.2 9.6zM20 12h1v11h-1V12zM3 12h1v11H3V12z" />
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><rect width="24" height="24" fill="none"/>
+<g clip-path="url(#clip0)">
+<path opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" d="M8 11H10V22H8V11ZM14 11H16V22H14V11Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2.99995 11H3.99995V22H2.99995V11ZM20 11H21V22H20V11ZM0.199951 8.6L0.799951 9.4L12 1.6L23.2 9.4L23.7999 8.6L12 0.400002L0.199951 8.6Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
 </svg>
