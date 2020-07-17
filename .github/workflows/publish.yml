@@ -16,6 +16,8 @@ jobs:
         uses: filipstefansson/set-npm-token-action@v1
         with:
             token: ${{ secrets.NPM_TOKEN }}
-      
+
+      - run: npm set registry https://registry.npmjs.org
+
       - name: Start publishing icons if its have been added
         run: ./utils/ci.sh
