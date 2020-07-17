@@ -25,7 +25,7 @@
     "test": "NODE_ENV=test nyc --reporter=lcov --reporter=text mocha ./utils/**/*.spec.js",
     "coverage": "nyc report --reporter=text-lcov | coveralls",
     "version": "git fetch --tags && npm run changelog && git add CHANGELOG.md",
-    "postversion": "git push origin master && git push --tags && npm run pub",
+    "postversion": "npm run pub && git push origin master && git push --tags",
     "pub": "./utils/publish.sh"
   },
   "devDependencies": {
