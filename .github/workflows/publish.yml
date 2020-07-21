@@ -18,6 +18,10 @@ jobs:
             token: ${{ secrets.NPM_TOKEN }}
 
       - run: npm set registry https://registry.npmjs.org
+      
+      - run: npm whoami
+      - run: npm config list
+      - run: cat .npmrc
 
       - name: Start publishing icons if its have been added
         run: ./utils/ci.sh
