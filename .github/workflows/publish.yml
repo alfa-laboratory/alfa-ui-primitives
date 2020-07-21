@@ -10,15 +10,15 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-            token: ${{ secrets.PAT_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - run: npm set registry https://registry.npmjs.org
 
       - name: Set NPM Token Action
         uses: filipstefansson/set-npm-token-action@v1
         with:
-            token: ${{ secrets.NPM_TOKEN }}
+          token: ${{ secrets.NPM_TOKEN }}
 
-      - run: npm set registry https://registry.npmjs.org
-      
       - run: npm whoami
       - run: npm config list
       - run: cat .npmrc
