@@ -26,7 +26,8 @@
     "coverage": "nyc report --reporter=text-lcov | coveralls",
     "version": "git fetch --tags && npm run changelog && git add CHANGELOG.md",
     "postversion": "npm run pub",
-    "pub": "./utils/publish.sh"
+    "pub": "./utils/publish.sh",
+    "ci": "./utils/ci.sh"
   },
   "devDependencies": {
     "@commitlint/cli": "5.2.0",
