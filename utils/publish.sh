@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+npm set registry https://registry.npmjs.org
+npm whoami
+
 rm -rf .publish
 mkdir .publish
 cp -r {icons,styles,package.json,README.md} .publish
