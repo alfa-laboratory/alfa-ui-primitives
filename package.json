@@ -45,5 +45,8 @@
     "exclude": [
       "**/*.spec.js"
     ]
-  }
+  },
+  "files": [
+    ".publish"
+  ]
 }
