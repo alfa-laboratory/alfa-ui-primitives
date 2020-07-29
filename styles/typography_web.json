@@ -107,7 +107,7 @@
     "font_family": "var(--font-family-system)"
   },
   "accent_secondary_large": {
-    "font_size": 14,
+    "font_size": 13,
     "line_height": 16,
     "font_weight": 700,
     "letter_spacing": -0.08,
@@ -141,34 +141,34 @@
     "text_transform": "uppercase",
     "font_family": "var(--font-family-system)"
   },
-  "headline–system_primary_normal": {
+  "headline–system_xlarge": {
     "font_size": 48,
     "line_height": 52,
     "font_weight": 700,
     "font_family": "var(--font-family-system)"
   },
-  "headline–system_primary_small": {
+  "headline–system_large": {
     "font_size": 40,
     "line_height": 48,
     "font_weight": 700,
     "letter_spacing": 0.25,
     "font_family": "var(--font-family-system)"
   },
-  "headline–system_secondary_large": {
+  "headline–system_normal": {
     "font_size": 30,
     "line_height": 36,
     "font_weight": 700,
     "letter_spacing": 0.25,
     "font_family": "var(--font-family-system)"
   },
-  "headline–system_secondary_normal": {
+  "headline–system_small": {
     "font_size": 22,
     "line_height": 26,
     "font_weight": 700,
     "letter_spacing": 0.25,
     "font_family": "var(--font-family-system)"
   },
-  "headline–system_secondary_small": {
+  "headline–system_xsmall": {
     "font_size": 18,
     "line_height": 22,
     "font_weight": 700,
