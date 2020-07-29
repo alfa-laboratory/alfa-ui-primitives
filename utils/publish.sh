@@ -2,7 +2,8 @@
 
 rm -rf .publish
 mkdir .publish
-cp -r {icons,styles,package.json,README.md} .publish
+cp -r {icons,styles,package.json,README.md,.npmrc} .publish
+cd .publish
 npm publish
 
 echo "Publishing package to registry..."
