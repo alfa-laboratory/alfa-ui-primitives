@@ -1,3 +1,13 @@
+<a name="2.23.0"></a>
+# [2.23.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.22.0...v2.23.0) (2020-07-29)
+
+
+### Features
+
+* **icons:** fix publish from .publish dir ([bef4196](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/bef4196))
+
+
+
 <a name="2.22.0"></a>
 # [2.22.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.21.0...v2.22.0) (2020-07-28)
 
