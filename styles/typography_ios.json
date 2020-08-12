@@ -310,8 +310,7 @@
     "line_spacing": 0,
     "font_family": "System",
     "font_weight": "bold",
-    "letter_spacing": 0.36,
-    "deprecated": true
+    "letter_spacing": 0.36
   },
   "Heading2": {
     "alias": "headerM",
@@ -320,8 +319,7 @@
     "line_spacing": 0,
     "font_family": "System",
     "font_weight": "bold",
-    "letter_spacing": 0.35,
-    "deprecated": true
+    "letter_spacing": 0.35
   },
   "Heading3": {
     "alias": "headerS",
@@ -330,8 +328,7 @@
     "line_spacing": 2,
     "font_family": "System",
     "font_weight": "bold",
-    "letter_spacing": 0.35,
-    "deprecated": true
+    "letter_spacing": 0.35
   },
   "PrimaryParagraph.Regular": {
     "alias": "bodyText",
@@ -340,8 +337,7 @@
     "line_spacing": 4,
     "font_family": "System",
     "font_weight": "regular",
-    "letter_spacing": -0.41,
-    "deprecated": true
+    "letter_spacing": -0.41
   },
   "PrimaryParagraph.Medium": {
     "alias": "mediumText",
@@ -350,8 +346,7 @@
     "line_spacing": 4,
     "font_family": "System",
     "font_weight": "medium",
-    "letter_spacing": -0.41,
-    "deprecated": true
+    "letter_spacing": -0.41
   },
   "PrimaryParagraph.Bold": {
     "alias": "headerXS",
@@ -360,8 +355,7 @@
     "line_spacing": 4,
     "font_family": "System",
     "font_weight": "bold",
-    "letter_spacing": -0.41,
-    "deprecated": true
+    "letter_spacing": -0.41
   },
   "PrimaryComponents.Regular": {
     "font_size": 17,
@@ -369,8 +363,7 @@
     "line_spacing": 2,
     "font_family": "System",
     "font_weight": "regular",
-    "letter_spacing": -0.41,
-    "deprecated": true
+    "letter_spacing": -0.41
   },
   "PrimaryComponents.Medium": {
     "font_size": 17,
@@ -378,8 +371,7 @@
     "line_spacing": 2,
     "font_family": "System",
     "font_weight": "medium",
-    "letter_spacing": -0.41,
-    "deprecated": true
+    "letter_spacing": -0.41
   },
   "PrimaryComponents.Bold": {
     "font_size": 17,
@@ -387,8 +379,7 @@
     "line_spacing": 2,
     "font_family": "System",
     "font_weight": "bold",
-    "letter_spacing": -0.41,
-    "deprecated": true
+    "letter_spacing": -0.41
   },
   "Secondary.Regular": {
     "alias": "secondaryText",
@@ -397,8 +388,7 @@
     "line_spacing": 2,
     "font_family": "System",
     "font_weight": "regular",
-    "letter_spacing": -0.24,
-    "deprecated": true
+    "letter_spacing": -0.24
   },
   "Secondary.Bold": {
     "alias": "headerXXS",
@@ -407,8 +397,7 @@
     "line_spacing": 2,
     "font_family": "System",
     "font_weight": "bold",
-    "letter_spacing": -0.24,
-    "deprecated": true
+    "letter_spacing": -0.24
   },
   "Tertiary": {
     "alias": "captionText",
@@ -417,8 +406,7 @@
     "line_spacing": 2,
     "font_family": "System",
     "font_weight": "regular",
-    "letter_spacing": -0.08,
-    "deprecated": true
+    "letter_spacing": -0.08
   },
   "Caption1": {
     "alias": "smallCaps",
@@ -427,8 +415,7 @@
     "line_spacing": 3,
     "font_family": "System",
     "font_weight": "bold",
-    "letter_spacing": 1,
-    "deprecated": true
+    "letter_spacing": 1
   },
   "Caption2": {
     "font_size": 11,
@@ -436,16 +423,14 @@
     "line_spacing": 1,
     "font_family": "System",
     "font_weight": "regular",
-    "letter_spacing": -0.08,
-    "deprecated": true
+    "letter_spacing": -0.08
   },
   "HeadingOS": {
     "font_size": 34,
     "line_height": 41,
-    "line_spacing": 0,
+    "line_spacing": 0
     "font_family": "System",
-    "font_weight": "bold",
-    "letter_spacing": 0.36,
-    "deprecated": true
+    "font_weight": "bold"
+    "letter_spacing": 0.36
   }
 }

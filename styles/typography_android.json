@@ -339,8 +339,7 @@
     "text_all_caps": false,
     "letter_spacing": 0,
     "first_baseline_to_top_height": 28,
-    "last_baseline_to_bottom_height": 8,
-    "deprecated": true
+    "last_baseline_to_bottom_height": 8
   },
   "TextStyle.Heading2": {
     "alias": "headerM",
@@ -352,8 +351,7 @@
     "text_all_caps": false,
     "letter_spacing": 0,
     "first_baseline_to_top_height": 25,
-    "last_baseline_to_bottom_height": 7,
-    "deprecated": true
+    "last_baseline_to_bottom_height": 7
   },
   "TextStyle.Heading3": {
     "alias": "headerS",
@@ -365,8 +363,7 @@
     "text_all_caps": false,
     "letter_spacing": 0.01,
     "first_baseline_to_top_height": 21,
-    "last_baseline_to_bottom_height": 7,
-    "deprecated": true
+    "last_baseline_to_bottom_height": 7
   },
   "TextStyle.PrimaryParagraph.Regular": {
     "alias": "bodyText",
@@ -378,8 +375,7 @@
     "text_all_caps": false,
     "letter_spacing": 0.01,
     "first_baseline_to_top_height": 17,
-    "last_baseline_to_bottom_height": 7,
-    "deprecated": true
+    "last_baseline_to_bottom_height": 7
   },
   "TextStyle.PrimaryParagraph.Medium": {
     "alias": "mediumText",
@@ -391,8 +387,7 @@
     "text_all_caps": false,
     "letter_spacing": 0.01,
     "first_baseline_to_top_height": 17,
-    "last_baseline_to_bottom_height": 7,
-    "deprecated": true
+    "last_baseline_to_bottom_height": 7
   },
   "TextStyle.PrimaryParagraph.Bold": {
     "alias": "headerXS",
@@ -404,8 +399,7 @@
     "text_all_caps": false,
     "letter_spacing": 0.01,
     "first_baseline_to_top_height": 17,
-    "last_baseline_to_bottom_height": 7,
-    "deprecated": true
+    "last_baseline_to_bottom_height": 7
   },
   "TextStyle.PrimaryComponents.Regular": {
     "font_size": 16,
@@ -416,8 +410,7 @@
     "text_all_caps": false,
     "letter_spacing": 0.01,
     "first_baseline_to_top_height": 15,
-    "last_baseline_to_bottom_height": 5,
-    "deprecated": true
+    "last_baseline_to_bottom_height": 5
   },
   "TextStyle.PrimaryComponents.Medium": {
     "font_size": 16,
@@ -428,8 +421,7 @@
     "text_all_caps": false,
     "letter_spacing": 0.01,
     "first_baseline_to_top_height": 15,
-    "last_baseline_to_bottom_height": 5,
-    "deprecated": true
+    "last_baseline_to_bottom_height": 5
   },
   "TextStyle.PrimaryComponents.Bold": {
     "font_size": 16,
@@ -440,8 +432,7 @@
     "text_all_caps": false,
     "letter_spacing": 0.01,
     "first_baseline_to_top_height": 15,
-    "last_baseline_to_bottom_height": 5,
-    "deprecated": true
+    "last_baseline_to_bottom_height": 5
   },
   "TextStyle.Secondary.Regular": {
     "alias": "secondaryText",
@@ -453,8 +444,7 @@
     "text_all_caps": false,
     "letter_spacing": 0.02,
     "first_baseline_to_top_height": 15,
-    "last_baseline_to_bottom_height": 5,
-    "deprecated": true
+    "last_baseline_to_bottom_height": 5
   },
   "TextStyle.Secondary.Medium": {
     "font_size": 14,
@@ -465,8 +455,7 @@
     "text_all_caps": false,
     "letter_spacing": 0.02,
     "first_baseline_to_top_height": 15,
-    "last_baseline_to_bottom_height": 5,
-    "deprecated": true
+    "last_baseline_to_bottom_height": 5
   },
   "TextStyle.Secondary.Bold": {
     "alias": "headerXXS",
@@ -478,8 +467,7 @@
     "text_all_caps": false,
     "letter_spacing": 0.02,
     "first_baseline_to_top_height": 15,
-    "last_baseline_to_bottom_height": 5,
-    "deprecated": true
+    "last_baseline_to_bottom_height": 5
   },
   "TextStyle.Tertiary": {
     "alias": "captionText",
@@ -491,8 +479,7 @@
     "text_all_caps": false,
     "letter_spacing": 0.03,
     "first_baseline_to_top_height": 12,
-    "last_baseline_to_bottom_height": 4,
-    "deprecated": true
+    "last_baseline_to_bottom_height": 4
   },
   "TextStyle.Caption": {
     "alias": "smallCaps",
@@ -504,7 +491,6 @@
     "text_all_caps": true,
     "letter_spacing": 0.12,
     "first_baseline_to_top_height": 12,
-    "last_baseline_to_bottom_height": 4,
-    "deprecated": true
+    "last_baseline_to_bottom_height": 4
   }
 }
