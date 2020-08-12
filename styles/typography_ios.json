@@ -428,9 +428,9 @@
   "HeadingOS": {
     "font_size": 34,
     "line_height": 41,
-    "line_spacing": 0
+    "line_spacing": 0,
     "font_family": "System",
-    "font_weight": "bold"
+    "font_weight": "bold",
     "letter_spacing": 0.36
   }
 }
