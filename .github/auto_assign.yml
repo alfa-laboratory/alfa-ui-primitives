@@ -1,0 +1,11 @@
+addReviewers: true
+
+reviewers:
+  - slavastrizh
+  - vlasdmitrenko
+  - danildesign
+  - Shushuru
+  - Elenajoyka
+
+skipKeywords:
+  - wip

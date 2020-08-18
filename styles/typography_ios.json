@@ -1,0 +1,132 @@
+{
+  "Heading1": {
+    "alias": "headerL",
+    "font_size": 30,
+    "line_height": 36,
+    "line_spacing": 0,
+    "font_family": "System",
+    "font_weight": "bold",
+    "letter_spacing": 0.36
+  },
+  "Heading2": {
+    "alias": "headerM",
+    "font_size": 27,
+    "line_height": 32,
+    "line_spacing": 0,
+    "font_family": "System",
+    "font_weight": "bold",
+    "letter_spacing": 0.35
+  },
+  "Heading3": {
+    "alias": "headerS",
+    "font_size": 22,
+    "line_height": 28,
+    "line_spacing": 2,
+    "font_family": "System",
+    "font_weight": "bold",
+    "letter_spacing": 0.35
+  },
+  "PrimaryParagraph.Regular": {
+    "alias": "bodyText",
+    "font_size": 17,
+    "line_height": 24,
+    "line_spacing": 4,
+    "font_family": "System",
+    "font_weight": "regular",
+    "letter_spacing": -0.41
+  },
+  "PrimaryParagraph.Medium": {
+    "alias": "mediumText",
+    "font_size": 17,
+    "line_height": 24,
+    "line_spacing": 4,
+    "font_family": "System",
+    "font_weight": "medium",
+    "letter_spacing": -0.41
+  },
+  "PrimaryParagraph.Bold": {
+    "alias": "headerXS",
+    "font_size": 17,
+    "line_height": 24,
+    "line_spacing": 4,
+    "font_family": "System",
+    "font_weight": "bold",
+    "letter_spacing": -0.41
+  },
+  "PrimaryComponents.Regular": {
+    "font_size": 17,
+    "line_height": 22,
+    "line_spacing": 2,
+    "font_family": "System",
+    "font_weight": "regular",
+    "letter_spacing": -0.41
+  },
+  "PrimaryComponents.Medium": {
+    "font_size": 17,
+    "line_height": 22,
+    "line_spacing": 2,
+    "font_family": "System",
+    "font_weight": "medium",
+    "letter_spacing": -0.41
+  },
+  "PrimaryComponents.Bold": {
+    "font_size": 17,
+    "line_height": 22,
+    "line_spacing": 2,
+    "font_family": "System",
+    "font_weight": "bold",
+    "letter_spacing": -0.41
+  },
+  "Secondary.Regular": {
+    "alias": "secondaryText",
+    "font_size": 15,
+    "line_height": 20,
+    "line_spacing": 2,
+    "font_family": "System",
+    "font_weight": "regular",
+    "letter_spacing": -0.24
+  },
+  "Secondary.Bold": {
+    "alias": "headerXXS",
+    "font_size": 15,
+    "line_height": 20,
+    "line_spacing": 2,
+    "font_family": "System",
+    "font_weight": "bold",
+    "letter_spacing": -0.24
+  },
+  "Tertiary": {
+    "alias": "captionText",
+    "font_size": 13,
+    "line_height": 18,
+    "line_spacing": 2,
+    "font_family": "System",
+    "font_weight": "regular",
+    "letter_spacing": -0.08
+  },
+  "Caption1": {
+    "alias": "smallCaps",
+    "font_size": 11,
+    "line_height": 16,
+    "line_spacing": 3,
+    "font_family": "System",
+    "font_weight": "bold",
+    "letter_spacing": 1
+  },
+  "Caption2": {
+    "font_size": 11,
+    "line_height": 14,
+    "line_spacing": 1,
+    "font_family": "System",
+    "font_weight": "regular",
+    "letter_spacing": -0.08
+  },
+  "HeadingOS": {
+    "font_size": 34,
+    "line_height": 41,
+    "line_spacing": 0,
+    "font_family": "System",
+    "font_weight": "bold",
+    "letter_spacing": 0.36
+  }
+}

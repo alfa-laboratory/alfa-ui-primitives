@@ -1,3 +1,553 @@
+<a name="2.35.0"></a>
+# [2.35.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.34.0...v2.35.0) (2020-08-17)
+
+
+### Features
+
+* **icons:** add 1 icon ([#443](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/443)) ([d1058ab](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d1058ab))
+
+
+
+<a name="2.34.0"></a>
+# [2.34.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.33.0...v2.34.0) (2020-08-14)
+
+
+### Features
+
+* **icons:** add 4 icons ([#461](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/461)) ([8b19f67](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8b19f67))
+
+
+
+<a name="2.33.0"></a>
+# [2.33.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.32.0...v2.33.0) (2020-08-14)
+
+
+### Features
+
+* **icons:** add 1 icon ([#460](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/460)) ([89e93c8](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/89e93c8))
+
+
+
+<a name="2.32.0"></a>
+# [2.32.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.31.0...v2.32.0) (2020-08-13)
+
+
+### Features
+
+* **icons:** add 2 icons ([#457](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/457)) ([32e5919](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/32e5919))
+
+
+
+<a name="2.31.0"></a>
+# [2.31.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.30.0...v2.31.0) (2020-08-12)
+
+
+### Features
+
+* **tokens:** updated web typography ([b7815d6](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/b7815d6))
+
+
+
+<a name="2.30.0"></a>
+# [2.30.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.29.0...v2.30.0) (2020-08-10)
+
+
+### Features
+
+* **icons:** add 5 icons ([#454](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/454)) ([4dbf11d](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/4dbf11d))
+
+
+
+<a name="2.29.0"></a>
+# [2.29.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.28.0...v2.29.0) (2020-08-04)
+
+
+### Features
+
+* **tokens:** updated typography for web ([13d8d52](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/13d8d52))
+
+
+
+<a name="2.28.0"></a>
+# [2.28.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.27.0...v2.28.0) (2020-07-30)
+
+
+### Features
+
+* **icons:** add 1 icon ([#449](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/449)) ([e7081de](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/e7081de))
+
+
+
+<a name="2.27.0"></a>
+# [2.27.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.26.0...v2.27.0) (2020-07-29)
+
+
+
+<a name="2.26.0"></a>
+# [2.26.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.25.0...v2.26.0) (2020-07-29)
+
+
+
+<a name="2.25.0"></a>
+# [2.25.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.24.0...v2.25.0) (2020-07-29)
+
+
+### Features
+
+* **icons:** add 4 icons ([#436](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/436)) ([00aa883](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/00aa883))
+
+
+
+<a name="2.24.0"></a>
+# [2.24.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.23.0...v2.24.0) (2020-07-29)
+
+
+### Features
+
+* **tokens:** new typography for web ([#446](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/446)) ([17f9c7e](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/17f9c7e))
+
+
+
+<a name="2.23.0"></a>
+# [2.23.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.22.0...v2.23.0) (2020-07-29)
+
+
+### Features
+
+* **icons:** fix publish from .publish dir ([bef4196](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/bef4196))
+
+
+
+<a name="2.22.0"></a>
+# [2.22.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.21.0...v2.22.0) (2020-07-28)
+
+
+### Features
+
+* **icons:** add 1 icon ([#445](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/445)) ([1187a40](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/1187a40))
+
+
+
+<a name="2.21.0"></a>
+# [2.21.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.20.0...v2.21.0) (2020-07-27)
+
+
+### Features
+
+* **icons:** add 2 icons ([#444](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/444)) ([0260f83](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/0260f83))
+
+
+
+<a name="2.20.0"></a>
+# [2.20.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.19.0...v2.20.0) (2020-07-21)
+
+
+### Features
+
+* **icons:** add 1 icon ([#437](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/437)) ([1617af5](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/1617af5))
+* **icons:** add 1 icon ([#439](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/439)) ([b06b9a6](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/b06b9a6))
+* **icons:** add 14 icons ([#438](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/438)) ([0ef5da3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/0ef5da3))
+
+
+
+<a name="2.20.0"></a>
+# [2.20.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.19.0...v2.20.0) (2020-07-21)
+
+
+### Features
+
+* **icons:** add 1 icon ([#437](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/437)) ([1617af5](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/1617af5))
+* **icons:** add 1 icon ([#439](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/439)) ([b06b9a6](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/b06b9a6))
+* **icons:** add 14 icons ([#438](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/438)) ([0ef5da3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/0ef5da3))
+
+
+
+<a name="2.21.0"></a>
+# [2.21.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.19.0...v2.21.0) (2020-07-21)
+
+
+### Features
+
+* **icons:** add 1 icon ([#437](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/437)) ([1617af5](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/1617af5))
+* **icons:** add 1 icon ([#439](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/439)) ([b06b9a6](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/b06b9a6))
+* **icons:** add 14 icons ([#438](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/438)) ([0ef5da3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/0ef5da3))
+
+
+
+<a name="2.20.0"></a>
+# [2.20.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.19.0...v2.20.0) (2020-07-21)
+
+
+### Features
+
+* **icons:** add 1 icon ([#437](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/437)) ([1617af5](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/1617af5))
+* **icons:** add 1 icon ([#439](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/439)) ([b06b9a6](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/b06b9a6))
+* **icons:** add 14 icons ([#438](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/438)) ([0ef5da3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/0ef5da3))
+
+
+
+<a name="2.20.0"></a>
+# [2.20.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.19.0...v2.20.0) (2020-07-21)
+
+
+### Features
+
+* **icons:** add 1 icon ([#437](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/437)) ([1617af5](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/1617af5))
+* **icons:** add 1 icon ([#439](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/439)) ([b06b9a6](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/b06b9a6))
+* **icons:** add 14 icons ([#438](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/438)) ([0ef5da3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/0ef5da3))
+
+
+
+<a name="2.21.0"></a>
+# [2.21.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.20.0...v2.21.0) (2020-07-21)
+
+
+### Features
+
+* **icons:** add 1 icon ([#439](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/439)) ([b06b9a6](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/b06b9a6))
+
+
+
+<a name="2.20.0"></a>
+# [2.20.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.19.0...v2.20.0) (2020-07-21)
+
+
+### Features
+
+* **icons:** add 1 icon ([#437](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/437)) ([1617af5](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/1617af5))
+* **icons:** add 14 icons ([#438](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/438)) ([0ef5da3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/0ef5da3))
+
+
+
+<a name="2.19.0"></a>
+# [2.19.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.18.0...v2.19.0) (2020-07-17)
+
+
+### Features
+
+* **icons:** add 1 icon ([#427](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/427)) ([710a960](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/710a960))
+* **icons:** add 1 icon ([#428](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/428)) ([015af00](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/015af00))
+* **icons:** add 1 icon ([#429](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/429)) ([8e0c79f](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8e0c79f))
+* **icons:** add 1 icon ([#430](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/430)) ([14c160d](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/14c160d))
+* **icons:** add 1 icon ([#434](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/434)) ([4a4ecd7](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/4a4ecd7))
+* **icons:** add 1 icons ([#413](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/413)) ([752e8fc](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/752e8fc))
+* **icons:** add 1 icons ([#417](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/417)) ([befbe0b](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/befbe0b))
+* **icons:** add 1 icons ([#418](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/418)) ([863d654](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/863d654))
+* **icons:** add 1 icons ([#423](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/423)) ([d4adaf7](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d4adaf7))
+* **icons:** add 1 icons ([#424](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/424)) ([37fa549](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/37fa549))
+* **icons:** add 2 icons ([#405](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/405)) ([8954d21](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8954d21))
+* **icons:** add 25 icons ([#396](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/396)) ([fa1615f](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/fa1615f))
+* **icons:** add 3 icons ([#431](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/431)) ([3399ab1](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/3399ab1))
+
+
+
+<a name="2.24.0"></a>
+# [2.24.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.23.0...v2.24.0) (2020-07-17)
+
+
+### Features
+
+* **icons:** add 1 icons ([#424](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/424)) ([37fa549](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/37fa549))
+
+
+
+<a name="2.23.0"></a>
+# [2.23.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.22.0...v2.23.0) (2020-07-17)
+
+
+### Features
+
+* **icons:** add 1 icon ([#428](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/428)) ([015af00](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/015af00))
+
+
+
+<a name="2.22.0"></a>
+# [2.22.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.21.0...v2.22.0) (2020-07-17)
+
+
+### Features
+
+* **icons:** add 1 icon ([#429](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/429)) ([8e0c79f](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8e0c79f))
+
+
+
+<a name="2.21.0"></a>
+# [2.21.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.20.0...v2.21.0) (2020-07-17)
+
+
+### Features
+
+* **icons:** add 1 icon ([#427](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/427)) ([710a960](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/710a960))
+* **icons:** add 1 icon ([#430](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/430)) ([14c160d](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/14c160d))
+* **icons:** add 1 icon ([#434](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/434)) ([4a4ecd7](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/4a4ecd7))
+
+
+
+<a name="2.20.0"></a>
+# [2.20.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.19.0...v2.20.0) (2020-07-17)
+
+
+### Features
+
+* **icons:** add 1 icons ([#413](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/413)) ([752e8fc](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/752e8fc))
+
+
+
+<a name="2.19.0"></a>
+# [2.19.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.18.0...v2.19.0) (2020-07-17)
+
+
+### Features
+
+* **icons:** add 1 icons ([#417](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/417)) ([befbe0b](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/befbe0b))
+* **icons:** add 1 icons ([#418](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/418)) ([863d654](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/863d654))
+* **icons:** add 1 icons ([#423](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/423)) ([d4adaf7](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d4adaf7))
+* **icons:** add 2 icons ([#405](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/405)) ([8954d21](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8954d21))
+* **icons:** add 25 icons ([#396](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/396)) ([fa1615f](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/fa1615f))
+* **icons:** add 3 icons ([#431](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/431)) ([3399ab1](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/3399ab1))
+
+
+
+<a name="2.18.0"></a>
+# [2.18.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.17.0...v2.18.0) (2020-07-09)
+
+
+### Features
+
+* **icons:** add 1 icons ([#409](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/409)) ([39c3e7e](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/39c3e7e))
+* **icons:** add 1 icons ([#410](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/410)) ([8f5738b](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8f5738b))
+* **icons:** add 1 icons ([#411](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/411)) ([2354136](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/2354136))
+* **icons:** add 1 icons ([#414](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/414)) ([547402e](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/547402e))
+* **icons:** add 14 icons ([#412](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/412)) ([0c7488b](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/0c7488b))
+* **tokens:** updated typography for android ([3525844](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/3525844))
+
+
+
+<a name="2.17.0"></a>
+# [2.17.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.16.0...v2.17.0) (2020-07-03)
+
+
+### Bug Fixes
+
+* **icons:** revert settings icon ([d2f7170](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d2f7170))
+
+
+### Features
+
+* **icons:** add 1 icons ([#387](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/387)) ([eb96c90](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/eb96c90))
+* **icons:** add 1 icons ([#388](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/388)) ([c082c96](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/c082c96))
+* **icons:** add 1 icons ([#393](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/393)) ([f48a800](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f48a800))
+* **icons:** add 1 icons ([#395](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/395)) ([7a4f664](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/7a4f664))
+* **icons:** add 13 icons ([#398](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/398)) ([88b4cec](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/88b4cec))
+* **icons:** add 2 icons ([#402](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/402)) ([71b0b59](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/71b0b59))
+* **icons:** add 2 icons ([#406](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/406)) ([4c406ea](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/4c406ea))
+* **tokens:** updated typography for mobile ([9000ddf](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/9000ddf))
+* **tokens:** updated typography for mobile ([#397](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/397)) ([f424db6](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f424db6))
+
+
+
+<a name="2.16.0"></a>
+# [2.16.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.15.0...v2.16.0) (2020-06-17)
+
+
+
+<a name="2.15.0"></a>
+# [2.15.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.14.1...v2.15.0) (2020-06-17)
+
+
+### Features
+
+* **icons:** add 15 glyph icons ([#392](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/392)) ([2e2b3a4](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/2e2b3a4))
+* **icons:** add format-tif icons ([#391](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/391)) ([57d65d8](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/57d65d8))
+
+
+
+<a name="2.14.1"></a>
+## [2.14.1](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.14.0...v2.14.1) (2020-06-15)
+
+
+
+<a name="2.14.0"></a>
+# [2.14.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.13.0...v2.14.0) (2020-06-15)
+
+
+### Features
+
+* **icons:** add 4 icons ([#346](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/346)) ([c6f0766](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/c6f0766))
+* **icons:** add 6 icons ([#386](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/386)) ([d4d76d2](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d4d76d2))
+* **icons:** add 7 icons ([#390](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/390)) ([3e5b719](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/3e5b719))
+
+
+
+<a name="2.13.0"></a>
+# [2.13.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.12.0...v2.13.0) (2020-06-09)
+
+
+### Bug Fixes
+
+* **tokens:** updated indigo colors ([282e1ee](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/282e1ee))
+
+
+### Features
+
+* **icons:** add 260 flags ([#373](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/373)) ([f581ba5](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f581ba5))
+* **icons:** add 3 category-idea icons ([#378](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/378)) ([851a4f0](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/851a4f0))
+* **icons:** add 6 icons ([#381](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/381)) ([f7a11ee](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f7a11ee))
+* **icons:** add 6 icons ([#383](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/383)) ([09d633a](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/09d633a))
+* **tokens:** indigo rgba colors ([e81f5dd](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/e81f5dd))
+* **tokens:** new colors ([#382](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/382)) ([35ed663](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/35ed663))
+* **tokens:** special → addons ([f62c8d3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f62c8d3))
+
+
+
+<a name="2.12.0"></a>
+# [2.12.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.11.0...v2.12.0) (2020-05-13)
+
+
+### Features
+
+* **icons:** add 3 glyph icons ([#377](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/377)) ([2cabb36](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/2cabb36))
+
+
+
+<a name="2.11.0"></a>
+# [2.11.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.10.0...v2.11.0) (2020-05-12)
+
+
+### Features
+
+* **icons:** add 2 glyph icons ([#376](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/376)) ([f6ac1ac](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f6ac1ac))
+* **icons:** add 28 icons ([#375](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/375)) ([6af3e41](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/6af3e41))
+
+
+
+<a name="2.10.0"></a>
+# [2.10.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.9.0...v2.10.0) (2020-05-07)
+
+
+### Features
+
+* **icons:** add 1 icons ([#367](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/367)) ([6a34b21](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/6a34b21))
+* **icons:** add 2 icons ([#372](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/372)) ([a5c05ea](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/a5c05ea))
+* **icons:** add 6 icons ([#369](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/369)) ([7ddd269](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/7ddd269))
+* **icons:** add art ([#371](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/371)) ([4063499](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/4063499))
+* **icons:** add scale icon ([#370](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/370)) ([f4d034a](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f4d034a))
+* **icons:** deleted old icons ([79f7f29](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/79f7f29))
+* **icons:** update 2 icons ([#368](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/368)) ([02e1568](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/02e1568))
+* **tokens:** updated colors for mobile ([2626950](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/2626950))
+* **tokens:** updated tokens ([515f724](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/515f724))
+
+
+
+<a name="2.9.0"></a>
+# [2.9.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.8.0...v2.9.0) (2020-04-16)
+
+
+### Features
+
+* **icons:** update 57 glyph_ icons ([#366](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/366)) ([f9a835f](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f9a835f))
+* **tokens:** updated android text styles ([a5f477d](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/a5f477d))
+
+
+
+<a name="2.8.0"></a>
+# [2.8.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.7.2...v2.8.0) (2020-04-03)
+
+
+### Features
+
+* **icons:** add 2 voc icons ([#362](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/362)) ([d63d510](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d63d510))
+* **icons:** add all services icons ([#363](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/363)) ([0dca6f4](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/0dca6f4))
+* **icons:** download icon ([#360](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/360)) ([91afe61](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/91afe61))
+* **tokens:** new web typography ([#359](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/359)) ([876ca2c](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/876ca2c))
+* **tokens:** updated colors for mobile ([5a9a7ce](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/5a9a7ce))
+
+
+
+<a name="2.7.2"></a>
+## [2.7.2](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.7.1...v2.7.2) (2020-03-30)
+
+
+
+<a name="2.7.1"></a>
+## [2.7.1](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.7.0...v2.7.1) (2020-03-30)
+
+
+
+<a name="2.7.0"></a>
+# [2.7.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.6.1...v2.7.0) (2020-03-24)
+
+
+### Features
+
+* **icons:** add 11 glyph_ icons ([#344](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/344)) ([8ab25cb](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8ab25cb))
+* **icons:** add 49 glyph_ icons ([#347](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/347)) ([8341402](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8341402))
+
+
+
+<a name="2.6.1"></a>
+## [2.6.1](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.6.0...v2.6.1) (2020-03-23)
+
+
+### Bug Fixes
+
+* add missing icons from figma ([#336](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/336)) ([db13aa6](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/db13aa6))
+
+
+### Features
+
+* **icons:** add word (docx) icons ([#348](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/348)) ([8934f50](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8934f50))
+* **icons:** deleted docx icons ([0a40894](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/0a40894))
+* **icons:** new voc act ([#342](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/342)) ([471a15b](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/471a15b))
+* **tokens:** updated colors for mobile ([46029c8](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/46029c8))
+* **tokens:** updated colors for mobile ([70a487c](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/70a487c))
+* **tokens:** updated colors for mobile ([e330e47](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/e330e47))
+
+
+
+<a name="2.6.0"></a>
+# [2.6.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.5.0...v2.6.0) (2020-03-18)
+
+
+### Features
+
+* **icons:** add new category-budget icons ([#328](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/328)) ([8eca08a](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8eca08a))
+* **icons:** add voc icons ([712b624](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/712b624))
+* **icons:** added new icon user-add_m ([#333](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/333)) ([91c807e](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/91c807e))
+* **icons:** new file-docx icons ([#341](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/341)) ([da793d3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/da793d3))
+* **icons:** new icons for mobile ([#331](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/331)) ([eb89029](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/eb89029))
+* **icons:** new voc icons ([#334](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/334)) ([7b358ae](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/7b358ae))
+* **tokens:** new colors for mobile ([8e9b255](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8e9b255))
+* **tokens:** new colors for mobile ([83d6003](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/83d6003))
+* **tokens:** rename ios/android tokens please ([9f70eb9](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/9f70eb9))
+* **tokens:** rename ios/android tokens please ([d87a1cd](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d87a1cd))
+* **tokens:** updated android text styles ([12a8a16](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/12a8a16))
+* **tokens:** updated android text styles ([52f0780](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/52f0780))
+* **tokens:** updated android text styles ([9d3d065](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/9d3d065))
+* **tokens:** updated android text styles ([179d00c](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/179d00c))
+* **tokens:** updated android text styles ([e4f00b4](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/e4f00b4))
+* **tokens:** updated colors for mobile ([4f3e044](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/4f3e044))
+* **tokens:** updated colors for mobile ([d64d528](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d64d528))
+
+
+
+<a name="2.5.0"></a>
+# [2.5.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.4.3...v2.5.0) (2020-02-12)
+
+
+### Bug Fixes
+
+* **icons:** updated arrow icons ([#327](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/327)) ([fe55662](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/fe55662))
+
+
+### Features
+
+* **icons:** fixed arrow-collapse icons ([#326](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/326)) ([7ae859c](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/7ae859c))
+* **tokens:** new android styles ([#329](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/329)) ([44e0cbd](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/44e0cbd))
+* **tokens:** new color ([d346bb8](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d346bb8))
+
+
+
 <a name="2.4.3"></a>
 ## [2.4.3](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.4.2...v2.4.3) (2020-01-23)
 
