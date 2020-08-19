@@ -1,3 +1,18 @@
+<a name="2.36.0"></a>
+# [2.36.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.35.0...v2.36.0) (2020-08-19)
+
+
+### Bug Fixes
+
+* remove wrong folder and move icon ([#452](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/452)) ([2098c20](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/2098c20))
+
+
+### Features
+
+* **icons:** add 1 icon ([#447](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/447)) ([2542563](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/2542563))
+
+
+
 <a name="2.35.0"></a>
 # [2.35.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.34.0...v2.35.0) (2020-08-17)
 
