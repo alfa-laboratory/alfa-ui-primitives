@@ -19,7 +19,7 @@
     "first_baseline_to_top_height": 28,
     "last_baseline_to_bottom_height": 8
   },
-  "TextStyle.HeadlineNormal": {
+  "TextStyle.HeadlineMedium": {
     "font_size": 26,
     "line_height": 32,
     "line_spacing": 1,
@@ -61,7 +61,7 @@
     "text_all_caps": false,
     "letter_spacing": 0.01
   },
-  "TextStyle.ParagraphPrimaryNormal": {
+  "TextStyle.ParagraphPrimaryMedium": {
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
@@ -92,7 +92,7 @@
     "text_all_caps": false,
     "letter_spacing": 0.02
   },
-  "TextStyle.ParagraphSecondaryNormal": {
+  "TextStyle.ParagraphSecondaryMedium": {
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
@@ -143,7 +143,7 @@
     "text_all_caps": false,
     "letter_spacing": 0.01
   },
-  "TextStyle.AccentPrimaryNormal": {
+  "TextStyle.AccentPrimaryMedium": {
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
@@ -174,7 +174,7 @@
     "text_all_caps": false,
     "letter_spacing": 0.02
   },
-  "TextStyle.AccentSecondaryNormal": {
+  "TextStyle.AccentSecondaryMedium": {
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
@@ -236,7 +236,7 @@
     "first_baseline_to_top_height": 28,
     "last_baseline_to_bottom_height": 8
   },
-  "TextStyle.PromoNormal": {
+  "TextStyle.PromoMedium": {
     "font_size": 26,
     "line_height": 32,
     "line_spacing": 1,
@@ -278,7 +278,7 @@
     "text_all_caps": false,
     "letter_spacing": 0.01
   },
-  "TextStyle.ActionPrimaryNormal": {
+  "TextStyle.ActionPrimaryMedium": {
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
@@ -309,7 +309,7 @@
     "text_all_caps": false,
     "letter_spacing": 0.02
   },
-  "TextStyle.ActionSecondaryNormal": {
+  "TextStyle.ActionSecondaryMedium": {
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
