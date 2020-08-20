@@ -11,7 +11,7 @@
     "font_weight": 500,
     "font_family": "var(--font-family-styrene)"
   },
-  "headline_normal": {
+  "headline_medium": {
     "font_size": 32,
     "line_height": 40,
     "font_weight": 500,
@@ -36,7 +36,7 @@
     "letter_spacing": -0.45,
     "font_family": "var(--font-family-system)"
   },
-  "paragraph_primary_normal": {
+  "paragraph_primary_medium": {
     "font_size": 16,
     "line_height": 24,
     "font_weight": 400,
@@ -57,7 +57,7 @@
     "letter_spacing": -0.08,
     "font_family": "var(--font-family-system)"
   },
-  "paragraph_secondary_normal": {
+  "paragraph_secondary_medium": {
     "font_size": 12,
     "line_height": 16,
     "font_weight": 400,
@@ -92,7 +92,7 @@
     "letter_spacing": -0.45,
     "font_family": "var(--font-family-system)"
   },
-  "accent_primary_normal": {
+  "accent_primary_medium": {
     "font_size": 16,
     "line_height": 24,
     "font_weight": 700,
@@ -113,7 +113,7 @@
     "letter_spacing": -0.08,
     "font_family": "var(--font-family-system)"
   },
-  "accent_secondary_normal": {
+  "accent_secondary_medium": {
     "font_size": 12,
     "line_height": 16,
     "font_weight": 700,
@@ -154,7 +154,7 @@
     "letter_spacing": 0.25,
     "font_family": "var(--font-family-system)"
   },
-  "headline-system_normal": {
+  "headline-system_medium": {
     "font_size": 30,
     "line_height": 36,
     "font_weight": 700,
@@ -182,7 +182,7 @@
     "letter_spacing": -0.45,
     "font_family": "var(--font-family-system)"
   },
-  "action_primary_normal": {
+  "action_primary_medium": {
     "font_size": 16,
     "line_height": 24,
     "font_weight": 500,
@@ -203,7 +203,7 @@
     "letter_spacing": -0.08,
     "font_family": "var(--font-family-system)"
   },
-  "action_secondary_normal": {
+  "action_secondary_medium": {
     "font_size": 12,
     "line_height": 16,
     "font_weight": 500,
@@ -228,7 +228,7 @@
     "font_weight": 400,
     "font_family": "var(--font-family-styrene)"
   },
-  "promo_normal": {
+  "promo_medium": {
     "font_size": 32,
     "line_height": 40,
     "font_weight": 400,
@@ -259,7 +259,7 @@
     "font_weight": 500,
     "font_family": "var(--font-family-styrene)"
   },
-  "key_normal": {
+  "key_medium": {
     "font_size": 96,
     "line_height": 120,
     "font_weight": 500,
@@ -274,12 +274,6 @@
   "key_xsmall": {
     "font_size": 64,
     "line_height": 80,
-    "font_weight": 500,
-    "font_family": "var(--font-family-styrene)"
-  },
-  "legacy_styrene_normal": {
-    "font_size": 28,
-    "line_height": 34,
     "font_weight": 500,
     "font_family": "var(--font-family-styrene)"
   },
