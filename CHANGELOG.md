@@ -1,3 +1,13 @@
+<a name="2.41.0"></a>
+# [2.41.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.40.0...v2.41.0) (2020-08-21)
+
+
+### Features
+
+* **tokens:** updated typography for web ([24e8156](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/24e8156))
+
+
+
 <a name="2.40.0"></a>
 # [2.40.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.39.0...v2.40.0) (2020-08-20)
 
