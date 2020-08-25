@@ -1,3 +1,13 @@
+<a name="2.44.0"></a>
+# [2.44.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.43.0...v2.44.0) (2020-08-25)
+
+
+### Features
+
+* **icons:** remove icon ([0908b6a](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/0908b6a))
+
+
+
 <a name="2.43.0"></a>
 # [2.43.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.42.0...v2.43.0) (2020-08-21)
 
