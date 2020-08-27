@@ -1,3 +1,13 @@
+<a name="2.46.0"></a>
+# [2.46.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.45.0...v2.46.0) (2020-08-27)
+
+
+### Features
+
+* **icons:** add 4 icons ([#480](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/480)) ([0ce2d76](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/0ce2d76))
+
+
+
 <a name="2.45.0"></a>
 # [2.45.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.44.0...v2.45.0) (2020-08-26)
 
