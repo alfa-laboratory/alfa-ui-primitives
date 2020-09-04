@@ -1,3 +1,13 @@
+<a name="2.54.0"></a>
+# [2.54.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.53.0...v2.54.0) (2020-09-04)
+
+
+### Features
+
+* **icons:** remove some art voc icons ([#489](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/489)) ([4aeddb4](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/4aeddb4))
+
+
+
 <a name="2.53.0"></a>
 # [2.53.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.52.0...v2.53.0) (2020-09-03)
 
