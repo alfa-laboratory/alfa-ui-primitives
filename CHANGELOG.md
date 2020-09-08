@@ -1,3 +1,13 @@
+<a name="2.58.0"></a>
+# [2.58.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.57.0...v2.58.0) (2020-09-08)
+
+
+### Features
+
+* **tokens:** updated colors ([#467](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/467)) ([cc172db](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/cc172db))
+
+
+
 <a name="2.57.0"></a>
 # [2.57.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.55.0...v2.57.0) (2020-09-07)
 
