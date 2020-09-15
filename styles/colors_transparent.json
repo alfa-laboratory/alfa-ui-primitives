@@ -1,0 +1,82 @@
+{
+	"dynamic_primary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.8)",
+		"hex": "#cc000000"
+	},
+	"dynamic_primary_light": {
+		"rgba": "rgba(255, 255, 255, 0.8)",
+		"hex": "#ccffffff"
+	},
+	"dynamic_quaternary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.32)",
+		"hex": "#52000000"
+	},
+	"dynamic_quaternary_light": {
+		"rgba": "rgba(255, 255, 255, 0.32)",
+		"hex": "#52ffffff"
+	},
+	"dynamic_quinary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.16)",
+		"hex": "#29000000"
+	},
+	"dynamic_quinary_light": {
+		"rgba": "rgba(255, 255, 255, 0.16)",
+		"hex": "#29ffffff"
+	},
+	"dynamic_secondary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.64)",
+		"hex": "#a3000000"
+	},
+	"dynamic_secondary_light": {
+		"rgba": "rgba(255, 255, 255, 0.64)",
+		"hex": "#a3ffffff"
+	},
+	"dynamic_tertiary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.48)",
+		"hex": "#7a000000"
+	},
+	"dynamic_tertiary_light": {
+		"rgba": "rgba(255, 255, 255, 0.48)",
+		"hex": "#7affffff"
+	},
+	"static_primary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.8)",
+		"hex": "#cc000000"
+	},
+	"static_primary_light": {
+		"rgba": "rgba(255, 255, 255, 0.8)",
+		"hex": "#ccffffff"
+	},
+	"static_quaternary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.32)",
+		"hex": "#52000000"
+	},
+	"static_quaternary_light": {
+		"rgba": "rgba(255, 255, 255, 0.32)",
+		"hex": "#52ffffff"
+	},
+	"static_quinary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.16)",
+		"hex": "#29000000"
+	},
+	"static_quinary_light": {
+		"rgba": "rgba(255, 255, 255, 0.16)",
+		"hex": "#29ffffff"
+	},
+	"static_secondary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.64)",
+		"hex": "#a3000000"
+	},
+	"static_secondary_light": {
+		"rgba": "rgba(255, 255, 255, 0.64)",
+		"hex": "#a3ffffff"
+	},
+	"static_tertiary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.48)",
+		"hex": "#7a000000"
+	},
+	"static_tertiary_light": {
+		"rgba": "rgba(255, 255, 255, 0.48)",
+		"hex": "#7affffff"
+	}
+}

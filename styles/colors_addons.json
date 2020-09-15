@@ -11,6 +11,14 @@
 		"rgba": "rgba(120, 121, 207, 1)",
 		"hex": "#7879cf"
 	},
+	"static_graphic_botticelli": {
+		"rgba": "rgba(206, 229, 229, 1)",
+		"hex": "#cee5e5"
+	},
+	"static_graphic_gallery": {
+		"rgba": "rgba(238, 238, 238, 1)",
+		"hex": "#eeeeee"
+	},
 	"static_graphic_green_jungle": {
 		"rgba": "rgba(47, 194, 110, 1)",
 		"hex": "#2fc26e"
@@ -23,8 +31,20 @@
 		"rgba": "rgba(255, 92, 92, 1)",
 		"hex": "#ff5c5c"
 	},
+	"static_graphic_salomie": {
+		"rgba": "rgba(254, 233, 132, 1)",
+		"hex": "#fee984"
+	},
 	"static_graphic_sand": {
 		"rgba": "rgba(246, 191, 101, 1)",
 		"hex": "#f6bf65"
+	},
+	"static_graphic_soft_peach": {
+		"rgba": "rgba(243, 234, 235, 1)",
+		"hex": "#f3eaeb"
+	},
+	"static_graphic_solitude": {
+		"rgba": "rgba(232, 242, 254, 1)",
+		"hex": "#e8f2fe"
 	}
 }
