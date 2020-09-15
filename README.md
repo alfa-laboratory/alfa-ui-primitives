@@ -12,7 +12,11 @@ Design tokens for UI libraries in Alfa-Bank projects. Web, iOS, Android.
 - Grid (gaps)
 - Icons
 
-**Use colors from `styles/colors.json`, `colors.json` is deprecated.**
+**Deprecated colors**:
+
+- `colors.json`
+- `styles/colors.json`
+- `styles/mobile-colors.json`
 
 ## Contributing
 
