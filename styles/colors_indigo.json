@@ -63,6 +63,10 @@
 		"rgba": "rgba(11, 31, 53, 1)",
 		"hex": "#0b1f35"
 	},
+	"dark_border_link": {
+		"rgba": "rgba(0, 122, 255, 1)",
+		"hex": "#007aff"
+	},
 	"dark_border_primary": {
 		"rgba": "rgba(72, 87, 103, 1)",
 		"hex": "#485767"
@@ -274,6 +278,10 @@
 	"light_border_key_inverted": {
 		"rgba": "rgba(255, 255, 255, 1)",
 		"hex": "#ffffff"
+	},
+	"light_border_link": {
+		"rgba": "rgba(0, 122, 255, 1)",
+		"hex": "#007aff"
 	},
 	"light_border_primary": {
 		"rgba": "rgba(219, 222, 225, 1)",
