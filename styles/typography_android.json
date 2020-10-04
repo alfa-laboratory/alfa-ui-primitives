@@ -6,7 +6,9 @@
     "line_spacing_extra": 1,
     "font_family": "roboto_bold",
     "text_all_caps": false,
-    "letter_spacing": 0
+    "letter_spacing": 0,
+    "first_baseline_to_top_height": 38,
+    "last_baseline_to_bottom_height": 10
   },
   "TextStyle.HeadlineLarge": {
     "font_size": 30,
@@ -114,7 +116,9 @@
     "line_spacing_extra": 3,
     "font_family": "roboto_regular",
     "text_all_caps": false,
-    "letter_spacing": 0.03
+    "letter_spacing": 0.03,
+    "first_baseline_to_top_height": 12,
+    "last_baseline_to_bottom_height": 4
   },
   "TextStyle.ParagraphComponent": {
     "font_size": 16,
@@ -200,7 +204,9 @@
     "line_spacing_extra": 3,
     "font_family": "roboto_bold",
     "text_all_caps": false,
-    "letter_spacing": 0.03
+    "letter_spacing": 0.03,
+    "first_baseline_to_top_height": 12,
+    "last_baseline_to_bottom_height": 4
   },
   "TextStyle.AccentComponent": {
     "font_size": 16,
@@ -231,7 +237,9 @@
     "line_spacing_extra": 1,
     "font_family": "roboto_regular",
     "text_all_caps": false,
-    "letter_spacing": 0
+    "letter_spacing": 0,
+    "first_baseline_to_top_height": 38,
+    "last_baseline_to_bottom_height": 10
   },
   "TextStyle.PromoLarge": {
     "font_size": 30,
@@ -339,7 +347,9 @@
     "line_spacing_extra": 3,
     "font_family": "roboto_medium",
     "text_all_caps": false,
-    "letter_spacing": 0.03
+    "letter_spacing": 0.03,
+    "first_baseline_to_top_height": 12,
+    "last_baseline_to_bottom_height": 4
   },
   "TextStyle.Heading1": {
     "alias": "headerL",
