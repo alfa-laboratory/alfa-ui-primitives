@@ -1,3 +1,18 @@
+<a name="2.80.0"></a>
+# [2.80.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.79.0...v2.80.0) (2020-10-13)
+
+
+### Bug Fixes
+
+* swap png white xl with svg white xl ([#560](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/560)) ([d2f84e6](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d2f84e6))
+
+
+### Features
+
+* **icons:** add 1 icon ([#561](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/561)) ([0bf95d5](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/0bf95d5))
+
+
+
 <a name="2.79.0"></a>
 # [2.79.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.77.0...v2.79.0) (2020-10-10)
 
