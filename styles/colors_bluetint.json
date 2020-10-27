@@ -108,8 +108,8 @@
 		"hex": "#2a2a2c"
 	},
 	"dark_graphic_positive": {
-		"rgba": "rgba(17, 134, 91, 1)",
-		"hex": "#11865b"
+		"rgba": "rgba(47, 194, 110, 1)",
+		"hex": "#2fc26e"
 	},
 	"dark_graphic_primary": {
 		"rgba": "rgba(255, 255, 255, 1)",
@@ -168,8 +168,8 @@
 		"hex": "#d44333"
 	},
 	"dark_text_positive": {
-		"rgba": "rgba(17, 134, 91, 1)",
-		"hex": "#11865b"
+		"rgba": "rgba(19, 164, 99, 1)",
+		"hex": "#13a463"
 	},
 	"dark_text_primary": {
 		"rgba": "rgba(255, 255, 255, 1)",
@@ -240,8 +240,8 @@
 		"hex": "#99000000"
 	},
 	"light_bg_positive_muted": {
-		"rgba": "rgba(217, 236, 229, 1)",
-		"hex": "#d9ece5"
+		"rgba": "rgba(231, 246, 239, 1)",
+		"hex": "#e7f6ef"
 	},
 	"light_bg_primary": {
 		"rgba": "rgba(255, 255, 255, 1)",
@@ -320,8 +320,8 @@
 		"hex": "#dcdcdd"
 	},
 	"light_graphic_positive": {
-		"rgba": "rgba(17, 134, 91, 1)",
-		"hex": "#11865b"
+		"rgba": "rgba(47, 194, 110, 1)",
+		"hex": "#2fc26e"
 	},
 	"light_graphic_primary": {
 		"rgba": "rgba(0, 0, 0, 1)",
@@ -380,8 +380,8 @@
 		"hex": "#d44333"
 	},
 	"light_text_positive": {
-		"rgba": "rgba(17, 134, 91, 1)",
-		"hex": "#11865b"
+		"rgba": "rgba(19, 164, 99, 1)",
+		"hex": "#13a463"
 	},
 	"light_text_primary": {
 		"rgba": "rgba(0, 0, 0, 1)",
