@@ -1,3 +1,14 @@
+<a name="2.99.0"></a>
+# [2.99.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.98.0...v2.99.0) (2020-11-24)
+
+
+### Features
+
+* **icons:** add 1 icon ([#601](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/601)) ([d9f76ee](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d9f76ee))
+* **tokens:** update bluetint colors ([5187e98](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/5187e98))
+
+
+
 <a name="2.98.0"></a>
 # [2.98.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.97.0...v2.98.0) (2020-11-17)
 
