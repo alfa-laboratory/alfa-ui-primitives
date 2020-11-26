@@ -269,12 +269,6 @@
     "font_weight": 500,
     "font_family": "var(--font-family-styrene)"
   },
-  "legacy_styrene_medium": {
-    "font_size": 28,
-    "line_height": 34,
-    "font_weight": 500,
-    "font_family": "var(--font-family-styrene)"
-  },
   "legacy_primary_small": {
     "font_size": 14,
     "line_height": 18,

@@ -47,6 +47,46 @@
 		"rgba": "rgba(232, 242, 254, 1)",
 		"hex": "#e8f2fe"
 	},
+	"static_overlay_black_high": {
+		"rgba": "rgba(0, 0, 0, 0.32)",
+		"hex": "#52000000"
+	},
+	"static_overlay_black_low": {
+		"rgba": "rgba(0, 0, 0, 0.16)",
+		"hex": "#29000000"
+	},
+	"static_overlay_black_normal": {
+		"rgba": "rgba(0, 0, 0, 0.24)",
+		"hex": "#3d000000"
+	},
+	"static_overlay_black_xhigh": {
+		"rgba": "rgba(0, 0, 0, 0.4)",
+		"hex": "#66000000"
+	},
+	"static_overlay_black_xlow": {
+		"rgba": "rgba(0, 0, 0, 0.08)",
+		"hex": "#14000000"
+	},
+	"static_overlay_white_high": {
+		"rgba": "rgba(255, 255, 255, 0.32)",
+		"hex": "#52ffffff"
+	},
+	"static_overlay_white_low": {
+		"rgba": "rgba(255, 255, 255, 0.16)",
+		"hex": "#29ffffff"
+	},
+	"static_overlay_white_normal": {
+		"rgba": "rgba(255, 255, 255, 0.24)",
+		"hex": "#3dffffff"
+	},
+	"static_overlay_white_xhigh": {
+		"rgba": "rgba(255, 255, 255, 0.4)",
+		"hex": "#66ffffff"
+	},
+	"static_overlay_white_xlow": {
+		"rgba": "rgba(255, 255, 255, 0.08)",
+		"hex": "#14ffffff"
+	},
 	"static_status_blue": {
 		"rgba": "rgba(0, 122, 255, 1)",
 		"hex": "#007aff"

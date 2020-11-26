@@ -7,6 +7,10 @@
 		"rgba": "rgba(67, 32, 0, 1)",
 		"hex": "#432000"
 	},
+	"dark_bg_info": {
+		"rgba": "rgba(0, 28, 60, 1)",
+		"hex": "#001c3c"
+	},
 	"dark_bg_negative_muted": {
 		"rgba": "rgba(65, 9, 3, 1)",
 		"hex": "#410903"
@@ -223,6 +227,10 @@
 		"rgba": "rgba(255, 243, 224, 1)",
 		"hex": "#fff3e0"
 	},
+	"light_bg_info": {
+		"rgba": "rgba(214, 232, 252, 1)",
+		"hex": "#d6e8fc"
+	},
 	"light_bg_negative_muted": {
 		"rgba": "rgba(254, 235, 234, 1)",
 		"hex": "#feebea"
@@ -344,8 +352,8 @@
 		"hex": "#b6bcc3"
 	},
 	"light_specialbg_component": {
-		"rgba": "rgba(238, 239, 241, 1)",
-		"hex": "#eeeff1"
+		"rgba": "rgba(11, 31, 53, 0.07)",
+		"hex": "#120b1f35"
 	},
 	"light_specialbg_nulled": {
 		"rgba": "rgba(255, 255, 255, 0)",
@@ -435,13 +443,21 @@
 		"rgba": "rgba(239, 49, 36, 1)",
 		"hex": "#ef3124"
 	},
-	"static_bg_dark": {
+	"static_bg_primary_dark": {
 		"rgba": "rgba(0, 0, 0, 1)",
 		"hex": "#000000"
 	},
-	"static_bg_light": {
+	"static_bg_primary_light": {
 		"rgba": "rgba(255, 255, 255, 1)",
 		"hex": "#ffffff"
+	},
+	"static_bg_secondary_dark": {
+		"rgba": "rgba(43, 43, 43, 1)",
+		"hex": "#2b2b2b"
+	},
+	"static_bg_secondary_light": {
+		"rgba": "rgba(243, 244, 245, 1)",
+		"hex": "#f3f4f5"
 	},
 	"static_border_accent": {
 		"rgba": "rgba(239, 49, 36, 1)",
