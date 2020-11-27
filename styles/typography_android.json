@@ -138,7 +138,9 @@
     "line_spacing_extra": 2,
     "font_family": "roboto_regular",
     "text_all_caps": true,
-    "letter_spacing": 0.03
+    "letter_spacing": 0.03,
+    "first_baseline_to_top_height": 12,
+    "last_baseline_to_bottom_height": 4
   },
   "TextStyle.ParagraphCaps": {
     "font_size": 12,
@@ -235,7 +237,9 @@
     "line_spacing_extra": 2,
     "font_family": "roboto_bold",
     "text_all_caps": true,
-    "letter_spacing": 0.03
+    "letter_spacing": 0.03,
+    "first_baseline_to_top_height": 12,
+    "last_baseline_to_bottom_height": 4
   },
   "TextStyle.AccentCaps": {
     "font_size": 12,
@@ -387,7 +391,9 @@
     "line_spacing_extra": 2,
     "font_family": "roboto_medium",
     "text_all_caps": true,
-    "letter_spacing": 0.03
+    "letter_spacing": 0.03,
+    "first_baseline_to_top_height": 12,
+    "last_baseline_to_bottom_height": 4
   },
   "TextStyle.ActionCaps": {
     "font_size": 12,
