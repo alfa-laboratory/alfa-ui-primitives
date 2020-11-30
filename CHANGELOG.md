@@ -1,3 +1,19 @@
+<a name="2.102.0"></a>
+# [2.102.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.101.0...v2.102.0) (2020-11-30)
+
+
+### Bug Fixes
+
+* **tokens:** fixed android typography styles ([5b2e61a](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/5b2e61a))
+
+
+### Features
+
+* **icons:** add 1 icon ([#608](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/608)) ([3eb0ed0](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/3eb0ed0))
+* **tokens:** updated indigo & addons colors, ios/android typography ([#605](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/605)) ([078baf3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/078baf3))
+
+
+
 <a name="2.101.0"></a>
 # [2.101.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.100.0...v2.101.0) (2020-11-26)
 
