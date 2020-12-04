@@ -1,3 +1,20 @@
+<a name="2.104.0"></a>
+# [2.104.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.103.0...v2.104.0) (2020-12-04)
+
+
+### Bug Fixes
+
+* **tokens:** deprecated indigo colors ([ceeca6b](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/ceeca6b))
+* **tokens:** deprecated indigo colors ([4b576ca](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/4b576ca))
+
+
+### Features
+
+* **icons:** add 1 icon ([#610](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/610)) ([50b6b5f](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/50b6b5f))
+* **tokens:** updated bluetint colors ([381bdb1](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/381bdb1))
+
+
+
 <a name="2.103.0"></a>
 # [2.103.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.102.0...v2.103.0) (2020-12-03)
 
