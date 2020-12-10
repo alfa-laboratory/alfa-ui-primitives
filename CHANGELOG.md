@@ -1,3 +1,15 @@
+<a name="2.105.0"></a>
+# [2.105.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.104.0...v2.105.0) (2020-12-10)
+
+
+### Features
+
+* **icons:** add 1 icon ([#612](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/612)) ([20b38ec](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/20b38ec))
+* **tokens:** introducing indigo shadows ([#613](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/613)) ([1d74595](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/1d74595))
+* **tokens:** updated bluetint colors ([e112dc6](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/e112dc6))
+
+
+
 <a name="2.104.0"></a>
 # [2.104.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.103.0...v2.104.0) (2020-12-04)
 
