@@ -1,3 +1,13 @@
+<a name="2.109.0"></a>
+# [2.109.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.108.0...v2.109.0) (2020-12-17)
+
+
+### Features
+
+* **icons:** deleted duplicates ([960fdc4](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/960fdc4))
+
+
+
 <a name="2.108.0"></a>
 # [2.108.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.107.0...v2.108.0) (2020-12-16)
 
