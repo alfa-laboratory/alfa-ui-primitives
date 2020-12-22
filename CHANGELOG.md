@@ -1,3 +1,13 @@
+<a name="2.112.0"></a>
+# [2.112.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.111.0...v2.112.0) (2020-12-22)
+
+
+### Features
+
+* **icons:** colorless arrow up and down ([#627](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/627)) ([e5daa0b](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/e5daa0b))
+
+
+
 <a name="2.111.0"></a>
 # [2.111.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.110.0...v2.111.0) (2020-12-22)
 
