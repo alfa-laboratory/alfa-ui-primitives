@@ -1,3 +1,18 @@
+<a name="2.113.0"></a>
+# [2.113.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.112.0...v2.113.0) (2020-12-24)
+
+
+### Bug Fixes
+
+* **icons:** fixed colorless icons ([#628](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/628)) ([1f70d31](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/1f70d31))
+
+
+### Features
+
+* **icons:** add colorless icons([#629](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/629)) ([bbcf40e](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/bbcf40e))
+
+
+
 <a name="2.112.0"></a>
 # [2.112.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.111.0...v2.112.0) (2020-12-22)
 
