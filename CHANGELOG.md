@@ -1,3 +1,13 @@
+<a name="2.114.0"></a>
+# [2.114.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.113.0...v2.114.0) (2020-12-24)
+
+
+### Features
+
+* **icons:** fixed sizes ([#630](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/630)) ([5d639c3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/5d639c3))
+
+
+
 <a name="2.113.0"></a>
 # [2.113.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.112.0...v2.113.0) (2020-12-24)
 
