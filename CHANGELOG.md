@@ -1,3 +1,13 @@
+<a name="2.115.0"></a>
+# [2.115.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.114.0...v2.115.0) (2020-12-25)
+
+
+### Features
+
+* **icons:** add colorless left and right arrows ([#631](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/631)) ([2e7af45](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/2e7af45))
+
+
+
 <a name="2.114.0"></a>
 # [2.114.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.113.0...v2.114.0) (2020-12-24)
 
