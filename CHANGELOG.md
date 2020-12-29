@@ -1,3 +1,14 @@
+<a name="2.117.0"></a>
+# [2.117.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.116.0...v2.117.0) (2020-12-29)
+
+
+### Features
+
+* **client:** add colorless tick icons ([#636](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/636)) ([672eb64](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/672eb64))
+* **icons:** add 1 icon ([#621](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/621)) ([83df8e2](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/83df8e2))
+
+
+
 <a name="2.116.0"></a>
 # [2.116.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.115.0...v2.116.0) (2020-12-25)
 
