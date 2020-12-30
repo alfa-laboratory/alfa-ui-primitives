@@ -1,3 +1,13 @@
+<a name="2.121.0"></a>
+# [2.121.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.120.0...v2.121.0) (2020-12-30)
+
+
+### Features
+
+* **icons:** add colorless indeterminate icons ([#637](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/637)) ([32296c6](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/32296c6))
+
+
+
 <a name="2.120.0"></a>
 # [2.120.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.119.0...v2.120.0) (2020-12-30)
 
