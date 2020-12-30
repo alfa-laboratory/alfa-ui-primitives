@@ -1,3 +1,34 @@
+<a name="2.119.0"></a>
+# [2.119.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.118.0...v2.119.0) (2020-12-30)
+
+
+### Features
+
+* **icons:** 1 icon / dsedov ([#635](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/635)) ([46a7209](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/46a7209))
+
+
+
+<a name="2.118.0"></a>
+# [2.118.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.117.0...v2.118.0) (2020-12-30)
+
+
+### Features
+
+* **icons:** add 1 icon ([#632](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/632)) ([1def8f3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/1def8f3))
+
+
+
+<a name="2.117.0"></a>
+# [2.117.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.116.0...v2.117.0) (2020-12-29)
+
+
+### Features
+
+* **client:** add colorless tick icons ([#636](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/636)) ([672eb64](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/672eb64))
+* **icons:** add 1 icon ([#621](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/621)) ([83df8e2](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/83df8e2))
+
+
+
 <a name="2.116.0"></a>
 # [2.116.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.115.0...v2.116.0) (2020-12-25)
 
