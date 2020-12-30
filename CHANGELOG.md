@@ -1,3 +1,13 @@
+<a name="2.119.0"></a>
+# [2.119.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.118.0...v2.119.0) (2020-12-30)
+
+
+### Features
+
+* **icons:** 1 icon / dsedov ([#635](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/635)) ([46a7209](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/46a7209))
+
+
+
 <a name="2.118.0"></a>
 # [2.118.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.117.0...v2.118.0) (2020-12-30)
 
