@@ -1,3 +1,13 @@
+<a name="2.124.0"></a>
+# [2.124.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.123.0...v2.124.0) (2021-01-12)
+
+
+### Features
+
+* **icons:** add colorless person icon ([#642](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/642)) ([884dba6](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/884dba6))
+
+
+
 <a name="2.123.0"></a>
 # [2.123.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.122.0...v2.123.0) (2021-01-11)
 
