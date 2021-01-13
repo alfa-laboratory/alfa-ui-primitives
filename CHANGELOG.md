@@ -1,3 +1,13 @@
+<a name="2.125.0"></a>
+# [2.125.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.124.0...v2.125.0) (2021-01-13)
+
+
+### Features
+
+* **icons:** add colorless search ([#643](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/643)) ([633705f](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/633705f))
+
+
+
 <a name="2.124.0"></a>
 # [2.124.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.123.0...v2.124.0) (2021-01-12)
 
