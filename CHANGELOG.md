@@ -1,3 +1,13 @@
+<a name="2.126.0"></a>
+# [2.126.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.125.0...v2.126.0) (2021-01-14)
+
+
+### Features
+
+* **icons:** add colorless select icon ([#644](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/644)) ([8b2af17](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8b2af17))
+
+
+
 <a name="2.125.0"></a>
 # [2.125.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.124.0...v2.125.0) (2021-01-13)
 
