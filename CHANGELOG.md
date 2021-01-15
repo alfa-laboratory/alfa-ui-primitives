@@ -1,3 +1,13 @@
+<a name="2.128.0"></a>
+# [2.128.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.127.0...v2.128.0) (2021-01-15)
+
+
+### Features
+
+* **icons:** fix stroke in colorless select icon ([#649](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/649)) ([703ed3f](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/703ed3f))
+
+
+
 <a name="2.127.0"></a>
 # [2.127.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.126.0...v2.127.0) (2021-01-15)
 
