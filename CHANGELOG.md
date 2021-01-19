@@ -1,3 +1,20 @@
+<a name="2.131.0"></a>
+# [2.131.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.129.0...v2.131.0) (2021-01-19)
+
+
+### Features
+
+* **icons:** add 1 icon ([#577](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/577)) ([85fedf2](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/85fedf2))
+* **icons:** add 1 icon ([#650](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/650)) ([c0010ca](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/c0010ca))
+* **icons:** add 1 icon ([#651](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/651)) ([ab63040](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/ab63040))
+* **icons:** add 1 icon ([#653](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/653)) ([292e621](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/292e621))
+* **icons:** add 2 icons ([#639](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/639)) ([10b4163](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/10b4163))
+* **icons:** add colorless icons ([#652](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/652)) ([f093903](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f093903))
+* **icons:** add glyph_cross_m_white.svg ([#654](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/654)) ([2008632](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/2008632))
+* **icons:** fake commit for action ([2571540](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/2571540))
+
+
+
 <a name="2.129.0"></a>
 # [2.129.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.128.0...v2.129.0) (2021-01-18)
 
