@@ -24,4 +24,4 @@ See our [wiki (in Russian)](https://github.com/alfa-laboratory/alfa-ui-primitive
 
 ## License
 
-This project is licensed under the Mozilla Public License 2.0 - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Mozilla Public License 2.0, see the [LICENSE.md](LICENSE.md) file for details.
