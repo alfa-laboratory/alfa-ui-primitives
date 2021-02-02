@@ -1,3 +1,73 @@
+<a name="2.139.0"></a>
+# [2.139.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.138.0...v2.139.0) (2021-01-29)
+
+
+### Features
+
+* **icons:** add 1 icon ([#664](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/664)) ([bdfae12](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/bdfae12))
+
+
+
+<a name="2.138.0"></a>
+# [2.138.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.137.0...v2.138.0) (2021-01-29)
+
+
+### Features
+
+* **icons:** add 1 icon ([#663](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/663)) ([eb13992](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/eb13992))
+
+
+
+<a name="2.137.0"></a>
+# [2.137.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.136.0...v2.137.0) (2021-01-29)
+
+
+### Features
+
+* **icons:** add 1 icon ([#656](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/656)) ([f7a60be](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f7a60be))
+
+
+
+<a name="2.136.0"></a>
+# [2.136.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.135.0...v2.136.0) (2021-01-28)
+
+
+### Features
+
+* **icons:** add 1 icon ([#661](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/661)) ([986cf31](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/986cf31))
+
+
+
+<a name="2.135.0"></a>
+# [2.135.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.134.0...v2.135.0) (2021-01-21)
+
+
+### Features
+
+* **icons:** add 1 icon ([#660](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/660)) ([2104d41](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/2104d41))
+
+
+
+<a name="2.134.0"></a>
+# [2.134.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.133.0...v2.134.0) (2021-01-20)
+
+
+### Features
+
+* **icons:** add 1 icon ([#659](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/659)) ([cd332d5](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/cd332d5))
+
+
+
+<a name="2.133.0"></a>
+# [2.133.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.132.0...v2.133.0) (2021-01-19)
+
+
+### Features
+
+* **icons:** some fixes ([#658](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/658)) ([04a8f75](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/04a8f75))
+
+
+
 <a name="2.132.0"></a>
 # [2.132.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.131.0...v2.132.0) (2021-01-19)
 
