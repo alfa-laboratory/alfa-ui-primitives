@@ -1,3 +1,13 @@
+<a name="2.140.0"></a>
+# [2.140.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.139.0...v2.140.0) (2021-02-02)
+
+
+### Features
+
+* **icons:** colorless calendar icons ([#669](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/669)) ([af6b6f1](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/af6b6f1))
+
+
+
 <a name="2.139.0"></a>
 # [2.139.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.138.0...v2.139.0) (2021-01-29)
 
