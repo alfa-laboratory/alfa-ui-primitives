@@ -1,3 +1,13 @@
+<a name="2.141.0"></a>
+# [2.141.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.140.0...v2.141.0) (2021-02-03)
+
+
+### Features
+
+* **icons:** colorless attachment icons ([#670](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/670)) ([92983e7](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/92983e7))
+
+
+
 <a name="2.140.0"></a>
 # [2.140.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.139.0...v2.140.0) (2021-02-02)
 
