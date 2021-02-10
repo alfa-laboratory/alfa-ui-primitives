@@ -273,7 +273,8 @@
     "font_size": 14,
     "line_height": 18,
     "font_weight": 400,
-    "font_family": "var(--font-family-system)"
+    "font_family": "var(--font-family-system)",
+    "deprecated": true
   },
   "system_48-52_bold": {
     "font_size": 48,
