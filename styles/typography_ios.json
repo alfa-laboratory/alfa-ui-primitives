@@ -4,7 +4,7 @@
     "line_height": 41,
     "line_spacing": 0,
     "font_family": "System",
-    "font_weight": "bold",
+    "font_weight": "semibold",
     "text_all_caps": false,
     "letter_spacing": 0.37,
     "monospace": false
@@ -14,7 +14,7 @@
     "line_height": 36,
     "line_spacing": 0,
     "font_family": "System",
-    "font_weight": "bold",
+    "font_weight": "semibold",
     "text_all_caps": false,
     "letter_spacing": 0.36,
     "monospace": false
@@ -24,7 +24,7 @@
     "line_height": 32,
     "line_spacing": 0,
     "font_family": "System",
-    "font_weight": "bold",
+    "font_weight": "semibold",
     "text_all_caps": false,
     "letter_spacing": 0.35,
     "monospace": false
@@ -34,7 +34,7 @@
     "line_height": 28,
     "line_spacing": 2,
     "font_family": "System",
-    "font_weight": "bold",
+    "font_weight": "semibold",
     "text_all_caps": false,
     "letter_spacing": 0.35,
     "monospace": false
@@ -44,7 +44,7 @@
     "line_height": 24,
     "line_spacing": 4,
     "font_family": "System",
-    "font_weight": "bold",
+    "font_weight": "semibold",
     "text_all_caps": false,
     "letter_spacing": -0.41,
     "monospace": false
@@ -228,6 +228,61 @@
     "text_all_caps": true,
     "letter_spacing": 1.25,
     "monospace": false
+  },
+  "LegacyXLarge": {
+    "font_size": 34,
+    "line_height": 41,
+    "line_spacing": 0,
+    "font_family": "System",
+    "font_weight": "bold",
+    "text_all_caps": false,
+    "letter_spacing": 0.37,
+    "monospace": false,
+    "deprecated": true
+  },
+  "LegacyLarge": {
+    "font_size": 30,
+    "line_height": 36,
+    "line_spacing": 0,
+    "font_family": "System",
+    "font_weight": "bold",
+    "text_all_caps": false,
+    "letter_spacing": 0.36,
+    "monospace": false,
+    "deprecated": true
+  },
+  "LegacyMedium": {
+    "font_size": 27,
+    "line_height": 32,
+    "line_spacing": 0,
+    "font_family": "System",
+    "font_weight": "bold",
+    "text_all_caps": false,
+    "letter_spacing": 0.35,
+    "monospace": false,
+    "deprecated": true
+  },
+  "LegacySmall": {
+    "font_size": 22,
+    "line_height": 28,
+    "line_spacing": 2,
+    "font_family": "System",
+    "font_weight": "bold",
+    "text_all_caps": false,
+    "letter_spacing": 0.35,
+    "monospace": false,
+    "deprecated": true
+  },
+  "LegacyXSmall": {
+    "font_size": 17,
+    "line_height": 24,
+    "line_spacing": 4,
+    "font_family": "System",
+    "font_weight": "bold",
+    "text_all_caps": false,
+    "letter_spacing": -0.41,
+    "monospace": false,
+    "deprecated": true
   },
   "PromoXLarge": {
     "font_size": 34,
@@ -436,7 +491,8 @@
     "line_spacing": 0,
     "font_family": "System",
     "font_weight": "bold",
-    "letter_spacing": 0.36
+    "letter_spacing": 0.36,
+    "deprecated": true
   },
   "Heading2": {
     "alias": "headerM",
@@ -445,7 +501,8 @@
     "line_spacing": 0,
     "font_family": "System",
     "font_weight": "bold",
-    "letter_spacing": 0.35
+    "letter_spacing": 0.35,
+    "deprecated": true
   },
   "Heading3": {
     "alias": "headerS",
@@ -454,7 +511,8 @@
     "line_spacing": 2,
     "font_family": "System",
     "font_weight": "bold",
-    "letter_spacing": 0.35
+    "letter_spacing": 0.35,
+    "deprecated": true
   },
   "PrimaryParagraph.Regular": {
     "alias": "bodyText",
@@ -463,7 +521,8 @@
     "line_spacing": 4,
     "font_family": "System",
     "font_weight": "regular",
-    "letter_spacing": -0.41
+    "letter_spacing": -0.41,
+    "deprecated": true
   },
   "PrimaryParagraph.Medium": {
     "alias": "mediumText",
@@ -472,7 +531,8 @@
     "line_spacing": 4,
     "font_family": "System",
     "font_weight": "medium",
-    "letter_spacing": -0.41
+    "letter_spacing": -0.41,
+    "deprecated": true
   },
   "PrimaryParagraph.Bold": {
     "alias": "headerXS",
@@ -481,7 +541,8 @@
     "line_spacing": 4,
     "font_family": "System",
     "font_weight": "bold",
-    "letter_spacing": -0.41
+    "letter_spacing": -0.41,
+    "deprecated": true
   },
   "PrimaryComponents.Regular": {
     "font_size": 17,
@@ -489,7 +550,8 @@
     "line_spacing": 2,
     "font_family": "System",
     "font_weight": "regular",
-    "letter_spacing": -0.41
+    "letter_spacing": -0.41,
+    "deprecated": true
   },
   "PrimaryComponents.Medium": {
     "font_size": 17,
@@ -497,7 +559,8 @@
     "line_spacing": 2,
     "font_family": "System",
     "font_weight": "medium",
-    "letter_spacing": -0.41
+    "letter_spacing": -0.41,
+    "deprecated": true
   },
   "PrimaryComponents.Bold": {
     "font_size": 17,
@@ -505,7 +568,8 @@
     "line_spacing": 2,
     "font_family": "System",
     "font_weight": "bold",
-    "letter_spacing": -0.41
+    "letter_spacing": -0.41,
+    "deprecated": true
   },
   "Secondary.Regular": {
     "alias": "secondaryText",
@@ -514,7 +578,8 @@
     "line_spacing": 2,
     "font_family": "System",
     "font_weight": "regular",
-    "letter_spacing": -0.24
+    "letter_spacing": -0.24,
+    "deprecated": true
   },
   "Secondary.Bold": {
     "alias": "headerXXS",
@@ -523,7 +588,8 @@
     "line_spacing": 2,
     "font_family": "System",
     "font_weight": "bold",
-    "letter_spacing": -0.24
+    "letter_spacing": -0.24,
+    "deprecated": true
   },
   "Tertiary": {
     "alias": "captionText",
@@ -532,7 +598,8 @@
     "line_spacing": 2,
     "font_family": "System",
     "font_weight": "regular",
-    "letter_spacing": -0.08
+    "letter_spacing": -0.08,
+    "deprecated": true
   },
   "Caption1": {
     "alias": "smallCaps",
@@ -541,7 +608,8 @@
     "line_spacing": 3,
     "font_family": "System",
     "font_weight": "bold",
-    "letter_spacing": 1
+    "letter_spacing": 1,
+    "deprecated": true
   },
   "Caption2": {
     "font_size": 11,
@@ -549,7 +617,8 @@
     "line_spacing": 1,
     "font_family": "System",
     "font_weight": "regular",
-    "letter_spacing": -0.08
+    "letter_spacing": -0.08,
+    "deprecated": true
   },
   "HeadingOS": {
     "font_size": 34,
@@ -557,6 +626,7 @@
     "line_spacing": 0,
     "font_family": "System",
     "font_weight": "bold",
-    "letter_spacing": 0.36
+    "letter_spacing": 0.36,
+    "deprecated": true
   }
 }
