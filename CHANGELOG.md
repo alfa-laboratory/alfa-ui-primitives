@@ -1,3 +1,14 @@
+<a name="2.148.0"></a>
+# [2.148.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.147.0...v2.148.0) (2021-02-17)
+
+
+### Features
+
+* **icons:** add 1 icon ([#679](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/679)) ([5bd5c5f](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/5bd5c5f))
+* **tokens:** updated indigo colors and ios/android/web typography ([#678](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/678)) ([cea807c](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/cea807c))
+
+
+
 <a name="2.147.0"></a>
 # [2.147.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.146.0...v2.147.0) (2021-02-11)
 
