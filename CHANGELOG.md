@@ -1,3 +1,13 @@
+<a name="2.151.0"></a>
+# [2.151.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.150.0...v2.151.0) (2021-03-02)
+
+
+### Features
+
+* **icons:** colorless present icon([#689](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/689)) ([9b196d3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/9b196d3))
+
+
+
 <a name="2.150.0"></a>
 # [2.150.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.149.0...v2.150.0) (2021-02-26)
 
