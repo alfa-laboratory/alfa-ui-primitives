@@ -414,6 +414,8 @@
     "font_family": "roboto_bold",
     "text_all_caps": false,
     "letter_spacing": 0,
+    "first_baseline_to_top_height": 0,
+    "last_baseline_to_bottom_height": 0,
     "deprecated": true
   },
   "TextStyle.LegacyLarge": {
@@ -424,6 +426,8 @@
     "font_family": "roboto_bold",
     "text_all_caps": false,
     "letter_spacing": 0,
+    "first_baseline_to_top_height": 0,
+    "last_baseline_to_bottom_height": 0,
     "deprecated": true
   },
   "TextStyle.LegacyMedium": {
@@ -434,6 +438,8 @@
     "font_family": "roboto_bold",
     "text_all_caps": false,
     "letter_spacing": 0,
+    "first_baseline_to_top_height": 0,
+    "last_baseline_to_bottom_height": 0,
     "deprecated": true
   },
   "TextStyle.LegacySmall": {
@@ -444,6 +450,8 @@
     "font_family": "roboto_bold",
     "text_all_caps": false,
     "letter_spacing": 0.01,
+    "first_baseline_to_top_height": 0,
+    "last_baseline_to_bottom_height": 0,
     "deprecated": true
   },
   "TextStyle.LegacyXSmall": {
@@ -454,6 +462,8 @@
     "font_family": "roboto_bold",
     "text_all_caps": false,
     "letter_spacing": 0.01,
+    "first_baseline_to_top_height": 0,
+    "last_baseline_to_bottom_height": 0,
     "deprecated": true
   },
   "TextStyle.Heading1": {
