@@ -1,3 +1,13 @@
+<a name="2.153.0"></a>
+# [2.153.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.152.0...v2.153.0) (2021-03-03)
+
+
+### Features
+
+* **icons:** fix dots icons ([#692](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/692)) ([9af7d40](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/9af7d40))
+
+
+
 <a name="2.152.0"></a>
 # [2.152.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.151.0...v2.152.0) (2021-03-03)
 
