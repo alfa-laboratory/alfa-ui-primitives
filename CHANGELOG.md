@@ -1,3 +1,18 @@
+<a name="2.154.0"></a>
+# [2.154.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.153.0...v2.154.0) (2021-03-04)
+
+
+### Bug Fixes
+
+* **tokens:** fixed android typography ([d6d2fd8](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d6d2fd8))
+
+
+### Features
+
+* **icons:** add 1 icon ([#693](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/693)) ([f11718e](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f11718e))
+
+
+
 <a name="2.153.0"></a>
 # [2.153.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.152.0...v2.153.0) (2021-03-03)
 
