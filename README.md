@@ -2,26 +2,22 @@
 
 ![PUBLISH](https://github.com/alfa-laboratory/alfa-ui-primitives/workflows/PUBLISH/badge.svg?branch=master&event=push) [![travis][travis-img]][travis]
 
-[travis]:          https://travis-ci.org/alfa-laboratory/alfa-ui-primitives?branch=master
-[travis-img]:      https://img.shields.io/travis/alfa-laboratory/alfa-ui-primitives/master.svg?label=unix
+[travis]: https://travis-ci.org/alfa-laboratory/alfa-ui-primitives?branch=master
+[travis-img]: https://img.shields.io/travis/alfa-laboratory/alfa-ui-primitives/master.svg?label=unix
 
 Design tokens for UI libraries in Alfa-Bank projects. Web, iOS, Android.
 
-- Colors
-- Typography
-- Grid (gaps)
-- Icons
+-   Colors
+-   Typography
+-   Grid (gaps)
+-   Icons
 
 **Deprecated colors**:
 
-- `colors.json`
-- `styles/colors.json`
-- `styles/mobile-colors.json`
+-   `colors.json`
+-   `styles/colors.json`
+-   `styles/mobile-colors.json`
 
 ## Contributing
 
 See our [wiki (in Russian)](https://github.com/alfa-laboratory/alfa-ui-primitives/wiki).
-
-## License
-
-This project is licensed under the Mozilla Public License 2.0, see the [LICENSE.md](LICENSE.md) file for details.
