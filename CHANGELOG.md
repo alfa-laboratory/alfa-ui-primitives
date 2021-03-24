@@ -1,3 +1,13 @@
+<a name="2.168.0"></a>
+# [2.168.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.167.0...v2.168.0) (2021-03-24)
+
+
+### Features
+
+* **icons:** add 1 icon ([#712](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/712)) ([f8c1ed8](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f8c1ed8))
+
+
+
 <a name="2.167.0"></a>
 # [2.167.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.166.0...v2.167.0) (2021-03-24)
 
