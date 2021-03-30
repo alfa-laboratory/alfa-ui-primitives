@@ -1,3 +1,13 @@
+<a name="2.172.0"></a>
+# [2.172.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.171.0...v2.172.0) (2021-03-30)
+
+
+### Features
+
+* **icons:** delete deprecated icons (purgatory folder) ([#681](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/681)) ([336a73d](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/336a73d))
+
+
+
 <a name="2.171.0"></a>
 # [2.171.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.170.0...v2.171.0) (2021-03-29)
 
