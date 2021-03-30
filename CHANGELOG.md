@@ -1,3 +1,13 @@
+<a name="2.174.0"></a>
+# [2.174.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.173.0...v2.174.0) (2021-03-30)
+
+
+### Features
+
+* **icons:** rename 5 icons (remove _black) ([#695](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/695)) ([1800e84](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/1800e84))
+
+
+
 <a name="2.173.0"></a>
 # [2.173.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.172.0...v2.173.0) (2021-03-30)
 
