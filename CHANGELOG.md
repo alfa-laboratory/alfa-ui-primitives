@@ -1,3 +1,16 @@
+<a name="2.181.0"></a>
+# [2.181.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.179.0...v2.181.0) (2021-04-02)
+
+
+### Features
+
+* **icons:** add 1 icon ([#700](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/700)) ([25739f2](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/25739f2))
+* **icons:** add 2 icons ([#729](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/729)) ([10cca75](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/10cca75))
+* **icons:** bump ([861bb07](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/861bb07))
+* **tokens:** updated indigo and addons colors ([3db40fc](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/3db40fc))
+
+
+
 <a name="2.179.0"></a>
 # [2.179.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.178.0...v2.179.0) (2021-04-02)
 
