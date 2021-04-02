@@ -1,3 +1,13 @@
+<a name="2.178.0"></a>
+# [2.178.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.177.0...v2.178.0) (2021-04-02)
+
+
+### Features
+
+* **icons:** alfa invest logos fix ([#727](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/727)) ([174da30](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/174da30))
+
+
+
 <a name="2.177.0"></a>
 # [2.177.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.176.0...v2.177.0) (2021-04-02)
 
