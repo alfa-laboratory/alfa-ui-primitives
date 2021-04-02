@@ -3,6 +3,10 @@
 		"rgba": "rgba(164, 137, 170, 1)",
 		"hex": "#a489aa"
 	},
+	"static_graphic_blackberry": {
+		"rgba": "rgba(191, 175, 198, 1)",
+		"hex": "#bfafc6"
+	},
 	"static_graphic_blue_maya": {
 		"rgba": "rgba(126, 179, 255, 1)",
 		"hex": "#7eb3ff"
@@ -27,9 +31,17 @@
 		"rgba": "rgba(136, 136, 173, 1)",
 		"hex": "#8888ad"
 	},
+	"static_graphic_peach": {
+		"rgba": "rgba(252, 201, 155, 1)",
+		"hex": "#fcc99b"
+	},
 	"static_graphic_persimmon": {
 		"rgba": "rgba(255, 92, 92, 1)",
 		"hex": "#ff5c5c"
+	},
+	"static_graphic_raspberry": {
+		"rgba": "rgba(223, 178, 187, 1)",
+		"hex": "#dfb2bb"
 	},
 	"static_graphic_salomie": {
 		"rgba": "rgba(254, 233, 132, 1)",
@@ -46,6 +58,14 @@
 	"static_graphic_solitude": {
 		"rgba": "rgba(232, 242, 254, 1)",
 		"hex": "#e8f2fe"
+	},
+	"static_graphic_strawberry": {
+		"rgba": "rgba(248, 182, 169, 1)",
+		"hex": "#f8b6a9"
+	},
+	"static_local_light_blue": {
+		"rgba": "rgba(245, 247, 249, 1)",
+		"hex": "#f5f7f9"
 	},
 	"static_overlay_black_high": {
 		"rgba": "rgba(0, 0, 0, 0.32)",

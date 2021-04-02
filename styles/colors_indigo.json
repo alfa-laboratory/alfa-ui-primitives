@@ -363,6 +363,10 @@
 		"rgba": "rgba(11, 31, 53, 0.07)",
 		"hex": "#120b1f35"
 	},
+	"light_specialbg_component_inverted": {
+		"rgba": "rgba(255, 255, 255, 0.15)",
+		"hex": "#26ffffff"
+	},
 	"light_specialbg_nulled": {
 		"rgba": "rgba(255, 255, 255, 0)",
 		"hex": "#00ffffff"
