@@ -1,3 +1,13 @@
+<a name="2.184.0"></a>
+# [2.184.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.183.0...v2.184.0) (2021-04-07)
+
+
+### Features
+
+* **icons:** payment-outbox fixes ([#732](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/732)) ([31f1299](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/31f1299))
+
+
+
 <a name="2.183.0"></a>
 # [2.183.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.182.0...v2.183.0) (2021-04-06)
 
