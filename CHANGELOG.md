@@ -1,3 +1,13 @@
+<a name="2.185.0"></a>
+# [2.185.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.184.0...v2.185.0) (2021-04-14)
+
+
+### Features
+
+* **icons:** add logout and check icons without colors ([#734](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/734)) ([873c7cf](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/873c7cf))
+
+
+
 <a name="2.184.0"></a>
 # [2.184.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.183.0...v2.184.0) (2021-04-07)
 
