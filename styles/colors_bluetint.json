@@ -616,7 +616,8 @@
 	},
 	"static_text_secondary_light_transparent": {
 		"rgba": "rgba(235, 235, 245, 0.6)",
-		"hex": "#99ebebf5"
+		"hex": "#99ebebf5",
+		"alias": "staticTextColorSecondaryLightTransparent"
 	},
 	"static_text_tertiary_dark": {
 		"rgba": "rgba(197, 197, 199, 1)",
@@ -635,6 +636,7 @@
 	},
 	"static_text_tertiary_light_transparent": {
 		"rgba": "rgba(235, 235, 245, 0.3)",
-		"hex": "#4debebf5"
+		"hex": "#4debebf5",
+		"alias": "staticTextColorTertiaryLightTransparent"
 	}
 }
