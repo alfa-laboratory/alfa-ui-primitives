@@ -1,3 +1,17 @@
+<a name="2.190.0"></a>
+# [2.190.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.189.0...v2.190.0) (2021-04-29)
+
+
+### Features
+
+* **icons:** add 1 icon ([#741](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/741)) ([faa248d](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/faa248d))
+* **icons:** add 1 icon ([#742](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/742)) ([c0f5578](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/c0f5578))
+* **icons:** add 3 icons ([#743](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/743)) ([d68d579](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d68d579))
+* **tokens:** aliases for bluetint and addons colors ([#740](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/740)) ([8830cab](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/8830cab))
+* **tokens:** more aliases for bluetint and addons colors ([f7f9e40](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f7f9e40))
+
+
+
 <a name="2.189.0"></a>
 # [2.189.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.188.0...v2.189.0) (2021-04-21)
 
