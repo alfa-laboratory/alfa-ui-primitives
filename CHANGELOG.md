@@ -1,3 +1,13 @@
+<a name="2.191.0"></a>
+# [2.191.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.190.0...v2.191.0) (2021-04-30)
+
+
+### Features
+
+* **tokens:** aliases for indigo colors ([#744](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/744)) ([d4dcb90](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d4dcb90))
+
+
+
 <a name="2.190.0"></a>
 # [2.190.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.189.0...v2.190.0) (2021-04-29)
 
