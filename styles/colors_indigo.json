@@ -572,12 +572,12 @@
 	"static_bg_primary_dark": {
 		"rgba": "rgba(0, 0, 0, 1)",
 		"hex": "#000000",
-		"alias": "staticBackgroundColorDark"
+		"alias": "staticBackgroundColorPrimaryDark"
 	},
 	"static_bg_primary_light": {
 		"rgba": "rgba(255, 255, 255, 1)",
 		"hex": "#ffffff",
-		"alias": "staticBackgroundColorLight"
+		"alias": "staticBackgroundColorPrimaryLight"
 	},
 	"static_bg_secondary_dark": {
 		"rgba": "rgba(43, 43, 43, 1)",
@@ -587,7 +587,7 @@
 	"static_bg_secondary_light": {
 		"rgba": "rgba(243, 244, 245, 1)",
 		"hex": "#f3f4f5",
-		"alias": "staticBackgroundColorSecondaryDark"
+		"alias": "staticBackgroundColorSecondaryLight"
 	},
 	"static_border_accent": {
 		"rgba": "rgba(239, 49, 36, 1)",
