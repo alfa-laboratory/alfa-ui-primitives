@@ -1,3 +1,8 @@
+<a name="2.192.0"></a>
+# [2.192.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.191.0...v2.192.0) (2021-05-04)
+
+
+
 <a name="2.191.0"></a>
 # [2.191.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.190.0...v2.191.0) (2021-04-30)
 
