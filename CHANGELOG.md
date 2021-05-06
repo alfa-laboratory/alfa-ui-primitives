@@ -1,3 +1,13 @@
+<a name="2.194.0"></a>
+# [2.194.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.193.0...v2.194.0) (2021-05-06)
+
+
+### Features
+
+* **icons:** return some deprecated icons ([a78467a](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/a78467a))
+
+
+
 <a name="2.193.0"></a>
 # [2.193.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.192.0...v2.193.0) (2021-05-05)
 
