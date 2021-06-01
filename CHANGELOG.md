@@ -1,3 +1,13 @@
+<a name="2.203.0"></a>
+# [2.203.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.202.0...v2.203.0) (2021-06-01)
+
+
+### Features
+
+* **icons:** colored glyphs for core-components, some missing icons for android ([641d309](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/641d309))
+
+
+
 <a name="2.202.0"></a>
 # [2.202.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.201.0...v2.202.0) (2021-05-28)
 
