@@ -1,3 +1,13 @@
+<a name="2.204.0"></a>
+# [2.204.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.203.0...v2.204.0) (2021-06-01)
+
+
+### Features
+
+* **icons:** glyph moving ([4c3ccf1](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/4c3ccf1))
+
+
+
 <a name="2.203.0"></a>
 # [2.203.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.202.0...v2.203.0) (2021-06-01)
 
