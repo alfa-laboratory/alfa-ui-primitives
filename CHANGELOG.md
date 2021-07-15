@@ -1,3 +1,13 @@
+<a name="2.219.0"></a>
+# [2.219.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.218.0...v2.219.0) (2021-07-15)
+
+
+### Features
+
+* **icons:** calendar icon for core-components ([2c64629](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/2c64629))
+
+
+
 <a name="2.218.0"></a>
 # [2.218.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.217.0...v2.218.0) (2021-07-14)
 
