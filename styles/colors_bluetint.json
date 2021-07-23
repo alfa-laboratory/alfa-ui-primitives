@@ -1,7 +1,7 @@
 {
 	"dark_bg_accent": {
 		"rgba": "rgba(232, 31, 17, 1)",
-		"hex": "#e81f11",
+		"hex": "#ef3124",
 		"alias": "backgroundColorAccent"
 	},
 	"dark_bg_attention_muted": {
@@ -71,7 +71,7 @@
 	},
 	"dark_border_accent": {
 		"rgba": "rgba(232, 31, 17, 1)",
-		"hex": "#e81f11",
+		"hex": "#ef3124",
 		"alias": "borderColorAccent"
 	},
 	"dark_border_key": {
@@ -111,7 +111,7 @@
 	},
 	"dark_graphic_accent": {
 		"rgba": "rgba(232, 31, 17, 1)",
-		"hex": "#e81f11",
+		"hex": "#ef3124",
 		"alias": "graphicColorAccent"
 	},
 	"dark_graphic_attention": {
@@ -181,7 +181,7 @@
 	},
 	"dark_text_accent": {
 		"rgba": "rgba(232, 31, 17, 1)",
-		"hex": "#e81f11",
+		"hex": "#ef3124",
 		"alias": "textColorAccent"
 	},
 	"dark_text_attention": {
@@ -266,7 +266,7 @@
 	},
 	"light_bg_accent": {
 		"rgba": "rgba(232, 31, 17, 1)",
-		"hex": "#e81f11",
+		"hex": "#ef3124",
 		"alias": "backgroundColorAccent"
 	},
 	"light_bg_attention_muted": {
@@ -336,7 +336,7 @@
 	},
 	"light_border_accent": {
 		"rgba": "rgba(232, 31, 17, 1)",
-		"hex": "#e81f11",
+		"hex": "#ef3124",
 		"alias": "borderColorAccent"
 	},
 	"light_border_key": {
@@ -376,7 +376,7 @@
 	},
 	"light_graphic_accent": {
 		"rgba": "rgba(232, 31, 17, 1)",
-		"hex": "#e81f11",
+		"hex": "#ef3124",
 		"alias": "graphicColorAccent"
 	},
 	"light_graphic_attention": {
@@ -446,7 +446,7 @@
 	},
 	"light_text_accent": {
 		"rgba": "rgba(232, 31, 17, 1)",
-		"hex": "#e81f11",
+		"hex": "#ef3124",
 		"alias": "textColorAccent"
 	},
 	"light_text_attention": {
@@ -531,7 +531,7 @@
 	},
 	"static_bg_accent": {
 		"rgba": "rgba(232, 31, 17, 1)",
-		"hex": "#e81f11",
+		"hex": "#ef3124",
 		"alias": "staticBackgroundColorAccent"
 	},
 	"static_bg_neutral_dark": {
@@ -566,7 +566,7 @@
 	},
 	"static_border_accent": {
 		"rgba": "rgba(232, 31, 17, 1)",
-		"hex": "#e81f11",
+		"hex": "#ef3124",
 		"alias": "staticBorderColorAccent"
 	},
 	"static_graphic_accent": {
@@ -586,7 +586,7 @@
 	},
 	"static_text_accent": {
 		"rgba": "rgba(232, 31, 17, 1)",
-		"hex": "#e81f11",
+		"hex": "#ef3124",
 		"alias": "staticTextColorAccent"
 	},
 	"static_text_primary_dark": {
