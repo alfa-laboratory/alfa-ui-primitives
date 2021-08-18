@@ -234,7 +234,7 @@
     "font_weight": 500,
     "font_family": "var(--font-family-system)"
   },
-  "action-component_secondary": {
+  "action_component_secondary": {
     "font_size": 14,
     "line_height": 18,
     "font_weight": 500,
