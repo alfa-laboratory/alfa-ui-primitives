@@ -1,6 +1,6 @@
 {
 	"dark_bg_accent": {
-		"rgba": "rgba(232, 31, 17, 1)",
+		"rgba": "rgba(239, 49, 36, 1)",
 		"hex": "#ef3124",
 		"alias": "backgroundColorAccent"
 	},
@@ -70,7 +70,7 @@
 		"alias": "backgroundColorTertiaryInverted"
 	},
 	"dark_border_accent": {
-		"rgba": "rgba(232, 31, 17, 1)",
+		"rgba": "rgba(239, 49, 36, 1)",
 		"hex": "#ef3124",
 		"alias": "borderColorAccent"
 	},
@@ -110,7 +110,7 @@
 		"alias": "borderColorTertiaryInverted"
 	},
 	"dark_graphic_accent": {
-		"rgba": "rgba(232, 31, 17, 1)",
+		"rgba": "rgba(239, 49, 36, 1)",
 		"hex": "#ef3124",
 		"alias": "graphicColorAccent"
 	},
@@ -180,7 +180,7 @@
 		"alias": "specialBackgroundColorTertiaryGrouped"
 	},
 	"dark_text_accent": {
-		"rgba": "rgba(232, 31, 17, 1)",
+		"rgba": "rgba(239, 49, 36, 1)",
 		"hex": "#ef3124",
 		"alias": "textColorAccent"
 	},
@@ -265,7 +265,7 @@
 		"alias": "textColorTertiary"
 	},
 	"light_bg_accent": {
-		"rgba": "rgba(232, 31, 17, 1)",
+		"rgba": "rgba(239, 49, 36, 1)",
 		"hex": "#ef3124",
 		"alias": "backgroundColorAccent"
 	},
@@ -335,7 +335,7 @@
 		"alias": "backgroundColorTertiaryInverted"
 	},
 	"light_border_accent": {
-		"rgba": "rgba(232, 31, 17, 1)",
+		"rgba": "rgba(239, 49, 36, 1)",
 		"hex": "#ef3124",
 		"alias": "borderColorAccent"
 	},
@@ -375,7 +375,7 @@
 		"alias": "borderColorTertiaryInverted"
 	},
 	"light_graphic_accent": {
-		"rgba": "rgba(232, 31, 17, 1)",
+		"rgba": "rgba(239, 49, 36, 1)",
 		"hex": "#ef3124",
 		"alias": "graphicColorAccent"
 	},
@@ -445,7 +445,7 @@
 		"alias": "specialBackgroundColorTertiaryGrouped"
 	},
 	"light_text_accent": {
-		"rgba": "rgba(232, 31, 17, 1)",
+		"rgba": "rgba(239, 49, 36, 1)",
 		"hex": "#ef3124",
 		"alias": "textColorAccent"
 	},
@@ -530,7 +530,7 @@
 		"alias": "textColorTertiary"
 	},
 	"static_bg_accent": {
-		"rgba": "rgba(232, 31, 17, 1)",
+		"rgba": "rgba(239, 49, 36, 1)",
 		"hex": "#ef3124",
 		"alias": "staticBackgroundColorAccent"
 	},
@@ -565,7 +565,7 @@
 		"alias": "staticBackgroundColorSecondaryLight"
 	},
 	"static_border_accent": {
-		"rgba": "rgba(232, 31, 17, 1)",
+		"rgba": "rgba(239, 49, 36, 1)",
 		"hex": "#ef3124",
 		"alias": "staticBorderColorAccent"
 	},
@@ -585,7 +585,7 @@
 		"alias": "staticGraphicColorLight"
 	},
 	"static_text_accent": {
-		"rgba": "rgba(232, 31, 17, 1)",
+		"rgba": "rgba(239, 49, 36, 1)",
 		"hex": "#ef3124",
 		"alias": "staticTextColorAccent"
 	},
