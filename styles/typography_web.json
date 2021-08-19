@@ -69,6 +69,19 @@
     "font_size": 16,
     "line_height": 20,
     "font_weight": 400,
+    "font_family": "var(--font-family-system)",
+    "deprecated": true
+  },
+  "paragraph_component_primary": {
+    "font_size": 16,
+    "line_height": 20,
+    "font_weight": 400,
+    "font_family": "var(--font-family-system)"
+  },
+  "paragraph_component_secondary": {
+    "font_size": 14,
+    "line_height": 18,
+    "font_weight": 400,
     "font_family": "var(--font-family-system)"
   },
   "paragraph_caps": {
@@ -118,6 +131,19 @@
   "accent_component": {
     "font_size": 16,
     "line_height": 20,
+    "font_weight": 700,
+    "font_family": "var(--font-family-system)",
+    "deprecated": true
+  },
+  "accent_component_primary": {
+    "font_size": 16,
+    "line_height": 20,
+    "font_weight": 700,
+    "font_family": "var(--font-family-system)"
+  },
+  "accent_component_secondary": {
+    "font_size": 14,
+    "line_height": 18,
     "font_weight": 700,
     "font_family": "var(--font-family-system)"
   },
@@ -198,6 +224,19 @@
   "action_component": {
     "font_size": 16,
     "line_height": 20,
+    "font_weight": 500,
+    "font_family": "var(--font-family-system)",
+    "deprecated": true
+  },
+  "action_component_primary": {
+    "font_size": 16,
+    "line_height": 20,
+    "font_weight": 500,
+    "font_family": "var(--font-family-system)"
+  },
+  "action_component_secondary": {
+    "font_size": 14,
+    "line_height": 18,
     "font_weight": 500,
     "font_family": "var(--font-family-system)"
   },
