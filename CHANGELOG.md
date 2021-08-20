@@ -1,3 +1,14 @@
+<a name="2.234.0"></a>
+# [2.234.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.232.0...v2.234.0) (2021-08-20)
+
+
+### Features
+
+* **icons:** add 1 icon ([#798](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/798)) ([1239aff](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/1239aff))
+* **icons:** add 1 icon ([#799](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/799)) ([9dac241](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/9dac241))
+
+
+
 <a name="2.233.0"></a>
 # [2.233.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.232.0...v2.233.0) (2021-08-20)
 
