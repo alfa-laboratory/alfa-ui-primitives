@@ -1,3 +1,14 @@
+<a name="2.236.0"></a>
+# [2.236.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.235.0...v2.236.0) (2021-08-25)
+
+
+### Features
+
+* **icons:** add 1 icon ([#809](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/809)) ([5f8b936](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/5f8b936))
+* **tokens:** experimental gradients ([#810](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/810)) ([240054a](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/240054a))
+
+
+
 <a name="2.235.0"></a>
 # [2.235.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.234.0...v2.235.0) (2021-08-24)
 
