@@ -1,4 +1,41 @@
 {
+	"static_test_premium": {
+		"angle": {
+			"web": 150,
+			"android": -60
+		},
+		"handlePositions": [
+			{
+				"x": 0,
+				"y": 0
+			},
+			{
+				"x": 1,
+				"y": 1
+			},
+			{
+				"x": 0,
+				"y": 0
+			}
+		],
+		"stops": [
+			{
+				"color": {
+					"rgba": "rgba(35, 34, 32, 1)",
+					"hex": "#232220"
+				},
+				"position": 0
+			},
+			{
+				"color": {
+					"rgba": "rgba(75, 74, 70, 1)",
+					"hex": "#4B4A46"
+				},
+				"position": 1
+			}
+		],
+		"alias": "staticGradientTestPremium"
+	},
 	"static_test_foo": {
 		"angle": {
 			"web": 90,
@@ -41,7 +78,8 @@
 				"position": 1
 			}
 		],
-		"alias": "staticGradientTestFoo"
+		"alias": "staticGradientTestFoo",
+		"deprecated": true
 	},
 	"light_test_bar": {
 		"angle": {
@@ -78,7 +116,8 @@
 				"position": 1
 			}
 		],
-		"alias": "gradientTestBar"
+		"alias": "gradientTestBar",
+		"deprecated": true
 	},
 	"dark_test_bar": {
 		"angle": {
@@ -115,6 +154,7 @@
 				"position": 1
 			}
 		],
-		"alias": "gradientTestBar"
+		"alias": "gradientTestBar",
+		"deprecated": true
 	}
 }
