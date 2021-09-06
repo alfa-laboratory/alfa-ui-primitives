@@ -1,3 +1,13 @@
+<a name="2.243.0"></a>
+# [2.243.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.242.0...v2.243.0) (2021-09-06)
+
+
+### Features
+
+* **icons:** add 1 icon ([#807](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/807)) ([e190deb](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/e190deb))
+
+
+
 <a name="2.242.0"></a>
 # [2.242.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.240.0...v2.242.0) (2021-09-06)
 
