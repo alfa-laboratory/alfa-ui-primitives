@@ -1,3 +1,16 @@
+<a name="2.242.0"></a>
+# [2.242.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.240.0...v2.242.0) (2021-09-06)
+
+
+### Features
+
+* **icons:** add 1 icon ([#812](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/812)) ([c7319c8](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/c7319c8))
+* **icons:** add 1 icon ([#817](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/817)) ([70fa0c4](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/70fa0c4))
+* **icons:** add 1 icon ([#822](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/822)) ([dc81fd0](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/dc81fd0))
+* **tokens:** priority pass gradient ([b71df60](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/b71df60))
+
+
+
 <a name="2.240.0"></a>
 # [2.240.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.239.0...v2.240.0) (2021-09-02)
 
