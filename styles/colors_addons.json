@@ -9,6 +9,11 @@
 		"hex": "#bfafc6",
 		"alias": "staticGraphicColorBlackberry"
 	},
+	"static_graphic_blue_chill": {
+		"rgba": "rgba(15, 156, 140, 1)",
+		"hex": "#0f9c8c",
+		"alias": "staticGraphicBlueChill"
+	},
 	"static_graphic_blue_maya": {
 		"rgba": "rgba(126, 179, 255, 1)",
 		"hex": "#7eb3ff",
@@ -29,15 +34,65 @@
 		"hex": "#cee5e5",
 		"alias": "staticGraphicColorBotticelli"
 	},
+	"static_graphic_boulder": {
+		"rgba": "rgba(122, 122, 122, 1)",
+		"hex": "#7a7a7a",
+		"alias": "staticGraphicBoulder"
+	},
+	"static_graphic_brink_pink": {
+		"rgba": "rgba(252, 97, 124, 1)",
+		"hex": "#fc617c",
+		"alias": "staticGraphicBrinkPink"
+	},
+	"static_graphic_burnt_sienna": {
+		"rgba": "rgba(235, 122, 88, 1)",
+		"hex": "#eb7a58",
+		"alias": "staticGraphicBurntSienna"
+	},
 	"static_graphic_carrot": {
 		"rgba": "rgba(232, 187, 163, 1)",
 		"hex": "#e8bba3",
 		"alias": "staticGraphicColorCarrot"
 	},
+	"static_graphic_chatelle": {
+		"rgba": "rgba(191, 175, 198, 1)",
+		"hex": "#bfafc6",
+		"alias": "staticGraphicChatelle"
+	},
+	"static_graphic_chathams_blue": {
+		"rgba": "rgba(21, 89, 102, 1)",
+		"hex": "#155966",
+		"alias": "staticGraphicChathamsBlue"
+	},
 	"static_graphic_chick": {
 		"rgba": "rgba(242, 219, 158, 1)",
 		"hex": "#f2db9e",
 		"alias": "staticGraphicColorChick"
+	},
+	"static_graphic_curious_blue": {
+		"rgba": "rgba(35, 129, 219, 1)",
+		"hex": "#2381db",
+		"alias": "staticGraphicColorCuriousBlue"
+	},
+	"static_graphic_curious_blue_light": {
+		"rgba": "rgba(59, 153, 217, 1)",
+		"hex": "#3b99d9",
+		"alias": "staticGraphicCuriousBlueLight"
+	},
+	"static_graphic_eastern_blue": {
+		"rgba": "rgba(38, 156, 179, 1)",
+		"hex": "#269cb3",
+		"alias": "staticGraphicColorEasternBlue"
+	},
+	"static_graphic_fuel_yellow": {
+		"rgba": "rgba(242, 157, 50, 1)",
+		"hex": "#f29d32",
+		"alias": "staticGraphicColorFuelYellow"
+	},
+	"static_graphic_fun_blue": {
+		"rgba": "rgba(29, 106, 181, 1)",
+		"hex": "#1d6ab5",
+		"alias": "staticGraphicFunBlue"
 	},
 	"static_graphic_gallery": {
 		"rgba": "rgba(238, 238, 238, 1)",
@@ -49,15 +104,70 @@
 		"hex": "#2fc26e",
 		"alias": "staticGraphicColorGreenJungle"
 	},
+	"static_graphic_hippie_blue": {
+		"rgba": "rgba(90, 164, 176, 1)",
+		"hex": "#5aa4b0",
+		"alias": "staticGraphicHippieBlue"
+	},
+	"static_graphic_jaffa": {
+		"rgba": "rgba(240, 113, 52, 1)",
+		"hex": "#f07134",
+		"alias": "staticGraphicColorJaffa"
+	},
+	"static_graphic_jaffa_light": {
+		"rgba": "rgba(241, 136, 54, 1)",
+		"hex": "#f18836",
+		"alias": "staticGraphicJaffaLight"
+	},
+	"static_graphic_java": {
+		"rgba": "rgba(21, 192, 224, 1)",
+		"hex": "#15c0e0",
+		"alias": "staticGraphicJava"
+	},
+	"static_graphic_jungle_green": {
+		"rgba": "rgba(42, 183, 154, 1)",
+		"hex": "#2ab79a",
+		"alias": "staticGraphicColorJungleGreen"
+	},
 	"static_graphic_lavender": {
 		"rgba": "rgba(136, 136, 173, 1)",
 		"hex": "#8888ad",
 		"alias": "staticGraphicColorLavender"
 	},
+	"static_graphic_mantis": {
+		"rgba": "rgba(99, 205, 79, 1)",
+		"hex": "#63cd4f",
+		"alias": "staticGraphicMantis"
+	},
+	"static_graphic_matisse": {
+		"rgba": "rgba(22, 84, 143, 1)",
+		"hex": "#16548f",
+		"alias": "staticGraphicMatisse"
+	},
+	"static_graphic_milano_red": {
+		"rgba": "rgba(205, 21, 1, 1)",
+		"hex": "#cd1501",
+		"alias": "staticGraphicMilanoRed"
+	},
+	"static_graphic_mirage": {
+		"rgba": "rgba(29, 36, 52, 1)",
+		"hex": "#1d2434",
+		"alias": "staticGraphicMirage"
+	},
+	"static_graphic_nevada": {
+		"rgba": "rgba(98, 107, 117, 1)",
+		"hex": "#626b75",
+		"alias": "staticGraphicNevada"
+	},
 	"static_graphic_olive": {
 		"rgba": "rgba(191, 211, 201, 1)",
 		"hex": "#bfd3c9",
 		"alias": "staticGraphicColorOlive"
+	},
+	"static_graphic_olivine": {
+		"rgba": "rgba(135, 185, 101, 1)",
+		"hex": "#87b965",
+		"alias": "staticGraphicOlivine"
 	},
 	"static_graphic_peach": {
 		"rgba": "rgba(252, 201, 155, 1)",
@@ -69,10 +179,35 @@
 		"hex": "#ff5c5c",
 		"alias": "staticGraphicColorPermission"
 	},
+	"static_graphic_pewter": {
+		"rgba": "rgba(150, 165, 165, 1)",
+		"hex": "#96a5a5",
+		"alias": "staticGraphicPewter"
+	},
+	"static_graphic_pickled_bluewood": {
+		"rgba": "rgba(45, 63, 80, 1)",
+		"hex": "#2d3f50",
+		"alias": "staticGraphicPickledBluewood"
+	},
+	"static_graphic_porsche": {
+		"rgba": "rgba(231, 185, 101, 1)",
+		"hex": "#e7b965",
+		"alias": "staticGraphicPorsche"
+	},
 	"static_graphic_raspberry": {
 		"rgba": "rgba(223, 178, 187, 1)",
 		"hex": "#dfb2bb",
 		"alias": "staticGraphicColorRaspberry"
+	},
+	"static_graphic_red_damask": {
+		"rgba": "rgba(218, 113, 60, 1)",
+		"hex": "#da713c",
+		"alias": "staticGraphicRedDamask"
+	},
+	"static_graphic_saffron": {
+		"rgba": "rgba(240, 195, 48, 1)",
+		"hex": "#f0c330",
+		"alias": "staticGraphicSaffron"
 	},
 	"static_graphic_salomie": {
 		"rgba": "rgba(254, 233, 132, 1)",
@@ -83,6 +218,11 @@
 		"rgba": "rgba(246, 191, 101, 1)",
 		"hex": "#f6bf65",
 		"alias": "staticGraphicColorSand"
+	},
+	"static_graphic_sandy_brown": {
+		"rgba": "rgba(243, 143, 111, 1)",
+		"hex": "#f38f6f",
+		"alias": "staticGraphicSandybrown"
 	},
 	"static_graphic_seawater": {
 		"rgba": "rgba(174, 207, 217, 1)",
@@ -113,6 +253,26 @@
 		"rgba": "rgba(217, 214, 206, 1)",
 		"hex": "#d9d6ce",
 		"alias": "staticGraphicColorSundust"
+	},
+	"static_graphic_turkish_rose": {
+		"rgba": "rgba(181, 106, 107, 1)",
+		"hex": "#b56a6b",
+		"alias": "staticGraphicTurkishRose"
+	},
+	"static_graphic_turquoise_blue": {
+		"rgba": "rgba(107, 211, 230, 1)",
+		"hex": "#6bd3e6",
+		"alias": "staticGraphicTurquoiseBlue"
+	},
+	"static_graphic_valencia": {
+		"rgba": "rgba(216, 70, 59, 1)",
+		"hex": "#d8463b",
+		"alias": "staticGraphicValencia"
+	},
+	"static_graphic_waikawa_gray": {
+		"rgba": "rgba(91, 109, 156, 1)",
+		"hex": "#5b6d9c",
+		"alias": "staticGraphicWaikawaGray"
 	},
 	"static_local_light_blue": {
 		"rgba": "rgba(245, 247, 249, 1)",
