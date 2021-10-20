@@ -1,3 +1,15 @@
+<a name="2.260.0"></a>
+# [2.260.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.259.0...v2.260.0) (2021-10-20)
+
+
+### Features
+
+* **icons:** add 1 icon ([#846](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/846)) ([f98b765](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/f98b765))
+* **tokens:** addons for pfm ([#852](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/852)) ([a37874a](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/a37874a))
+* **tokens:** corp colors ([#853](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/853)) ([005ed1e](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/005ed1e))
+
+
+
 <a name="2.259.0"></a>
 # [2.259.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.258.0...v2.259.0) (2021-10-17)
 
