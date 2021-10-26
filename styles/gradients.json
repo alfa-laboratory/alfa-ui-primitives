@@ -1,8 +1,8 @@
 {
 	"static_bg_priority_pass": {
 		"angle": {
-			"web": 150,
-			"android": -60
+			"web": 135,
+			"android": 315
 		},
 		"handlePositions": [
 			{
