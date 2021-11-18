@@ -39,6 +39,16 @@
 		"hex": "#a3ffffff",
 		"alias": "transparentColorSecondaryLight"
 	},
+	"dynamic_senary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.12)",
+		"hex": "#1f000000",
+		"alias": "transparentColorSenaryDark"
+	},
+	"dynamic_senary_light": {
+		"rgba": "rgba(255, 255, 255, 0.12)",
+		"hex": "#1fffffff",
+		"alias": "transparentColorSenaryLight"
+	},
 	"dynamic_tertiary_dark": {
 		"rgba": "rgba(0, 0, 0, 0.48)",
 		"hex": "#7a000000",
@@ -88,6 +98,16 @@
 		"rgba": "rgba(255, 255, 255, 0.64)",
 		"hex": "#a3ffffff",
 		"alias": "staticTransparentColorSecondaryLight"
+	},
+	"static_senary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.12)",
+		"hex": "#1f000000",
+		"alias": "staticTransparentColorSenaryDark"
+	},
+	"static_senary_light": {
+		"rgba": "rgba(255, 255, 255, 0.12)",
+		"hex": "#1fffffff",
+		"alias": "staticTransparentColorSenaryLight"
 	},
 	"static_tertiary_dark": {
 		"rgba": "rgba(0, 0, 0, 0.48)",
