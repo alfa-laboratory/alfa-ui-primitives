@@ -5,6 +5,7 @@
     "colorControlActivated": "?graphicColorSecondary",
     "colorControlHightlight": "?graphicColorSecondary",
     "android:textColor": "?textColorPrimary",
+    "android:textColorLink": "?textColorLink",
     "android:ambientShadowAlpha": 0.04,
     "android:spotShadowAlpha": 0.12
   }
