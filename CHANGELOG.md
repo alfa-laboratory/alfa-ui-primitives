@@ -1,3 +1,14 @@
+<a name="2.268.0"></a>
+# [2.268.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.267.0...v2.268.0) (2021-11-30)
+
+
+### Features
+
+* **icons:** add 1 icon ([#869](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/869)) ([fc11696](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/fc11696))
+* **tokens:** introducing android native attributes ([#868](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/868)) ([77bf339](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/77bf339))
+
+
+
 <a name="2.267.0"></a>
 # [2.267.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.266.0...v2.267.0) (2021-11-29)
 
