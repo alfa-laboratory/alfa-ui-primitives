@@ -1,3 +1,13 @@
+<a name="3.0.0"></a>
+# [3.0.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.269.0...v3.0.0) (2021-11-30)
+
+
+### Features
+
+* **icons:** delete duplicate ([#871](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/871)) ([0ba7312](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/0ba7312))
+
+
+
 <a name="2.269.0"></a>
 # [2.269.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.268.0...v2.269.0) (2021-11-30)
 
