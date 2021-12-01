@@ -3,7 +3,7 @@
     "colorPrimary": "?backgroundColorAccent",
     "colorControlNormal": "?graphicColorSecondary",
     "colorControlActivated": "?graphicColorSecondary",
-    "colorControlHightlight": "?graphicColorSecondary",
+    "colorControlHighlight": "?graphicColorSecondary",
     "android:textColor": "?textColorPrimary",
     "android:textColorLink": "?textColorLink",
     "android:ambientShadowAlpha": 0.04,
