@@ -1,3 +1,13 @@
+<a name="3.3.0"></a>
+# [3.3.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.0.0...v3.3.0) (2021-12-02)
+
+
+### Features
+
+* **icons:** jump bump ([9b2b279](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/9b2b279))
+
+
+
 <a name="3.0.0"></a>
 # [3.0.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v2.269.0...v3.0.0) (2021-11-30)
 
