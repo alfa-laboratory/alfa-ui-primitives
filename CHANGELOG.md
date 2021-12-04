@@ -1,3 +1,14 @@
+<a name="3.4.0"></a>
+# [3.4.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.3.0...v3.4.0) (2021-12-04)
+
+
+### Features
+
+* **icons:** fresh addons colors ([#874](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/874)) ([a9a5ad0](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/a9a5ad0))
+* **tokens:** updated transparent colors ([#861](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/861)) ([59d24e5](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/59d24e5))
+
+
+
 <a name="3.3.0"></a>
 # [3.3.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.0.0...v3.3.0) (2021-12-02)
 
