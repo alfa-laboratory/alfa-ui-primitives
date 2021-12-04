@@ -85,6 +85,11 @@
 		"hex": "#f2db9e",
 		"alias": "staticGraphicColorChick"
 	},
+	"static_graphic_crete": {
+		"rgba": "rgba(132, 113, 40, 1)",
+		"hex": "#847128",
+		"alias": "staticGraphicColorCrete"
+	},
 	"static_graphic_curious_blue": {
 		"rgba": "rgba(35, 129, 219, 1)",
 		"hex": "#2381db",
@@ -99,6 +104,11 @@
 		"rgba": "rgba(38, 156, 179, 1)",
 		"hex": "#269cb3",
 		"alias": "staticGraphicColorEasternBlue"
+	},
+	"static_graphic_french_lilac": {
+		"rgba": "rgba(211, 186, 237, 1)",
+		"hex": "#d3baed",
+		"alias": "staticGraphicColorFrenchLilac"
 	},
 	"static_graphic_fuel_yellow": {
 		"rgba": "rgba(242, 157, 50, 1)",
@@ -169,6 +179,16 @@
 		"rgba": "rgba(29, 36, 52, 1)",
 		"hex": "#1d2434",
 		"alias": "staticGraphicMirage"
+	},
+	"static_graphic_moon_raker": {
+		"rgba": "rgba(233, 219, 247, 1)",
+		"hex": "#e9dbf7",
+		"alias": "staticGraphicColorMoonRaker"
+	},
+	"static_graphic_moss_green": {
+		"rgba": "rgba(166, 210, 156, 1)",
+		"hex": "#a6d29c",
+		"alias": "staticGraphicColorMossGreen"
 	},
 	"static_graphic_nevada": {
 		"rgba": "rgba(98, 107, 117, 1)",
@@ -245,6 +265,11 @@
 		"hex": "#aecfd9",
 		"alias": "staticGraphicColorSeawater"
 	},
+	"static_graphic_serenade": {
+		"rgba": "rgba(255, 240, 227, 1)",
+		"hex": "#fff0e3",
+		"alias": "staticGraphicColorSerenade"
+	},
 	"static_graphic_sky": {
 		"rgba": "rgba(166, 192, 219, 1)",
 		"hex": "#a6c0db",
@@ -289,6 +314,16 @@
 		"rgba": "rgba(91, 109, 156, 1)",
 		"hex": "#5b6d9c",
 		"alias": "staticGraphicWaikawaGray"
+	},
+	"static_graphic_whisper": {
+		"rgba": "rgba(242, 239, 246, 1)",
+		"hex": "#f2eff6",
+		"alias": "staticGraphicColorWhisper"
+	},
+	"static_graphic_zanah": {
+		"rgba": "rgba(225, 240, 222, 1)",
+		"hex": "#e1f0de",
+		"alias": "staticGraphicColorZanah"
 	},
 	"static_local_light_blue": {
 		"rgba": "rgba(245, 247, 249, 1)",
