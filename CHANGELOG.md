@@ -1,3 +1,13 @@
+<a name="3.7.0"></a>
+# [3.7.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.6.0...v3.7.0) (2022-01-11)
+
+
+### Features
+
+* **icons:** add 4 icons ([#877](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/877)) ([adb06a4](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/adb06a4))
+
+
+
 <a name="3.6.0"></a>
 # [3.6.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.5.0...v3.6.0) (2022-01-11)
 
