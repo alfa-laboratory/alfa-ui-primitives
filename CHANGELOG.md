@@ -1,3 +1,14 @@
+<a name="3.10.0"></a>
+# [3.10.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.9.0...v3.10.0) (2022-02-02)
+
+
+### Features
+
+* **icons:** add 1 icon ([#884](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/884)) ([18c8611](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/18c8611))
+* **icons:** fresh bluetint colors ([#882](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/882)) ([5d1e951](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/5d1e951))
+
+
+
 <a name="3.9.0"></a>
 # [3.9.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.8.0...v3.9.0) (2022-01-28)
 
