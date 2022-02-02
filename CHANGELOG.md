@@ -1,3 +1,13 @@
+<a name="3.11.0"></a>
+# [3.11.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.10.0...v3.11.0) (2022-02-02)
+
+
+### Features
+
+* **icons:** add 24 icons ([#883](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/883)) ([49d7396](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/49d7396))
+
+
+
 <a name="3.10.0"></a>
 # [3.10.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.9.0...v3.10.0) (2022-02-02)
 
