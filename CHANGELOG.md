@@ -1,3 +1,13 @@
+<a name="3.13.0"></a>
+# [3.13.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.12.0...v3.13.0) (2022-02-07)
+
+
+### Features
+
+* **tokens:** updated web typography 🤖 ([#886](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/886)) ([b025c8b](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/b025c8b))
+
+
+
 <a name="3.12.0"></a>
 # [3.12.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.11.0...v3.12.0) (2022-02-07)
 
