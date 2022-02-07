@@ -341,36 +341,31 @@
   "headline-system-mobile_xlarge": {
     "font_size": 34,
     "line_height": 40,
-    "font_weight": 400,
-    "letter_spacing": 0.37,
+    "font_weight": 600,
     "font_family": "var(--font-family-system)"
   },
   "headline-system-mobile_large": {
     "font_size": 30,
     "line_height": 36,
-    "font_weight": 400,
-    "letter_spacing": 0.36,
+    "font_weight": 600,
     "font_family": "var(--font-family-system)"
   },
   "headline-system-mobile_medium": {
     "font_size": 26,
     "line_height": 32,
-    "font_weight": 400,
-    "letter_spacing": 0.36,
+    "font_weight": 600,
     "font_family": "var(--font-family-system)"
   },
   "headline-system-mobile_small": {
     "font_size": 20,
     "line_height": 28,
-    "font_weight": 400,
-    "letter_spacing": 0.38,
+    "font_weight": 600,
     "font_family": "var(--font-family-system)"
   },
   "headline-system-mobile_xsmall": {
     "font_size": 16,
     "line_height": 24,
-    "font_weight": 400,
-    "letter_spacing": -0.32,
+    "font_weight": 600,
     "font_family": "var(--font-family-system)"
   },
   "promo-system_xlarge": {
