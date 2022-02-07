@@ -19,5 +19,5 @@ jobs:
         with:
           token: ${{ secrets.NPM_TOKEN }}
 
-      - name: Start publishing icons if its have been added
+      - name: Publish
         run: npm run ci
