@@ -4,29 +4,28 @@
 git fetch --prune --unshallow
 git fetch --tags
 
-# Смотрим, были ли добавлены новые иконки
+# Смотрим, были ли изменения в папках icons и styles
 LATEST_TAG=$(git describe --tags --abbrev=0)
-CHANGED_ICONS=$(git diff --name-only $LATEST_TAG HEAD | grep "icons/")
-DELETED_ICONS=$(git diff --name-only $LATEST_TAG HEAD --diff-filter=D | grep "icons/")
+CHANGES=$(git diff --name-only $LATEST_TAG HEAD | grep -E "(icons|styles)/")
+MAJOR_CHANGES=$(git diff --name-only $LATEST_TAG HEAD --diff-filter=D | grep -E "(icons|styles)/")
 
-# Если были добавлены новые иконки, релизим новую версию пакета
-if [ -z "$CHANGED_ICONS" ]
+# Если были изменения, релизим новую версию пакета
+if [ -z "$CHANGES" ]
 then
-    echo "No new icon commits found"
+    echo "No changes found"
 else
-    echo "New icon commits found, publish..."
-    npm i
+    echo $CHANGES
+    echo "Changes found, publish..."
 
-    git config --global user.email "ds@alfabank.ru"
-    git config --global user.name "alfa-bot"
-    git add package-lock.json
-    git commit -m 'chore(*): update package-lock.json'
+    npm ci
 
-    # Если какие-то иконки были удалены, релизим мажорную версию пакета
-    if [ -z "$DELETED_ICONS" ]
+    # Если были мажорные изменения, релизим мажорную версию пакета
+    if [ -z "$MAJOR_CHANGES" ]
     then
+        echo "release-minor"
         npm run release-minor
     else
+        echo "release-major"
         npm run release-major
     fi
 fi
