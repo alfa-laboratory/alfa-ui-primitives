@@ -194,6 +194,10 @@
 		"hex": "#000b1f35",
 		"alias": "backgroundColorNulled"
 	},
+	"dark_specialbg_overlay_fallback": {
+		"rgba": "rgba(7, 7, 7, 1)",
+		"hex": "#070707"
+	},
 	"dark_specialbg_primary_grouped": {
 		"rgba": "rgba(11, 31, 53, 1)",
 		"hex": "#0b1f35",
@@ -489,6 +493,10 @@
 		"hex": "#00ffffff",
 		"alias": "specialBackgroundColorNulled"
 	},
+	"light_specialbg_overlay_fallback": {
+		"rgba": "rgba(92, 92, 92, 1)",
+		"hex": "#5c5c5c"
+	},
 	"light_specialbg_primary_grouped": {
 		"rgba": "rgba(243, 244, 245, 1)",
 		"hex": "#f3f4f5",
@@ -594,6 +602,16 @@
 		"hex": "#ef3124",
 		"alias": "staticBackgroundColorAccent"
 	},
+	"static_bg_dark": {
+		"rgba": "rgba(0, 0, 0, 1)",
+		"hex": "#000000",
+		"deprecated": true
+	},
+	"static_bg_light": {
+		"rgba": "rgba(255, 255, 255, 1)",
+		"hex": "#ffffff",
+		"deprecated": true
+	},
 	"static_bg_primary_dark": {
 		"rgba": "rgba(0, 0, 0, 1)",
 		"hex": "#000000",
@@ -688,15 +706,5 @@
 		"rgba": "rgba(255, 255, 255, 0.4)",
 		"hex": "#66ffffff",
 		"alias": "staticTextColorTertiaryLight"
-	},
-	"static_bg_dark": {
-		"rgba": "rgba(0, 0, 0, 1)",
-		"hex": "#000000",
-		"deprecated": true
-	},
-	"static_bg_light": {
-		"rgba": "rgba(255, 255, 255, 1)",
-		"hex": "#ffffff",
-		"deprecated": true
 	}
 }
