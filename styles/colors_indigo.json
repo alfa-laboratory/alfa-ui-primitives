@@ -196,7 +196,8 @@
 	},
 	"dark_specialbg_overlay_fallback": {
 		"rgba": "rgba(7, 7, 7, 1)",
-		"hex": "#070707"
+		"hex": "#070707",
+		"alias": "specialBackgroundColorOverlayFallback"
 	},
 	"dark_specialbg_primary_grouped": {
 		"rgba": "rgba(11, 31, 53, 1)",
@@ -495,7 +496,8 @@
 	},
 	"light_specialbg_overlay_fallback": {
 		"rgba": "rgba(92, 92, 92, 1)",
-		"hex": "#5c5c5c"
+		"hex": "#5c5c5c",
+		"alias": "specialBackgroundColorOverlayFallback"
 	},
 	"light_specialbg_primary_grouped": {
 		"rgba": "rgba(243, 244, 245, 1)",
