@@ -1,3 +1,13 @@
+<a name="3.19.0"></a>
+# [3.19.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.18.0...v3.19.0) (2022-02-15)
+
+
+### Bug Fixes
+
+* **tokens:** aliases in indigo colors ([#892](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/892)) ([a14d542](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/a14d542))
+
+
+
 <a name="3.18.0"></a>
 # [3.18.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.17.0...v3.18.0) (2022-02-14)
 
