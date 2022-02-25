@@ -48,6 +48,10 @@
 		"rgba": "rgba(72, 87, 103, 1)",
 		"hex": "#485767"
 	},
+	"dark_bg_quaternary_inverted": {
+		"rgba": "rgba(219, 222, 225, 1)",
+		"hex": "#dbdee1"
+	},
 	"dark_bg_secondary": {
 		"rgba": "rgba(35, 53, 73, 1)",
 		"hex": "#233549",
@@ -93,6 +97,10 @@
 		"hex": "#485767",
 		"alias": "borderColorPrimary"
 	},
+	"dark_border_primary_inverted": {
+		"rgba": "rgba(219, 222, 225, 1)",
+		"hex": "#dbdee1"
+	},
 	"dark_border_secondary": {
 		"rgba": "rgba(60, 76, 93, 1)",
 		"hex": "#3c4c5d",
@@ -112,6 +120,14 @@
 		"rgba": "rgba(243, 244, 245, 1)",
 		"hex": "#f3f4f5",
 		"alias": "borderColorTertiaryInverted"
+	},
+	"dark_border_underline": {
+		"rgba": "rgba(109, 121, 134, 1)",
+		"hex": "#6d7986"
+	},
+	"dark_border_underline_inverted": {
+		"rgba": "rgba(182, 188, 195, 1)",
+		"hex": "#b6bcc3"
 	},
 	"dark_graphic_accent": {
 		"rgba": "rgba(239, 49, 36, 1)",
@@ -152,6 +168,10 @@
 		"rgba": "rgba(72, 87, 103, 1)",
 		"hex": "#485767"
 	},
+	"dark_graphic_quaternary_inverted": {
+		"rgba": "rgba(219, 222, 225, 1)",
+		"hex": "#dbdee1"
+	},
 	"dark_graphic_secondary": {
 		"rgba": "rgba(182, 188, 195, 1)",
 		"hex": "#b6bcc3",
@@ -167,10 +187,18 @@
 		"hex": "#6d7986",
 		"alias": "graphicColorTertiary"
 	},
+	"dark_graphic_tertiary_inverted": {
+		"rgba": "rgba(182, 188, 195, 1)",
+		"hex": "#b6bcc3"
+	},
 	"dark_specialbg_component": {
 		"rgba": "rgba(255, 255, 255, 0.15)",
 		"hex": "#26ffffff",
 		"alias": "backgroundColorComponent"
+	},
+	"dark_specialbg_component_inverted": {
+		"rgba": "rgba(11, 31, 53, 0.07)",
+		"hex": "#120b1f35"
 	},
 	"dark_specialbg_nulled": {
 		"rgba": "rgba(11, 31, 53, 0)",
@@ -211,6 +239,14 @@
 		"rgba": "rgba(72, 87, 103, 1)",
 		"hex": "#485767",
 		"alias": "textColorTertiaryDisabled"
+	},
+	"dark_text_disabled_inverted": {
+		"rgba": "rgba(219, 222, 225, 1)",
+		"hex": "#dbdee1"
+	},
+	"dark_text_disabled_inverted_transparent": {
+		"rgba": "rgba(11, 31, 53, 0.15)",
+		"hex": "#260b1f35"
 	},
 	"dark_text_disabled_transparent": {
 		"rgba": "rgba(255, 255, 255, 0.25)",
@@ -331,6 +367,10 @@
 		"rgba": "rgba(219, 222, 225, 1)",
 		"hex": "#dbdee1"
 	},
+	"light_bg_quaternary_inverted": {
+		"rgba": "rgba(72, 87, 103, 1)",
+		"hex": "#485767"
+	},
 	"light_bg_secondary": {
 		"rgba": "rgba(243, 244, 245, 1)",
 		"hex": "#f3f4f5",
@@ -375,6 +415,10 @@
 		"rgba": "rgba(219, 222, 225, 1)",
 		"hex": "#dbdee1",
 		"alias": "borderColorPrimary"
+	},
+	"light_border_primary_inverted": {
+		"rgba": "rgba(72, 87, 103, 1)",
+		"hex": "#485767"
 	},
 	"light_border_secondary": {
 		"rgba": "rgba(231, 233, 235, 1)",
@@ -445,6 +489,10 @@
 		"rgba": "rgba(219, 222, 225, 1)",
 		"hex": "#dbdee1"
 	},
+	"light_graphic_quaternary_inverted": {
+		"rgba": "rgba(72, 87, 103, 1)",
+		"hex": "#485767"
+	},
 	"light_graphic_secondary": {
 		"rgba": "rgba(109, 121, 134, 1)",
 		"hex": "#6d7986",
@@ -459,6 +507,10 @@
 		"rgba": "rgba(182, 188, 195, 1)",
 		"hex": "#b6bcc3",
 		"alias": "graphicColorTertiary"
+	},
+	"light_graphic_tertiary_inverted": {
+		"rgba": "rgba(109, 121, 134, 1)",
+		"hex": "#6d7986"
 	},
 	"light_specialbg_component": {
 		"rgba": "rgba(11, 31, 53, 0.07)",
@@ -509,6 +561,14 @@
 		"rgba": "rgba(219, 222, 225, 1)",
 		"hex": "#dbdee1",
 		"alias": "textColorDisabled"
+	},
+	"light_text_disabled_inverted": {
+		"rgba": "rgba(72, 87, 103, 1)",
+		"hex": "#485767"
+	},
+	"light_text_disabled_inverted_transparent": {
+		"rgba": "rgba(255, 255, 255, 0.25)",
+		"hex": "#40ffffff"
 	},
 	"light_text_disabled_transparent": {
 		"rgba": "rgba(11, 31, 53, 0.15)",
@@ -595,6 +655,14 @@
 		"hex": "#ffffff",
 		"alias": "staticBackgroundColorPrimaryLight"
 	},
+	"static_bg_quaternary_dark": {
+		"rgba": "rgba(72, 87, 103, 1)",
+		"hex": "#485767"
+	},
+	"static_bg_quaternary_light": {
+		"rgba": "rgba(219, 222, 225, 1)",
+		"hex": "#dbdee1"
+	},
 	"static_bg_secondary_dark": {
 		"rgba": "rgba(35, 53, 73, 1)",
 		"hex": "#233549",
@@ -604,6 +672,14 @@
 		"rgba": "rgba(243, 244, 245, 1)",
 		"hex": "#f3f4f5",
 		"alias": "staticBackgroundColorSecondaryLight"
+	},
+	"static_bg_tertiary_dark": {
+		"rgba": "rgba(60, 76, 93, 1)",
+		"hex": "#3c4c5d"
+	},
+	"static_bg_tertiary_light": {
+		"rgba": "rgba(231, 233, 235, 1)",
+		"hex": "#e7e9eb"
 	},
 	"static_border_accent": {
 		"rgba": "rgba(239, 49, 36, 1)",
