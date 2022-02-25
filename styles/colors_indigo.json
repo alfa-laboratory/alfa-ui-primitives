@@ -755,15 +755,5 @@
 		"rgba": "rgba(255, 255, 255, 0.4)",
 		"hex": "#66ffffff",
 		"alias": "staticTextColorTertiaryLight"
-	},
-	"static_bg_dark": {
-		"rgba": "rgba(0, 0, 0, 1)",
-		"hex": "#000000",
-		"deprecated": true
-	},
-	"static_bg_light": {
-		"rgba": "rgba(255, 255, 255, 1)",
-		"hex": "#ffffff",
-		"deprecated": true
 	}
 }
