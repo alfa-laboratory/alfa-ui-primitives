@@ -19,11 +19,6 @@
 		"hex": "#35110d",
 		"alias": "backgroundColorNegativeMuted"
 	},
-	"dark_bg_neutral": {
-		"rgba": "rgba(58, 58, 60, 1)",
-		"hex": "#3a3a3c",
-		"alias": "backgroundColorNeutral"
-	},
 	"dark_bg_opaque": {
 		"rgba": "rgba(255, 255, 255, 0.8)",
 		"hex": "#ccffffff",
@@ -48,6 +43,10 @@
 		"rgba": "rgba(255, 255, 255, 1)",
 		"hex": "#ffffff",
 		"alias": "backgroundColorPrimaryInverted"
+	},
+	"dark_bg_quaternary": {
+		"rgba": "rgba(58, 58, 60, 1)",
+		"hex": "#3a3a3c"
 	},
 	"dark_bg_secondary": {
 		"rgba": "rgba(32, 32, 34, 1)",
@@ -80,8 +79,8 @@
 		"alias": "borderColorKey"
 	},
 	"dark_border_key_inverted": {
-		"rgba": "rgba(18, 18, 18, 1)",
-		"hex": "#121212",
+		"rgba": "rgba(0, 0, 0, 1)",
+		"hex": "#000000",
 		"alias": "borderColorKeyInverted"
 	},
 	"dark_border_primary": {
@@ -129,11 +128,6 @@
 		"hex": "#d91d0b",
 		"alias": "graphicColorNegative"
 	},
-	"dark_graphic_neutral": {
-		"rgba": "rgba(42, 42, 44, 1)",
-		"hex": "#2a2a2c",
-		"alias": "graphicColorNeutral"
-	},
 	"dark_graphic_positive": {
 		"rgba": "rgba(47, 194, 110, 1)",
 		"hex": "#2fc26e",
@@ -145,9 +139,13 @@
 		"alias": "graphicColorPrimary"
 	},
 	"dark_graphic_primary_inverted": {
-		"rgba": "rgba(18, 18, 18, 1)",
-		"hex": "#121212",
+		"rgba": "rgba(0, 0, 0, 1)",
+		"hex": "#000000",
 		"alias": "graphicColorPrimaryInverted"
+	},
+	"dark_graphic_quaternary": {
+		"rgba": "rgba(42, 42, 44, 1)",
+		"hex": "#2a2a2c"
 	},
 	"dark_graphic_secondary": {
 		"rgba": "rgba(141, 141, 147, 1)",
@@ -289,11 +287,6 @@
 		"hex": "#fbe8e7",
 		"alias": "backgroundColorNegativeMuted"
 	},
-	"light_bg_neutral": {
-		"rgba": "rgba(220, 220, 221, 1)",
-		"hex": "#dcdcdd",
-		"alias": "backgroundColorNeutral"
-	},
 	"light_bg_opaque": {
 		"rgba": "rgba(255, 255, 255, 0.8)",
 		"hex": "#ccffffff",
@@ -318,6 +311,10 @@
 		"rgba": "rgba(18, 18, 18, 1)",
 		"hex": "#121212",
 		"alias": "backgroundColorPrimaryInverted"
+	},
+	"light_bg_quaternary": {
+		"rgba": "rgba(220, 220, 221, 1)",
+		"hex": "#dcdcdd"
 	},
 	"light_bg_secondary": {
 		"rgba": "rgba(243, 244, 245, 1)",
@@ -399,11 +396,6 @@
 		"hex": "#f15045",
 		"alias": "graphicColorNegative"
 	},
-	"light_graphic_neutral": {
-		"rgba": "rgba(220, 220, 221, 1)",
-		"hex": "#dcdcdd",
-		"alias": "graphicColorNeutral"
-	},
 	"light_graphic_positive": {
 		"rgba": "rgba(47, 194, 110, 1)",
 		"hex": "#2fc26e",
@@ -418,6 +410,10 @@
 		"rgba": "rgba(255, 255, 255, 1)",
 		"hex": "#ffffff",
 		"alias": "graphicColorPrimaryInverted"
+	},
+	"light_graphic_quaternary": {
+		"rgba": "rgba(220, 220, 221, 1)",
+		"hex": "#dcdcdd"
 	},
 	"light_graphic_secondary": {
 		"rgba": "rgba(138, 138, 142, 1)",
@@ -544,16 +540,6 @@
 		"hex": "#ef3124",
 		"alias": "staticBackgroundColorAccent"
 	},
-	"static_bg_neutral_dark": {
-		"rgba": "rgba(58, 58, 60, 1)",
-		"hex": "#3a3a3c",
-		"alias": "staticBackgroundColorNeutralDark"
-	},
-	"static_bg_neutral_light": {
-		"rgba": "rgba(220, 220, 221, 1)",
-		"hex": "#dcdcdd",
-		"alias": "staticBackgroundColorNeutralLight"
-	},
 	"static_bg_primary_dark": {
 		"rgba": "rgba(18, 18, 18, 1)",
 		"hex": "#121212",
@@ -563,6 +549,14 @@
 		"rgba": "rgba(255, 255, 255, 1)",
 		"hex": "#ffffff",
 		"alias": "staticBackgroundColorPrimaryLight"
+	},
+	"static_bg_quaternary_dark": {
+		"rgba": "rgba(58, 58, 60, 1)",
+		"hex": "#3a3a3c"
+	},
+	"static_bg_quaternary_light": {
+		"rgba": "rgba(220, 220, 221, 1)",
+		"hex": "#dcdcdd"
 	},
 	"static_bg_secondary_dark": {
 		"rgba": "rgba(32, 32, 34, 1)",
