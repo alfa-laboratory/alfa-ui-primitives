@@ -1,3 +1,17 @@
+<a name="3.27.0"></a>
+# [3.27.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.21.0...v3.27.0) (2022-02-28)
+
+
+### Features
+
+* **icons:** add 1 icon ([#898](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/898)) ([fe392f5](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/fe392f5))
+* **icons:** add 1 icon ([#908](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/908)) ([5790342](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/5790342))
+* **icons:** add 2 icons ([#905](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/905)) ([d3da5e3](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/d3da5e3))
+* **icons:** add 3 icons ([#904](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/904)) ([c401d45](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/c401d45))
+* **icons:** add 8 icons ([#903](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/903)) ([af159b1](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/af159b1))
+
+
+
 <a name="3.26.0"></a>
 # [3.26.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.25.0...v3.26.0) (2022-02-28)
 
