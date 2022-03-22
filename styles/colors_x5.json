@@ -1,0 +1,10 @@
+{
+	"static_brand_primary": {
+		"rgba": "rgba(95, 175, 45, 1)",
+		"hex": "#5faf2d"
+	},
+	"static_brand_secondary": {
+		"rgba": "rgba(0, 175, 255, 1)",
+		"hex": "#00afff"
+	}
+}
