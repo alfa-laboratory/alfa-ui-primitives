@@ -1,3 +1,13 @@
+<a name="3.30.0"></a>
+# [3.30.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.29.0...v3.30.0) (2022-03-22)
+
+
+### Features
+
+* **tokens:** x5 colors ([#915](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/915)) ([358f43f](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/358f43f))
+
+
+
 <a name="3.29.0"></a>
 # [3.29.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.28.0...v3.29.0) (2022-03-14)
 
