@@ -1,3 +1,13 @@
+<a name="3.31.0"></a>
+# [3.31.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.30.0...v3.31.0) (2022-03-22)
+
+
+### Features
+
+* **tokens:** synced and updated indigo & bluetint colors 🤖 ([#906](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/906)) ([6f59bd7](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/6f59bd7))
+
+
+
 <a name="3.30.0"></a>
 # [3.30.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.29.0...v3.30.0) (2022-03-22)
 
