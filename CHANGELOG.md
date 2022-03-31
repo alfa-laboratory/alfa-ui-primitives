@@ -1,3 +1,13 @@
+<a name="3.36.0"></a>
+# [3.36.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.35.0...v3.36.0) (2022-03-31)
+
+
+### Features
+
+* **icons:** add cny glyph ([#922](https://github.com/alfa-laboratory/alfa-ui-primitives/issues/922)) ([9d51cc4](https://github.com/alfa-laboratory/alfa-ui-primitives/commit/9d51cc4))
+
+
+
 <a name="3.35.0"></a>
 # [3.35.0](https://github.com/alfa-laboratory/alfa-ui-primitives/compare/v3.34.0...v3.35.0) (2022-03-31)
 
