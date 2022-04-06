@@ -778,39 +778,5 @@
 		"rgba": "rgba(255, 255, 255, 0.4)",
 		"hex": "#66ffffff",
 		"alias": "staticTextColorTertiaryLight"
-	},
-	"static_bg_dark": {
-		"rgba": "rgba(0, 0, 0, 1)",
-		"hex": "#000000",
-		"deprecated": true
-	},
-	"static_bg_light": {
-		"rgba": "rgba(255, 255, 255, 1)",
-		"hex": "#ffffff",
-		"deprecated": true
-	},
-	"dark_bg_neutral": {
-		"rgba": "rgba(72, 87, 103, 1)",
-		"hex": "#485767",
-		"alias": "backgroundColorNeutral",
-		"deprecated": true
-	},
-	"dark_graphic_neutral": {
-		"rgba": "rgba(72, 87, 103, 1)",
-		"hex": "#485767",
-		"alias": "graphicColorNeutral",
-		"deprecated": true
-	},
-	"light_bg_neutral": {
-		"rgba": "rgba(219, 222, 225, 1)",
-		"hex": "#dbdee1",
-		"alias": "backgroundColorNeutral",
-		"deprecated": true
-	},
-	"light_graphic_neutral": {
-		"rgba": "rgba(219, 222, 225, 1)",
-		"hex": "#dbdee1",
-		"alias": "graphicColorNeutral",
-		"deprecated": true
 	}
 }

@@ -1,5 +1,5 @@
 {
-  "TextStyle.HeadlineXLarge": {
+  "HeadlineXLarge": {
     "font_size": 40,
     "line_height": 48,
     "line_spacing": 1,
@@ -10,7 +10,7 @@
     "first_baseline_to_top_height": 38,
     "last_baseline_to_bottom_height": 10
   },
-  "TextStyle.HeadlineLarge": {
+  "HeadlineLarge": {
     "font_size": 30,
     "line_height": 36,
     "line_spacing": 0,
@@ -21,7 +21,7 @@
     "first_baseline_to_top_height": 28,
     "last_baseline_to_bottom_height": 8
   },
-  "TextStyle.HeadlineMedium": {
+  "HeadlineMedium": {
     "font_size": 26,
     "line_height": 32,
     "line_spacing": 1,
@@ -32,7 +32,7 @@
     "first_baseline_to_top_height": 25,
     "last_baseline_to_bottom_height": 7
   },
-  "TextStyle.HeadlineSmall": {
+  "HeadlineSmall": {
     "font_size": 20,
     "line_height": 28,
     "line_spacing": 4,
@@ -43,7 +43,7 @@
     "first_baseline_to_top_height": 21,
     "last_baseline_to_bottom_height": 7
   },
-  "TextStyle.HeadlineXSmall": {
+  "HeadlineXSmall": {
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
@@ -54,7 +54,7 @@
     "first_baseline_to_top_height": 17,
     "last_baseline_to_bottom_height": 7
   },
-  "TextStyle.ParagraphPrimaryLarge": {
+  "ParagraphPrimaryLarge": {
     "font_size": 18,
     "line_height": 24,
     "line_spacing": 2,
@@ -65,7 +65,7 @@
     "first_baseline_to_top_height": 17,
     "last_baseline_to_bottom_height": 7
   },
-  "TextStyle.ParagraphPrimaryMedium": {
+  "ParagraphPrimaryMedium": {
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
@@ -76,7 +76,7 @@
     "first_baseline_to_top_height": 17,
     "last_baseline_to_bottom_height": 7
   },
-  "TextStyle.ParagraphPrimarySmall": {
+  "ParagraphPrimarySmall": {
     "font_size": 14,
     "line_height": 20,
     "line_spacing": 3,
@@ -87,7 +87,7 @@
     "first_baseline_to_top_height": 15,
     "last_baseline_to_bottom_height": 5
   },
-  "TextStyle.ParagraphSecondaryLarge": {
+  "ParagraphSecondaryLarge": {
     "font_size": 13,
     "line_height": 20,
     "line_spacing": 4,
@@ -98,7 +98,7 @@
     "first_baseline_to_top_height": 15,
     "last_baseline_to_bottom_height": 5
   },
-  "TextStyle.ParagraphSecondaryMedium": {
+  "ParagraphSecondaryMedium": {
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
@@ -109,7 +109,7 @@
     "first_baseline_to_top_height": 12,
     "last_baseline_to_bottom_height": 4
   },
-  "TextStyle.ParagraphSecondarySmall": {
+  "ParagraphSecondarySmall": {
     "font_size": 11,
     "line_height": 16,
     "line_spacing": 3,
@@ -120,7 +120,7 @@
     "first_baseline_to_top_height": 12,
     "last_baseline_to_bottom_height": 4
   },
-  "TextStyle.ParagraphComponent": {
+  "ParagraphComponent": {
     "font_size": 16,
     "line_height": 20,
     "line_spacing": 1,
@@ -131,7 +131,7 @@
     "first_baseline_to_top_height": 15,
     "last_baseline_to_bottom_height": 5
   },
-  "TextStyle.ParagraphTagline": {
+  "ParagraphTagline": {
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
@@ -142,7 +142,7 @@
     "first_baseline_to_top_height": 12,
     "last_baseline_to_bottom_height": 4
   },
-  "TextStyle.ParagraphCaps": {
+  "ParagraphCaps": {
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
@@ -153,7 +153,7 @@
     "first_baseline_to_top_height": 12,
     "last_baseline_to_bottom_height": 4
   },
-  "TextStyle.AccentPrimaryLarge": {
+  "AccentPrimaryLarge": {
     "font_size": 18,
     "line_height": 24,
     "line_spacing": 2,
@@ -164,7 +164,7 @@
     "first_baseline_to_top_height": 17,
     "last_baseline_to_bottom_height": 7
   },
-  "TextStyle.AccentPrimaryMedium": {
+  "AccentPrimaryMedium": {
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
@@ -175,7 +175,7 @@
     "first_baseline_to_top_height": 17,
     "last_baseline_to_bottom_height": 7
   },
-  "TextStyle.AccentPrimarySmall": {
+  "AccentPrimarySmall": {
     "font_size": 14,
     "line_height": 20,
     "line_spacing": 3,
@@ -186,7 +186,7 @@
     "first_baseline_to_top_height": 15,
     "last_baseline_to_bottom_height": 5
   },
-  "TextStyle.AccentSecondaryLarge": {
+  "AccentSecondaryLarge": {
     "font_size": 13,
     "line_height": 20,
     "line_spacing": 4,
@@ -197,7 +197,7 @@
     "first_baseline_to_top_height": 15,
     "last_baseline_to_bottom_height": 5
   },
-  "TextStyle.AccentSecondaryMedium": {
+  "AccentSecondaryMedium": {
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
@@ -208,7 +208,7 @@
     "first_baseline_to_top_height": 12,
     "last_baseline_to_bottom_height": 4
   },
-  "TextStyle.AccentSecondarySmall": {
+  "AccentSecondarySmall": {
     "font_size": 11,
     "line_height": 16,
     "line_spacing": 3,
@@ -219,7 +219,7 @@
     "first_baseline_to_top_height": 12,
     "last_baseline_to_bottom_height": 4
   },
-  "TextStyle.AccentComponent": {
+  "AccentComponent": {
     "font_size": 16,
     "line_height": 20,
     "line_spacing": 1,
@@ -230,7 +230,7 @@
     "first_baseline_to_top_height": 15,
     "last_baseline_to_bottom_height": 5
   },
-  "TextStyle.AccentTagline": {
+  "AccentTagline": {
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
@@ -241,7 +241,7 @@
     "first_baseline_to_top_height": 12,
     "last_baseline_to_bottom_height": 4
   },
-  "TextStyle.AccentCaps": {
+  "AccentCaps": {
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
@@ -252,7 +252,7 @@
     "first_baseline_to_top_height": 12,
     "last_baseline_to_bottom_height": 4
   },
-  "TextStyle.PromoXLarge": {
+  "PromoXLarge": {
     "font_size": 40,
     "line_height": 48,
     "line_spacing": 1,
@@ -263,7 +263,7 @@
     "first_baseline_to_top_height": 38,
     "last_baseline_to_bottom_height": 10
   },
-  "TextStyle.PromoLarge": {
+  "PromoLarge": {
     "font_size": 30,
     "line_height": 36,
     "line_spacing": 0,
@@ -274,7 +274,7 @@
     "first_baseline_to_top_height": 28,
     "last_baseline_to_bottom_height": 8
   },
-  "TextStyle.PromoMedium": {
+  "PromoMedium": {
     "font_size": 26,
     "line_height": 32,
     "line_spacing": 1,
@@ -285,7 +285,7 @@
     "first_baseline_to_top_height": 25,
     "last_baseline_to_bottom_height": 7
   },
-  "TextStyle.PromoSmall": {
+  "PromoSmall": {
     "font_size": 20,
     "line_height": 28,
     "line_spacing": 4,
@@ -296,7 +296,7 @@
     "first_baseline_to_top_height": 21,
     "last_baseline_to_bottom_height": 7
   },
-  "TextStyle.PromoXSmall": {
+  "PromoXSmall": {
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
@@ -307,7 +307,7 @@
     "first_baseline_to_top_height": 17,
     "last_baseline_to_bottom_height": 7
   },
-  "TextStyle.ActionPrimaryLarge": {
+  "ActionPrimaryLarge": {
     "font_size": 18,
     "line_height": 24,
     "line_spacing": 2,
@@ -318,7 +318,7 @@
     "first_baseline_to_top_height": 17,
     "last_baseline_to_bottom_height": 7
   },
-  "TextStyle.ActionPrimaryMedium": {
+  "ActionPrimaryMedium": {
     "font_size": 16,
     "line_height": 24,
     "line_spacing": 5,
@@ -329,7 +329,7 @@
     "first_baseline_to_top_height": 17,
     "last_baseline_to_bottom_height": 7
   },
-  "TextStyle.ActionPrimarySmall": {
+  "ActionPrimarySmall": {
     "font_size": 14,
     "line_height": 20,
     "line_spacing": 3,
@@ -340,7 +340,7 @@
     "first_baseline_to_top_height": 15,
     "last_baseline_to_bottom_height": 5
   },
-  "TextStyle.ActionSecondaryLarge": {
+  "ActionSecondaryLarge": {
     "font_size": 13,
     "line_height": 20,
     "line_spacing": 4,
@@ -351,7 +351,7 @@
     "first_baseline_to_top_height": 15,
     "last_baseline_to_bottom_height": 5
   },
-  "TextStyle.ActionSecondaryMedium": {
+  "ActionSecondaryMedium": {
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
@@ -362,7 +362,7 @@
     "first_baseline_to_top_height": 12,
     "last_baseline_to_bottom_height": 4
   },
-  "TextStyle.ActionSecondarySmall": {
+  "ActionSecondarySmall": {
     "font_size": 11,
     "line_height": 16,
     "line_spacing": 3,
@@ -373,7 +373,7 @@
     "first_baseline_to_top_height": 12,
     "last_baseline_to_bottom_height": 4
   },
-  "TextStyle.ActionComponent": {
+  "ActionComponent": {
     "font_size": 16,
     "line_height": 20,
     "line_spacing": 1,
@@ -384,7 +384,7 @@
     "first_baseline_to_top_height": 15,
     "last_baseline_to_bottom_height": 5
   },
-  "TextStyle.ActionTagline": {
+  "ActionTagline": {
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
@@ -395,7 +395,7 @@
     "first_baseline_to_top_height": 12,
     "last_baseline_to_bottom_height": 4
   },
-  "TextStyle.ActionCaps": {
+  "ActionCaps": {
     "font_size": 12,
     "line_height": 16,
     "line_spacing": 1,
@@ -405,243 +405,5 @@
     "letter_spacing": 0.1,
     "first_baseline_to_top_height": 12,
     "last_baseline_to_bottom_height": 4
-  },
-  "TextStyle.LegacyXLarge": {
-    "font_size": 40,
-    "line_height": 48,
-    "line_spacing": 1,
-    "line_spacing_extra": 1,
-    "font_family": "roboto_bold",
-    "text_all_caps": false,
-    "letter_spacing": 0,
-    "first_baseline_to_top_height": 0,
-    "last_baseline_to_bottom_height": 0,
-    "deprecated": true
-  },
-  "TextStyle.LegacyLarge": {
-    "font_size": 30,
-    "line_height": 36,
-    "line_spacing": 0,
-    "line_spacing_extra": 1,
-    "font_family": "roboto_bold",
-    "text_all_caps": false,
-    "letter_spacing": 0,
-    "first_baseline_to_top_height": 0,
-    "last_baseline_to_bottom_height": 0,
-    "deprecated": true
-  },
-  "TextStyle.LegacyMedium": {
-    "font_size": 26,
-    "line_height": 32,
-    "line_spacing": 1,
-    "line_spacing_extra": 2,
-    "font_family": "roboto_bold",
-    "text_all_caps": false,
-    "letter_spacing": 0,
-    "first_baseline_to_top_height": 0,
-    "last_baseline_to_bottom_height": 0,
-    "deprecated": true
-  },
-  "TextStyle.LegacySmall": {
-    "font_size": 20,
-    "line_height": 28,
-    "line_spacing": 4,
-    "line_spacing_extra": 5,
-    "font_family": "roboto_bold",
-    "text_all_caps": false,
-    "letter_spacing": 0.01,
-    "first_baseline_to_top_height": 0,
-    "last_baseline_to_bottom_height": 0,
-    "deprecated": true
-  },
-  "TextStyle.LegacyXSmall": {
-    "font_size": 16,
-    "line_height": 24,
-    "line_spacing": 5,
-    "line_spacing_extra": 5,
-    "font_family": "roboto_bold",
-    "text_all_caps": false,
-    "letter_spacing": 0.01,
-    "first_baseline_to_top_height": 0,
-    "last_baseline_to_bottom_height": 0,
-    "deprecated": true
-  },
-  "TextStyle.Heading1": {
-    "alias": "headerL",
-    "font_size": 30,
-    "line_height": 36,
-    "line_spacing": 0,
-    "line_spacing_extra": 1,
-    "font_family": "roboto_bold",
-    "text_all_caps": false,
-    "letter_spacing": 0,
-    "first_baseline_to_top_height": 28,
-    "last_baseline_to_bottom_height": 8,
-    "deprecated": true
-  },
-  "TextStyle.Heading2": {
-    "alias": "headerM",
-    "font_size": 26,
-    "line_height": 32,
-    "line_spacing": 1,
-    "line_spacing_extra": 2,
-    "font_family": "roboto_bold",
-    "text_all_caps": false,
-    "letter_spacing": 0,
-    "first_baseline_to_top_height": 25,
-    "last_baseline_to_bottom_height": 7,
-    "deprecated": true
-  },
-  "TextStyle.Heading3": {
-    "alias": "headerS",
-    "font_size": 20,
-    "line_height": 28,
-    "line_spacing": 4,
-    "line_spacing_extra": 5,
-    "font_family": "roboto_bold",
-    "text_all_caps": false,
-    "letter_spacing": 0.01,
-    "first_baseline_to_top_height": 21,
-    "last_baseline_to_bottom_height": 7,
-    "deprecated": true
-  },
-  "TextStyle.PrimaryParagraph.Regular": {
-    "alias": "bodyText",
-    "font_size": 16,
-    "line_height": 24,
-    "line_spacing": 5,
-    "line_spacing_extra": 5,
-    "font_family": "roboto_regular",
-    "text_all_caps": false,
-    "letter_spacing": 0.01,
-    "first_baseline_to_top_height": 17,
-    "last_baseline_to_bottom_height": 7,
-    "deprecated": true
-  },
-  "TextStyle.PrimaryParagraph.Medium": {
-    "alias": "mediumText",
-    "font_size": 16,
-    "line_height": 24,
-    "line_spacing": 5,
-    "line_spacing_extra": 5,
-    "font_family": "roboto_medium",
-    "text_all_caps": false,
-    "letter_spacing": 0.01,
-    "first_baseline_to_top_height": 17,
-    "last_baseline_to_bottom_height": 7,
-    "deprecated": true
-  },
-  "TextStyle.PrimaryParagraph.Bold": {
-    "alias": "headerXS",
-    "font_size": 16,
-    "line_height": 24,
-    "line_spacing": 5,
-    "line_spacing_extra": 5,
-    "font_family": "roboto_bold",
-    "text_all_caps": false,
-    "letter_spacing": 0.01,
-    "first_baseline_to_top_height": 17,
-    "last_baseline_to_bottom_height": 7,
-    "deprecated": true
-  },
-  "TextStyle.PrimaryComponents.Regular": {
-    "font_size": 16,
-    "line_height": 20,
-    "line_spacing": 1,
-    "line_spacing_extra": 1,
-    "font_family": "roboto_regular",
-    "text_all_caps": false,
-    "letter_spacing": 0.01,
-    "first_baseline_to_top_height": 15,
-    "last_baseline_to_bottom_height": 5,
-    "deprecated": true
-  },
-  "TextStyle.PrimaryComponents.Medium": {
-    "font_size": 16,
-    "line_height": 20,
-    "line_spacing": 1,
-    "line_spacing_extra": 1,
-    "font_family": "roboto_medium",
-    "text_all_caps": false,
-    "letter_spacing": 0.01,
-    "first_baseline_to_top_height": 15,
-    "last_baseline_to_bottom_height": 5,
-    "deprecated": true
-  },
-  "TextStyle.PrimaryComponents.Bold": {
-    "font_size": 16,
-    "line_height": 20,
-    "line_spacing": 1,
-    "line_spacing_extra": 1,
-    "font_family": "roboto_bold",
-    "text_all_caps": false,
-    "letter_spacing": 0.01,
-    "first_baseline_to_top_height": 15,
-    "last_baseline_to_bottom_height": 5,
-    "deprecated": true
-  },
-  "TextStyle.Secondary.Regular": {
-    "alias": "secondaryText",
-    "font_size": 14,
-    "line_height": 20,
-    "line_spacing": 3,
-    "line_spacing_extra": 4,
-    "font_family": "roboto_regular",
-    "text_all_caps": false,
-    "letter_spacing": 0.02,
-    "first_baseline_to_top_height": 15,
-    "last_baseline_to_bottom_height": 5,
-    "deprecated": true
-  },
-  "TextStyle.Secondary.Medium": {
-    "font_size": 14,
-    "line_height": 20,
-    "line_spacing": 3,
-    "line_spacing_extra": 4,
-    "font_family": "roboto_medium",
-    "text_all_caps": false,
-    "letter_spacing": 0.02,
-    "first_baseline_to_top_height": 15,
-    "last_baseline_to_bottom_height": 5,
-    "deprecated": true
-  },
-  "TextStyle.Secondary.Bold": {
-    "alias": "headerXXS",
-    "font_size": 14,
-    "line_height": 20,
-    "line_spacing": 3,
-    "line_spacing_extra": 4,
-    "font_family": "roboto_bold",
-    "text_all_caps": false,
-    "letter_spacing": 0.02,
-    "first_baseline_to_top_height": 15,
-    "last_baseline_to_bottom_height": 5,
-    "deprecated": true
-  },
-  "TextStyle.Tertiary": {
-    "alias": "captionText",
-    "font_size": 12,
-    "line_height": 16,
-    "line_spacing": 1,
-    "line_spacing_extra": 2,
-    "font_family": "roboto_regular",
-    "text_all_caps": false,
-    "letter_spacing": 0.03,
-    "first_baseline_to_top_height": 12,
-    "last_baseline_to_bottom_height": 4,
-    "deprecated": true
-  },
-  "TextStyle.Caption": {
-    "alias": "smallCaps",
-    "font_size": 12,
-    "line_height": 16,
-    "line_spacing": 1,
-    "line_spacing_extra": 2,
-    "font_family": "roboto_medium",
-    "text_all_caps": true,
-    "letter_spacing": 0.12,
-    "first_baseline_to_top_height": 12,
-    "last_baseline_to_bottom_height": 4,
-    "deprecated": true
   }
 }

@@ -65,13 +65,6 @@
     "font_weight": 400,
     "font_family": "var(--font-family-system)"
   },
-  "paragraph_component": {
-    "font_size": 16,
-    "line_height": 20,
-    "font_weight": 400,
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
-  },
   "paragraph_component_primary": {
     "font_size": 16,
     "line_height": 20,
@@ -127,13 +120,6 @@
     "line_height": 16,
     "font_weight": 700,
     "font_family": "var(--font-family-system)"
-  },
-  "accent_component": {
-    "font_size": 16,
-    "line_height": 20,
-    "font_weight": 700,
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
   },
   "accent_component_primary": {
     "font_size": 16,
@@ -220,13 +206,6 @@
     "line_height": 16,
     "font_weight": 500,
     "font_family": "var(--font-family-system)"
-  },
-  "action_component": {
-    "font_size": 16,
-    "line_height": 20,
-    "font_weight": 500,
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
   },
   "action_component_primary": {
     "font_size": 16,
@@ -397,161 +376,5 @@
     "line_height": 22,
     "font_weight": 400,
     "font_family": "var(--font-family-system)"
-  },
-  "legacy_primary_small": {
-    "font_size": 14,
-    "line_height": 18,
-    "font_weight": 400,
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
-  },
-  "system_48-52_bold": {
-    "font_size": 48,
-    "line_height": 52,
-    "font_weight": 700,
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
-  },
-  "system_40-48_bold": {
-    "font_size": 40,
-    "line_height": 48,
-    "font_weight": 700,
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
-  },
-  "system_30-36_bold": {
-    "font_size": 30,
-    "line_height": 36,
-    "font_weight": 700,
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
-  },
-  "system_22-26_bold": {
-    "font_size": 22,
-    "line_height": 26,
-    "font_weight": 700,
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
-  },
-  "system_18-22_bold": {
-    "font_size": 18,
-    "line_height": 22,
-    "font_weight": 700,
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
-  },
-  "system_18-22_regular": {
-    "font_size": 18,
-    "line_height": 22,
-    "font_weight": 400,
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
-  },
-  "system_18-22_medium": {
-    "font_size": 18,
-    "line_height": 22,
-    "font_weight": 500,
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
-  },
-  "system_16-24_regular": {
-    "font_size": 16,
-    "line_height": 24,
-    "font_weight": 400,
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
-  },
-  "system_16-24_medium": {
-    "font_size": 16,
-    "line_height": 24,
-    "font_weight": 500,
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
-  },
-  "system_16-24_bold": {
-    "font_size": 16,
-    "line_height": 24,
-    "font_weight": 700,
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
-  },
-  "system_16-20_regular": {
-    "font_size": 16,
-    "line_height": 20,
-    "font_weight": 400,
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
-  },
-  "system_16-20_medium": {
-    "font_size": 16,
-    "line_height": 20,
-    "font_weight": 500,
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
-  },
-  "system_16-20_bold": {
-    "font_size": 16,
-    "line_height": 20,
-    "font_weight": 700,
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
-  },
-  "system_14-18_regular": {
-    "font_size": 14,
-    "line_height": 18,
-    "font_weight": 400,
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
-  },
-  "system_12-16_medium_caps": {
-    "font_size": 12,
-    "line_height": 16,
-    "font_weight": 500,
-    "letter_spacing": 1.5,
-    "text_transform": "uppercase",
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
-  },
-  "system_12-16_regular": {
-    "font_size": 12,
-    "line_height": 16,
-    "font_weight": 400,
-    "font_family": "var(--font-family-system)",
-    "deprecated": true
-  },
-  "styrene_40-48_medium": {
-    "font_size": 40,
-    "line_height": 48,
-    "font_weight": 500,
-    "font_family": "var(--font-family-styrene)",
-    "deprecated": true
-  },
-  "styrene_32-40_medium": {
-    "font_size": 32,
-    "line_height": 40,
-    "font_weight": 500,
-    "font_family": "var(--font-family-styrene)",
-    "deprecated": true
-  },
-  "styrene_28-34_medium": {
-    "font_size": 28,
-    "line_height": 34,
-    "font_weight": 500,
-    "font_family": "var(--font-family-styrene)",
-    "deprecated": true
-  },
-  "styrene_24-30_medium": {
-    "font_size": 24,
-    "line_height": 30,
-    "font_weight": 500,
-    "font_family": "var(--font-family-styrene)",
-    "deprecated": true
-  },
-  "styrene_20-24_medium": {
-    "font_size": 20,
-    "line_height": 24,
-    "font_weight": 500,
-    "font_family": "var(--font-family-styrene)",
-    "deprecated": true
   }
 }
