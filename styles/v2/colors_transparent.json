@@ -1,0 +1,122 @@
+{
+	"dynamic_primary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.8)",
+		"hex": "#cc000000",
+		"alias": "transparentColorPrimaryDark"
+	},
+	"dynamic_primary_light": {
+		"rgba": "rgba(255, 255, 255, 0.8)",
+		"hex": "#ccffffff",
+		"alias": "transparentColorPrimaryLight"
+	},
+	"dynamic_quaternary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.32)",
+		"hex": "#52000000",
+		"alias": "transparentColorQuaternaryDark"
+	},
+	"dynamic_quaternary_light": {
+		"rgba": "rgba(255, 255, 255, 0.32)",
+		"hex": "#52ffffff",
+		"alias": "transparentColorQuaternaryLight"
+	},
+	"dynamic_quinary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.16)",
+		"hex": "#29000000",
+		"alias": "transparentColorQuinaryDark"
+	},
+	"dynamic_quinary_light": {
+		"rgba": "rgba(255, 255, 255, 0.16)",
+		"hex": "#29ffffff",
+		"alias": "transparentColorQuinaryLight"
+	},
+	"dynamic_secondary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.64)",
+		"hex": "#a3000000",
+		"alias": "transparentColorSecondaryDark"
+	},
+	"dynamic_secondary_light": {
+		"rgba": "rgba(255, 255, 255, 0.64)",
+		"hex": "#a3ffffff",
+		"alias": "transparentColorSecondaryLight"
+	},
+	"dynamic_senary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.12)",
+		"hex": "#1f000000",
+		"alias": "transparentColorSenaryDark"
+	},
+	"dynamic_senary_light": {
+		"rgba": "rgba(255, 255, 255, 0.12)",
+		"hex": "#1fffffff",
+		"alias": "transparentColorSenaryLight"
+	},
+	"dynamic_tertiary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.48)",
+		"hex": "#7a000000",
+		"alias": "transparentColorTertiaryDark"
+	},
+	"dynamic_tertiary_light": {
+		"rgba": "rgba(255, 255, 255, 0.48)",
+		"hex": "#7affffff",
+		"alias": "transparentColorTertiaryLight"
+	},
+	"static_primary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.8)",
+		"hex": "#cc000000",
+		"alias": "staticTransparentColorPrimaryDark"
+	},
+	"static_primary_light": {
+		"rgba": "rgba(255, 255, 255, 0.8)",
+		"hex": "#ccffffff",
+		"alias": "staticTransparentColorPrimaryLight"
+	},
+	"static_quaternary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.32)",
+		"hex": "#52000000",
+		"alias": "staticTransparentColorQuaternaryDark"
+	},
+	"static_quaternary_light": {
+		"rgba": "rgba(255, 255, 255, 0.32)",
+		"hex": "#52ffffff",
+		"alias": "staticTransparentColorQuaternaryLight"
+	},
+	"static_quinary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.16)",
+		"hex": "#29000000",
+		"alias": "staticTransparentColorQuinaryDark"
+	},
+	"static_quinary_light": {
+		"rgba": "rgba(255, 255, 255, 0.16)",
+		"hex": "#29ffffff",
+		"alias": "staticTransparentColorQuinaryLight"
+	},
+	"static_secondary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.64)",
+		"hex": "#a3000000",
+		"alias": "staticTransparentColorSecondaryDark"
+	},
+	"static_secondary_light": {
+		"rgba": "rgba(255, 255, 255, 0.64)",
+		"hex": "#a3ffffff",
+		"alias": "staticTransparentColorSecondaryLight"
+	},
+	"static_senary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.12)",
+		"hex": "#1f000000",
+		"alias": "staticTransparentColorSenaryDark"
+	},
+	"static_senary_light": {
+		"rgba": "rgba(255, 255, 255, 0.12)",
+		"hex": "#1fffffff",
+		"alias": "staticTransparentColorSenaryLight"
+	},
+	"static_tertiary_dark": {
+		"rgba": "rgba(0, 0, 0, 0.48)",
+		"hex": "#7a000000",
+		"alias": "staticTransparentColorTertiaryDark"
+	},
+	"static_tertiary_light": {
+		"rgba": "rgba(255, 255, 255, 0.48)",
+		"hex": "#7affffff",
+		"alias": "staticTransparentColorTertiaryLight"
+	}
+}
